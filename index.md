@@ -6,5 +6,5 @@ description: "RECOMB Conference Proceedings"
 permalink: /
 ---
 
-# RECOMB
+# RECOMB Conference Proceedings
 
