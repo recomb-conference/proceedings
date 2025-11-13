@@ -1,0 +1,24 @@
+# RECOMB 2023 Proceedings
+
+İstanbul, Türkiye, April 16-19  
+PC Chair: [Haixu Tang](https://homes.luddy.indiana.edu/hatang/), Indiana University  
+Organization Committee: Can Alkan (co-chair), Attila Gürsoy (co-chair), Zülal Bingöl, A. Ercüment Çiçek, Tunca Doğan, Ezgi Ebren, Arzucan Özgür, Öznur Taştan  
+Keynote Speakers: İvet Bahar, Ewan Birney, Richard Durbin, Tuuli Lappalainen, Sohini Ramachandran, Fabian Theis  
+
+# List of Publications
+- **VStrains: de novo reconstruction of viral strains via iterative path extraction from assembly graphs**. Runpeng Luo, Yu Lin.
+  - Proceedings: Research in Computational Molecular Biology. RECOMB 2023. Lecture Notes in Computer Science, vol 13976, pp 3-20, Springer, Cham.
+    - DOI: [10.1007/978-3-031-29119-7_1](https://doi.org/10.1007/978-3-031-29119-7_1)
+  - Preprint: [bioRxiv 2022.10.21.513181](https://doi.org/10.1101/2022.10.21.513181)
+  
+- **Spectrum preserving tilings enable sparse and modular reference indexing**. Jason Fan, Jamshed Khan, Giulio Ermanno Pibiri, Robert Patro.
+  - Proceedings: Research in Computational Molecular Biology. RECOMB 2023. Lecture Notes in Computer Science, vol 13976, pp 21-40, Springer, Cham.
+    - DOI: [10.1007/978-3-031-29119-7_2](https://doi.org/10.1007/978-3-031-29119-7_2)
+  - Preprint: [bioRxiv 2022.10.27.513881](https://doi.org/10.1101/2022.10.27.513881)
+
+- **Statistically Consistent Rooting of Species Trees under the Multispecies Coalescent Model**. Yasamin Tabatabaee, Sebastien Roch, Tandy Warnow. 
+  - Proceedings: Research in Computational Molecular Biology. RECOMB 2023. Lecture Notes in Computer Science, vol 13976, pp 41-57, Springer, Cham.
+    - DOI: [10.1007/978-3-031-29119-7_3](https://doi.org/10.1007/978-3-031-29119-7_3)
+  - Preprint: [bioRxiv 2022.10.26.513897](https://doi.org/10.1101/2022.10.26.513897)
+  - Journal: QR-STAR: A Polynomial-Time Statistically Consistent Method for Rooting Species Trees Under the Coalescent, Journal of Computational Biology, 30(11): 1146–1181, 2023
+    - DOI: [10.1089/cmb.2023.0185](https://doi.org/10.1089/cmb.2023.0185)
