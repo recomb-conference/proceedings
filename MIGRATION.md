@@ -1,6 +1,7 @@
 ---
 title: Migration and Upgrading
 layout: default
+nav_exclude: yes
 ---
 
 # Migrating and Upgrading
