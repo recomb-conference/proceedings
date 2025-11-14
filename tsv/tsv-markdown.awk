@@ -40,7 +40,10 @@ else
 			sub(/^arXiv:/, "arXiv.", temp)
 			print "  - Preprint: ["$5"](https://doi.org/10.48550/"temp")"
 		}
-		
+		else if ($5 ~ /hal/)
+		{
+			print "  - Preprint: ["$5"](https://inria.hal.science/"temp")"
+		}		
 	}
 	if ($6 != "" && $6 != "NONE" && $6 != "N/A")
 	{
