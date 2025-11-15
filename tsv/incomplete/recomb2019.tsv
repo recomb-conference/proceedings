@@ -1,0 +1,38 @@
+Authors	RECOMB 2019 Paper Title (Original)	LNCS 11467 Pages	LNCS 11467 DOI	Preprint	Journal Name	Title in Journal Version	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Fatemeh Almodaresi, Prashant Pandey, Michael Ferdman, Rob Johnson, Rob Patro	An Efficient, Scalable and Exact Representation of High-Dimensional Color Information Enabled via de Bruijn Graph Search	1-18	10.1007/978-3-030-17083-7_1							
+Aryan Arbabi, David R. Adams, Sanja Fidler, Michael Brudno	Identifying Clinical Terms in Free-Text Notes Using Ontology-Guided Machine Learning	19-34	10.1007/978-3-030-17083-7_2							
+Philipp Benner, Martin Vingron	ModHMM: A Modular Supra-Bayesian Genome Segmentation Method	35-50	10.1007/978-3-030-17083-7_3							
+Lodewijk Brand, Xue Yang, Kai Liu, Saad Elbeleidy, Hua Wang, Hao Zhang	Learning Robust Multi-label Sample Specific Distances for Identifying HIV-1 Drug Resistance	51-67	10.1007/978-3-030-17083-7_4							
+Boying Gong, Elizabeth Purdom	MethCP: Differentially Methylated Region Detection with Change Point Models	68-84	10.1007/978-3-030-17083-7_5							
+Chirag Jain, Haowen Zhang, Yu Gao, Srinivas Aluru	On the Complexity of Sequence to Graph Alignment	85-100	10.1007/978-3-030-17083-7_6							
+Jonathan D. Jou, Graham T. Holt, Anna U. Lowegard, Bruce R. Donald	Minimization-Aware Recursive  K\*(MARK\*): A Novel, Provable Algorithm that Accelerates Ensemble-Based Protein Design and Provably Approximates the Energy Landscape	101-119	10.1007/978-3-030-17083-7_7							
+Mikhail Karasikov, Harun Mustafa, Amir Joudaki, Sara Javadzadeh-No, Gunnar Rätsch, André Kahles	Sparse Binary Relation Representations for Genome Graph Annotation	120-135	10.1007/978-3-030-17083-7_8							
+Younhun Kim, Frederic Koehler, Ankur Moitra, Elchanan Mossel, Govind Ramnarayan	How Many Subpopulations Is Too Many? Exponential Lower Bounds for Inferring Population Histories	136-157	10.1007/978-3-030-17083-7_9							
+Alan Kuhnle, Taher Mun, Christina Boucher, Travis Gagie, Ben Langmead, Giovanni Manzini	Efficient Construction of a Complete Index for Pan-Genomics Read Alignment	158-173	10.1007/978-3-030-17083-7_10							
+Haoyun Lei, Bochuan Lyu, E. Michael Gertz, Alejandro A. Schäffer, Xulian Shi, Kui Wu, Guibo Li, Liqin Xu, Yong Hou, Michael Dean, Russell Schwartz 	Tumor Copy Number Deconvolution Integrating Bulk and Single-Cell Sequencing Data	174-189	10.1007/978-3-030-17083-7_11							
+Weihua Pan, Tao Jiang, Stefano Lonardi	OMGS: Optical Map-Based Genome Scaffolding	190-207	10.1007/978-3-030-17083-7_12							
+Leonardo Pellegrina, Cinzia Pizzi, Fabio Vandin	Fast Approximation of Frequent k-mers and Applications to Metagenomics	208-226	10.1007/978-3-030-17083-7_13							
+Kristoffer Sahlin, Paul Medvedev	De Novo Clustering of Long-Read Transcriptome Data Using a Greedy, Quality-Value Based Algorithm	227-242	10.1007/978-3-030-17083-7_14							
+Itay Sason, Damian Wojtowicz, Welles Robinson, Mark D. M. Leiserson, Teresa M. Przytycka, Roded Sharan	A Sticky Multinomial Mixture Model of Strand-Coordinated Mutational Processes in Cancer	243-255	10.1007/978-3-030-17083-7_15							
+Ziheng Wang, Grace H. T. Yeo, Richard Sherwood, David Gifford	Disentangled Representations of Cellular Identity	256-271	10.1007/978-3-030-17083-7_16							
+Ye Wu, Ruibang Luo, Henry C. M. Leung, Hing-Fung Ting, Tak-Wah Lam	RENET: A Deep Learning Approach for Extracting Gene-Disease Associations from Literature	272-284	10.1007/978-3-030-17083-7_17							
+Metin Balaban, Shahab Sarmashghi, Siavash Mirarab	APPLES: Fast Distance-Based Phylogenetic Placement	287-288	10.1007/978-3-030-17083-7							
+Bahar Behsaz, Hosein Mohimani, Alexey Gurevich, Andrey Prjibelski, Mark F. Fisher, Larry Smarr, Pieter C. Dorrestein, Joshua S. Mylne, Pavel A. Pevzner	De Novo Peptide Sequencing Reveals a Vast Cyclopeptidome in Human Gut and Other Environments	289-291	10.1007/978-3-030-17083-7							
+Dexiong Chen, Laurent Jacob, Julien Mairal	Biological Sequence Modeling with Convolutional Kernel Networks	292-293	10.1007/978-3-030-17083-7							
+Van Hoan Do, Mislav Blažević, Pablo Monteagudo, Luka Borozan, Khaled Elbassioni, Sören Laue, Francisca Rojas Ringeling, Domagoj Matijević, Stefan Canzar	Dynamic Pseudo-time Warping of Complex Single-Cell Trajectories	294-296	10.1007/978-3-030-17083-7							
+Rebecca Elyanow, Bianca Dumitrascu, Barbara E. Engelhardt, Benjamin J. Raphael	netNMF-sc: A Network Regularization Algorithm for Dimensionality Reduction and Imputation of Single-Cell Expression Data	297-298	10.1007/978-3-030-17083-7							
+Brian Hie, Hyunghoon Cho, Benjamin DeMeo, Bryan Bryson, Bonnie Berger	Geometric Sketching of Single-Cell Data Preserves Transcriptional Structure	299-301	10.1007/978-3-030-17083-7							
+Can Kockan, Kaiyuan Zhu, Natnatee Dokmai, Nikolai Karpov, M. Oguzhan Kulekci, David P. Woodruff, S. Cenk Sahinalp	Sketching Algorithms for Genomic Data Analysis and Querying in a Secure Enclave	302-304	10.1007/978-3-030-17083-7							
+Yunan Luo, Jianzhu Ma, Xiaoming Zhao, Yufeng Su, Yang Liu, Trey Ideker, Jian Peng	Mitigating Data Scarcity in Protein Binding Prediction Using Meta-Learning	305-307	10.1007/978-3-030-17083-7							
+Joel Mefford, Danny Park, Zhili Zheng, Arthur Ko, Mika Ala-Korpela, Markku Laakso, Paivi Pajukanta, Jian Yang, John Witte, Noah Zaitlen	Efficient Estimation and Applications of Cross-Validated Genetic Predictions	308-310	10.1007/978-3-030-17083-7							
+Matthew A. Myers, Gryte Satas, Benjamin J. Raphael	Inferring Tumor Evolution from Longitudinal Samples	311	10.1007/978-3-030-17083-7							
+Ali Pazokitoroudi, Yue Wu, Kathryn S. Burch, Kangcheng Hou, Bogdan Pasaniuc, Sriram Sankararaman	Scalable Multi-component Linear Mixed Models with Application to SNP Heritability Estimation	312-313	10.1007/978-3-030-17083-7							
+Shahab Sarmashghi and Vineet Bafna	A Note on Computing Interval Overlap Statistics	314-315	10.1007/978-3-030-17083-7							
+Mike Thompson, Zeyuan Johnson Chen, Elior Rahmani, Eran Halperin	Distinguishing Biological from Technical Sources of Variation Using a Combination of Methylation Datasets	316-317	10.1007/978-3-030-17083-7							
+Sheng Wang, Emily Flynn, Russ B. Altman	GRep: Gene Set Representation via Gaussian Embedding	318-319	10.1007/978-3-030-17083-7							
+Yijie Wang, Jan Hoinka, Teresa M. Przytycka	Accurate Sub-population Detection and Mapping Across Single Cell Experiments with PopCorn	320-3321	10.1007/978-3-030-17083-7							
+Yue Wu, Anna Yaschenko, Mohammadreza Hajy Heydary, Sriram Sankararaman	Fast Estimation of Genetic Correlation for Biobank-Scale Data	322-323	10.1007/978-3-030-17083-7							
+Jinbo Xu	Distance-Based Protein Folding Powered by Deep Learning	324-325	10.1007/978-3-030-17083-7							
+Yang Yang, Yang Zhang, Bing Ren, Jesse Dixon, Jian Ma	Comparing 3D Genome Organization in Multiple Species Using Phylo-HMRF	326-327	10.1007/978-3-030-17083-7							
+Jesse M. Zhang, Govinda M. Kamath, David N. Tse	Towards a Post-clustering Test for Differential Expression	328-329	10.1007/978-3-030-17083-7							
+Martin J. Zhang, Fei Xia, James Zou	AdaFDR: A Fast, Powerful and Covariate-Adaptive Approach to Multiple Hypothesis Testing 	330-333	10.1007/978-3-030-17083-7							

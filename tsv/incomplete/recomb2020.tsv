@@ -1,0 +1,38 @@
+Authors	RECOMB 2020 Paper Title (Original)	LNCS 12874 Pages	LNCS 12874 DOI	Preprint	Journal Name	Title in Journal Version	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Leonard Bohnenkämper, Marília D. V. Braga, Daniel Doerr, Jens Stoye	Computing the Rearrangement Distance of Natural Genomes	3-18	10.1007/978-3-030-45257-5_1							
+Kamran Ghasedi Dizaji, Wei Chen, Heng Huang	Deep Large-Scale Multi-task Learning Network for Gene Expression Inference	19-36	10.1007/978-3-030-45257-5_2							
+Barış Ekim, Bonnie Berger, Yaron Orenstein	A Randomized Parallel Algorithm for Efficiently Finding Near-Optimal Universal Hitting Sets	37-53	10.1007/978-3-030-45257-5_3							
+Kristen Emery, Syamand Hasam, William Stafford Noble, Uri Keich	Multiple Competition-Based FDR Control and Its Application to Peptide Detection	54-71	10.1007/978-3-030-45257-5_4							
+Songwei Ge, Haohan Wang, Amir Alavi, Eric Xing, Ziv Bar-Joseph	Supervised Adversarial Alignment of Single-Cell RNA-seq Data	72-87	10.1007/978-3-030-45257-5_5							
+Yuzhi Guo, Jiaxiang Wu, Hehuan Ma, Sheng Wang, Junzhou Huang	Bagging MSA Learning: Enhancing Low-Quality PSSM with Deep Learning for Accurate Protein Structure Property Prediction	88-103	10.1007/978-3-030-45257-5_6							
+Pesho Ivanov, Benjamin Bichsel, Harun Mustafa, André Kahles, Gunnar Rätsch, Martin Vechev	AStarix: Fast and Optimal Sequence-to-Graph Alignment	104-119	10.1007/978-3-030-45257-5_7							
+Brandon Legried, Erin K. Molloy, Tandy Warnow, Sébastien Roch	Polynomial-Time Statistical Estimation of Species Trees Under Gene Duplication and Loss	120-135	10.1007/978-3-030-45257-5_8							
+Sneha Mitra, Jianling Zhong, David M. MacAlpine, Alexander J. Hartemink	RoboCOP: Multivariate State Space Model Integrating Epigenomic Accessibility Data to Elucidate Genome-Wide Chromatin Occupancy	136-151	10.1007/978-3-030-45257-5_9							
+Amatur Rahman, Paul Medvedev	Representation of k-mer Sets Using Spectrum-Preserving String Sets	152-168	10.1007/978-3-030-45257-5_10							
+Matthew A. Reyna, Uthsav Chitra, Rebecca Elyanow, Benjamin J. Raphael	NetMix: A Network-Structured Mixture Model for Reduced-Bias Estimation of Altered Subnetworks	169-185	10.1007/978-3-030-45257-5_11							
+Roman Sarrazin-Gendron, Hua-Ting Yao, Vladimir Reinharz, Carlos G. Oliver, Yann Ponty, Jérôme Waldispühl	Stochastic Sampling of Structural Contexts Improves the Scalability and Accuracy of RNA 3D Module Identification	186-201	10.1007/978-3-030-45257-5_12							
+Hongyu Zheng, Carl Kingsford, Guillaume Marçais	Lower Density Selection Schemes via Small Universal Hitting Sets with Short Remaining Path Length	202-217	10.1007/978-3-030-45257-5_13							
+Jasmijn A. Baaijens, Leen Stougie, Alexander Schönhuth	Strain-Aware Assembly of Genomes from Mixed Samples Using Flow Variation Graphs	221-222	10.1007/978-3-030-45257-5_14							
+Tavor Z. Baharav, Govinda M. Kamath, David N. Tse, Ilan Shomorony	Spectral Jaccard Similarity: A New Approach to Estimating Pairwise Sequence Alignments	223-225	10.1007/978-3-030-45257-5_15							
+Anton Bankevich, Pavel Pevzner	MosaicFlye: Resolving Long Mosaic Repeats Using Long Reads	226-228	10.1007/978-3-030-45257-5_16							
+Nico Borgsmüller, Jose Bonet, Francesco Marass, Abel Gonzalez-Perez, Nuria Lopez-Bigas, Niko Beerenwinkel	Bayesian Non-parametric Clustering of Single-Cell Mutation Profiles	229-230	10.1007/978-3-030-45257-5_17							
+Jannis Born, Matteo Manica, Ali Oskooei, Joris Cadow, María Rodríguez Martínez	PaccMannRL: Designing Anticancer Drugs From Transcriptomic Data via Reinforcement Learning	231-233	10.1007/978-3-030-45257-5_18							
+Aritra Bose, Myson C. Burch, Agniva Chowdhury, Peristera Paschou, Petros Drineas	CluStrat: A Structure Informed Clustering Strategy for Population Stratification	234-236	10.1007/978-3-030-45257-5_19							
+Nadav Brandes, Nathan Linial, Michal Linial	PWAS: Proteome-Wide Association Study	237-239	10.1007/978-3-030-45257-5_20							
+Christa Caggiano, Barbara Celona, Fleur Garton, Joel Mefford, Brian Black, Catherine Lomen-Hoerth, Andrew Dahl, Noah Zaitlen	Estimating the Rate of Cell Type Degeneration from Epigenetic Sequencing of Cell-Free DNA	240-242	10.1007/978-3-030-45257-5_21							
+Gizem Caylak, A. Ercument Cicek	Potpourri: An Epistasis Test Prioritization Algorithm via Diverse SNP Selection	243-244	10.1007/978-3-030-45257-5_22							
+Hyunghoon Cho, Sean Simmons, Ryan Kim, Bonnie Berger	Privacy-Preserving Biomedical Database Queries with Optimal Privacy-Utility Trade-Offs	245-247	10.1007/978-3-030-45257-5_23							
+Chao Gao, Joshua D. Welch	Iterative Refinement of Cellular Identity from Single-Cell Data Using Online Learning	248-250	10.1007/978-3-030-45257-5_24							
+Borislav H. Hristov, Bernard Chazelle, Mona Singh	A Guided Network Propagation Approach to Identify Disease Genes that Combines Prior and New Information	251-252	10.1007/978-3-030-45257-5_25							
+Ruth Johnson, Kathryn S. Burch, Kangcheng Hou, Mario Paciuc, Bogdan Pasaniuc, Sriram Sankararaman	A Scalable Method for Estimating the Regional Polygenicity of Complex Traits	253-254	10.1007/978-3-030-45257-5_26							
+Tyler A. Joseph, Amey P. Pasarkar, Itsik Pe’er	Efficient and Accurate Inference of Microbial Trajectories from Longitudinal Count Data	255-256	10.1007/978-3-030-45257-5_27							
+Nathan LaPierre, Kodi Taraszka, Helen Huang, Rosemary He, Farhad Hormozdiari, Eleazar Eskin	Identifying Causal Variants by Fine Mapping Across Multiple Studies	257-258	10.1007/978-3-030-45257-5_28							
+Shuya Li, Fangping Wan, Hantao Shu, Tao Jiang, Dan Zhao, Jianyang Zeng	MONN: A Multi-objective Neural Network for Predicting Pairwise Non-covalent Interactions and Binding Affinities Between Compounds and Proteins	259-260	10.1007/978-3-030-45257-5_29							
+Yunan Luo, Lam Vo, Hantian Ding, Yufeng Su, Yang Liu, Wesley Wei Qian, Huimin Zhao,Jian Peng	Evolutionary Context-Integrated Deep Sequence Modeling for Protein Engineering	261-263	10.1007/978-3-030-45257-5_30							
+Uyen Mai, Siavash Mirarab	Log Transformation Improves Dating of Phylogenies	264-265	10.1007/978-3-030-45257-5_31							
+Brooks Paige, James Bell, Aurélien Bellet, Adrià Gascón, Daphne Ezer	Reconstructing Genotypes in Private Genomic Databases from Genetic Risk Scores	266-268	10.1007/978-3-030-45257-5_32							
+Ahsan Sanaullah, Degui Zhi, Shaojie Zhang	d-PBWT: Dynamic Positional Burrows-Wheeler Transform	269-270	10.1007/978-3-030-45257-5_33							
+Itay Sason, Yuexi Chen, Mark D. M. Leiserson, Roded Sharan	A Mixture Model for Signature Discovery from Sparse Mutation Data	271-272	10.1007/978-3-030-45257-5_34							
+Gryte Satas, Simone Zaccaria, Geoffrey Mon, Benjamin J. Raphael	Single-Cell Tumor Phylogeny Inference with Copy-Number Constrained Mutation Losses	273-273	10.1007/978-3-030-45257-5_35							
+Yijie Wang, Justin M. Fear, Isabelle Berger, Hangnoh Lee, Brian Oliver, Teresa M. Przytycka	Reconstruction of Gene Regulatory Networks by Integrating Biological Model and a Recommendation System	274-275	10.1007/978-3-030-45257-5_36							
+Ruochi Zhang, Jian Ma	Probing Multi-way Chromatin Interaction with Hypergraph Representation Learning	276-277	10.1007/978-3-030-45257-5_37							
