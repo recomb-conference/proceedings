@@ -33,7 +33,7 @@ awk -f tsv-markdown.awk recomb2023.tsv >> ../proceedings/2025-2021/2023.md
 
 ## Using Gemini Deep Research to populate the tables as much as possible.
 
-Here is the prompt we used: [prompt](tools/gemini-prompt.txt).  This is about 70% helpful, the missing entries should be manually filled in.
+Here is the prompt we used: [prompt](tools/gemini-prompt.txt). As the prompt says, you need to upload a TSV file that contains the author names and paper titles (and the LNCS pages and DOI if possible), and a BibTeX file. This file is from Google Scholar and [available here](bibtex/recomb-google-scholar.bib). Gemini is about 70% helpful, the missing entries should be manually filled in.
 
 
 
