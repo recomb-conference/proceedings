@@ -55,7 +55,7 @@ else
 		}
 		else if (preprint ~ /hal/)
 		{
-			print "  - Preprint: ["preprint"](https://inria.hal.science/"temp")"
+			print "  - Preprint: ["preprint"](https://hal.science/"temp")"
 		}		
 	}
 	if (journal != "" && journal != "NONE" && journal != "N/A")
