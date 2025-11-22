@@ -7,3 +7,10 @@ Journal authors: Names of the authors in the journal version.
 Journal volume issue and pages
 Journal publication year
 Journal version DOI.  
+
+
+Gemini 3 corrections:
+
+your table did not follow instructions. I asked for you to provide the full author lists, do not use the "et al.". The Original Authors and the Journal Version Authors should be separated to two different columns, and again do not use "et al". You did not provide the preprint information as I asked, add the bioRxiv or arXiv information for each paper, and leave as NA if you cannot find those. Provide full journal citation, not just the name and the year. For the journal DOI do not just cite the files I provided it to you, give the full DOI for those papers. Also the titles in journal versions are wrong - you hallucinated a lot. For example, the journal version title of the first one DOI for the first line must be Joint Analysis of Long and Short Reads Enables Accurate Estimates of Microbiome Complexity; it is published at Cell Systems, 7(2): 192-200 in 2018. Its DOI is  10.1016/j.cels.2018.06.009. Follow my instructions completely and generate a correct table with no hallucinations
+
+Consolidate all of the results into one sheet. Also add the IDs for bioRxiv and arXiv preprints, most of them are missing. Those should be like "bioRxiv 220236"

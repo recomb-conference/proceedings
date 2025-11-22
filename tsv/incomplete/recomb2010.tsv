@@ -1,0 +1,43 @@
+Authors	RECOMB 2010 Paper Title (Original)	LNCS 6044 Pages	LNCS 6044 DOI	Preprint	Journal Name	Title in Journal Version	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Nir Atias and Roded Sharan	An Algorithmic Framework for Predicting Side-Effects of Drugs	1-14	10.1007/978-3-642-12683-3_1							
+Ferhat Ay and Tamer Kahveci	SubMAP: Aligning Metabolic Pathways with Subnetwork Mappings	15-30	10.1007/978-3-642-12683-3_2							
+Sivan Bercovici and Dan Geiger	Admixture Aberration Analysis: Application to Mapping in Admixed Population Using Pooled DNA	31-49	10.1007/978-3-642-12683-3_3							
+Sivan Bercovici, Itai Sharon, Ron Y. Pinter, Tomer Shlomi	Pathway-Based Functional Analysis of Metagenomes	50-64	10.1007/978-3-642-12683-3_4							
+José Caldas and Samuel Kaski	Hierarchical Generative Biclustering for MicroRNA Expression Analysis	65-79	10.1007/978-3-642-12683-3_5							
+Salim A. Chowdhury, Rod K. Nibbe, Mark R. Chance, Mehmet Koyutürk	Subnetwork State Functions Define Dysregulated Subnetworks in Cancer	80-95	10.1007/978-3-642-12683-3_6							
+Manfred Claassen, Ruedi Aebersold, Joachim M. Buhmann	Proteome Coverage Prediction for Integrated Proteomics Datasets	96-109	10.1007/978-3-642-12683-3_7							
+Timothy Danford, Robin Dowell, Sudeep Agarwala, Paula Grisafi, Gerald Fink, David Gifford	Discovering Regulatory Overlapping RNA Transcripts	110-122	10.1007/978-3-642-12683-3_8							
+Constantinos Daskalakis and Sebastien Roch	Alignment-Free Phylogenetic Reconstruction	123-137	10.1007/978-3-642-12683-3_9							
+Jianxing Feng, Wei Li, Tao Jiang	Inference of Isoforms from Short Sequence Reads	138-157	10.1007/978-3-642-12683-3_10							
+Bjarni V. Halldórsson, Derek Aguiar, Ryan Tarpine, Sorin Istrail	The Clark Phase-able Sample Size Problem: Long-Range Phasing and Loss of Heterozygosity in GWAS	158-173	10.1007/978-3-642-12683-3_11							
+Michael Hirsch, Bernhard Schölkopf, Michael Habeck	A New Algorithm for Improving the Resolution of Cryo-EM Density Maps	174-188	10.1007/978-3-642-12683-3_12							
+Richard Jang, Xin Gao, Ming Li	Towards Automated Structure-Based NMR Resonance Assignment	189-207	10.1007/978-3-642-12683-3_13							
+Kyowon Jeong, Sangtae Kim, Nuno Bandeira, Pavel A. Pevzner	Gapped Spectral Dictionaries and Their Applications for Database Searches of Tandem Mass Spectra	208-232	10.1007/978-3-642-12683-3_14							
+Wei-Chun Kao and Yun S. Song	naive BayesCall: An Efficient Model-Based Base-Calling Algorithm for High-Throughput Sequencing	233-247	10.1007/978-3-642-12683-3_15							
+David R. Kelley and Carl Kingsford	Extracting Between-Pathway Models from E-MAP Interactions Using Expected Graph Compression	248-262	10.1007/978-3-642-12683-3_16							
+Yoo-Ah Kim, Stefan Wuchty, Teresa M. Przytycka	Simultaneous Identification of Causal Genes and Dys-Regulated Pathways in Complex Diseases	263-280	10.1007/978-3-642-12683-3_17							
+Geoffrey Koh, David Hsu, P.S. Thiagarajan	Incremental Signaling Pathway Modeling by Data Integration	281-296	10.1007/978-3-642-12683-3_18							
+Adam Kowalczyk, Justin Bedo, Thomas Conway, Bryan Beresford-Smith	The Poisson Margin Test for Normalisation Free Significance Analysis of NGS Data	297-309	10.1007/978-3-642-12683-3_19							
+Christos Kozanitis, Chris Saunders, Semyon Kruglyak, Vineet Bafna, George Varghese	Compressing Genomic Sequence Fragments Using SLIMGENE	310-324	10.1007/978-3-642-12683-3_20							
+Fumei Lam, Charles H. Langley, Yun S. Song	On the Genealogy of Asexual Diploids	325-340	10.1007/978-3-642-12683-3_21							
+Jonathan Laserson, Vladimir Jojic, Daphne Koller	Genovo: De Novo Assembly for Metagenomes	341-356	10.1007/978-3-642-12683-3_22							
+Seunghak Lee, Eric Xing, Michael Brudno	MOGUL: Detecting Common Insertions and Deletions in a Population	357-368	10.1007/978-3-642-12683-3_23							
+Navodit Misra, Guy Blelloch, R. Ravi, Russell Schwartz	Generalized Buneman Pruning for Inferring the Most Parsimonious Multi-state Phylogeny	369-383	10.1007/978-3-642-12683-3_24							
+Laurent Noé, Marta Gîrdea, Gregory Kucherov	Seed Design Framework for Mapping SOLID Reads	384-396	10.1007/978-3-642-12683-3_25							
+Bogdan Paşaniuc, Noah Zaitlen, Eran Halperin	Accurate Estimation of Expression Levels of Homologous Genes in RNA-seq Experiments	397-409	10.1007/978-3-642-12683-3_26							
+Benedict Paten, Mark Diekhans, Dent Earl, John St. John, Jian Ma, Bernard Suh, David Haussler	Cactus Graphs for Genome Comparisons	410-425	10.1007/978-3-642-12683-3_27							
+Yu Peng, Henry C.M. Leung, S.M. Yiu, Francis Y.L. Chin	IDBA A Practical Iterative de Bruijn Graph De Novo Assembler	426-440	10.1007/978-3-642-12683-3_28							
+Sheila M. Reynolds, Zhiping Weng, Jeff A. Bilmes, William Stafford Noble	Predicting Nucleosome Positioning Using Multiple Evidence Tracks	441-455	10.1007/978-3-642-12683-3_29							
+Barna Saha, Allison Hoch, Samir Khuller, Louiga Raschid, Xiao-Ning Zhang	Dense Subgraphs with Restrictions and Applications to Gene Annotation Graphs	456-472	10.1007/978-3-642-12683-3_30							
+Raheleh Salari, Mathias Möhl, Sebastian Will, S. Cenk Sahinalp, Rolf Backofen	Time and Space Efficient RNA-RNA Interaction Prediction via Sparse Folding	473-490	10.1007/978-3-642-12683-3_31							
+Manu N. Setty, Alexander Gusev, Itsik Pe'er	HLA Type Inference via Haplotypes Identical by Descent	491-505	10.1007/978-3-642-12683-3_32							
+Fabio Vandin, Eli Upfal, Benjamin J. Raphael	Algorithms for Detecting Significantly Mutated Pathways in Cancer	506-521	10.1007/978-3-642-12683-3_33							
+Christian Widmer, Jose Leiva, Yasemin Altun, Gunnar Rätsch	Leveraging Sequence Classification by Taxonomy-Based Multitask Learning	522-534	10.1007/978-3-642-12683-3_34							
+Yu-Wei Wu and Yuzhen Ye	A Novel Abundance-Based Algorithm for Binning Metagenomic Sequences Using ℓ-Tuples	535-549	10.1007/978-3-642-12683-3_35							
+Jianyang Zeng, Pei Zhou, Bruce Randall Donald	A Markov Random Field Framework for Protein Side-Chain Resonance Assignment	550-570	10.1007/978-3-642-12683-3_36							
+Benny Chor, David Horn, Nick Goldman, Yaron Levy, Tim Massingham	Genomic DNA k-mer Spectra: Models and Modalities	571-571	10.1007/978-3-642-12683-3_37							
+Richard Goldstein, Mario dos Reis, Asif Tamuri, Alan Hay	Deciphering the Swine-Flu Pandemics of 1918 and 2009	572-573	10.1007/978-3-642-12683-3_38							
+Raluca Gordân, Alexander J. Hartemink, Martha L. Bulyk	Distinguishing Direct versus Indirect Transcription Factor-DNA Interactions	574-574	10.1007/978-3-642-12683-3_39							
+Jean-Denis Benazet, Mirko Bischofberger, Eva Tiecke, Alexandre Gonalves, James F. Martin, Aime Zuniga, Felix Naef, Rolf Zeller	A Self-regulatory System of Interlinked Signaling Feedback Loops Controls Mouse Limb Patterning	575-576	10.1007/978-3-642-12683-3_40							
+Saumyadipta Pyne, Xinli Hu, Kui Wang, Elizabeth Rossin, Tsung-I Lin, Lisa Maier, Clare Baecher-Allan, Geoffrey McLachlan, Pablo Tamayo, David Hafler, Philip De Jager, Jill Mesirov	Automated High-Dimensional Flow Cytometric Data Analysis	577-577	10.1007/978-3-642-12683-3_41							
+Yonit Halperin, Chaim Linhart, Igor Ulitsky, Ron Shamir	Discovering Transcriptional Modules by Combined Analysis of Expression Profiles and Regulatory Sequences	578-580	10.1007/978-3-642-12683-3_42							

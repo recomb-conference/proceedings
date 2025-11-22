@@ -1,0 +1,36 @@
+Authors	RECOMB 2016 Paper Title (Original)	LNCS 9649 Pages	LNCS 9649 DOI	Preprint	Journal Name	Title in Journal Version	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Chandler Zuo, Kailei Chen, Sündüz Keleş	A MAD-Bayes Algorithm for State-Space Inference and Clustering with Application to Querying Large Collections of ChIP-Seq Data Sets	19-36	10.1007/978-3-319-31957-5_2							
+Hao Wang, Joel McManus, Carl Kingsford	Accurate Recovery of Ribosome Positions Reveals Slow Translation of Wobble-Pairing Codons in Yeast	37-52	10.1007/978-3-319-31957-5_3							
+Meghana Kshirsagar, Jaime G. Carbonell, Judith Klein-Seetharaman, Keerthiram Murugesan	Multitask Matrix Completion for Learning Protein Interactions Across Diseases	53-64	10.1007/978-3-319-31957-5_4							
+Simona Cristea, Jack Kuipers, Niko Beerenwinkel	pathTiMEx: Joint Inference of Mutually Exclusive Cancer Pathways and Their Dependencies in Tumor Progression	65-82	10.1007/978-3-319-31957-5_5							
+Nilgun Donmez, Salem Malikic, Alexander W. Wyatt, Martin E. Gleave, Colin C. Collins, S. Cenk Sahinalp	Clonality Inference from Single Tumor Samples Using Low Coverage Sequence Data	83-94	10.1007/978-3-319-31957-5_6							
+Nicolo Fusi and Jennifer Listgarten	Flexible Modelling of Genetic Effects on Function-Valued Traits	95-110	10.1007/978-3-319-31957-5_7							
+Ahmed Sobih, Alexandru I. Tomescu, Veli Mäkinen	MetaFlow: Metagenomic Profiling Based on Whole-Genome Coverage Analysis with Min-Cost Flows	111-121	10.1007/978-3-319-31957-5_8							
+Mark A. Hallen, Jonathan D. Jou, Bruce R. Donald	LUTE (Local Unpruned Tuple Expansion): Accurate Continuously Flexible Protein Design with General Energy Functions and Rigid-rotamer-like Efficiency	122-136	10.1007/978-3-319-31957-5_9							
+David Pellow, Darya Filippova, Carl Kingsford	Improving Bloom Filter Performance on Sequence Data Using k-mer Bloom Filters	137-151	10.1007/978-3-319-31957-5_10							
+Alexandru I. Tomescu and Paul Medvedev	Safe and Complete Contig Assembly Via Omnitigs	152-163	10.1007/978-3-319-31957-5_11							
+Alexander Artyomenko, Nicholas C. Wu, Serghei Mangul, Eleazar Eskin, Ren Sun, Alex Zelikovsky	Long Single-Molecule Reads Can Resolve the Complexity of the Influenza Virus Composed of Rare, Closely Related Mutant Variants	164-175	10.1007/978-3-319-31957-5_12							
+Kristoffer Sahlin, Mattias Frånberg, Lars Arvestad	Structural Variation Detection with Read Pair Information-An Improved Null-Hypothesis Reduces Bias	176-188	10.1007/978-3-319-31957-5_13							
+Mingfu Shao and Bernard M.E. Moret	On Computing Breakpoint Distances for Genomes with Duplicate Genes	189-203	10.1007/978-3-319-31957-5_14							
+Luis Antonio B. Kowada, Daniel Doerr, Simone Dantas, Jens Stoye	New Genome Similarity Measures Based on Conserved Gene Adjacencies	204-224	10.1007/978-3-319-31957-5_15							
+Constantinos Tsirogiannis and Brody Sandel	Fast Phylogenetic Biodiversity Computations Under a Non-uniform Random Distribution	225-238	10.1007/978-3-319-31957-5_16							
+Joshua D. Welch, Ziqing Liu, Li Wang, Junjie Lu, Paul Lerou, Jeremy Purvis, Li Qian, Alexander Hartemink, Jan F. Prins	SLICER: Inferring Branched, Nonlinear Cellular Trajectories from Single Cell RNA-seq Data	239-240	10.1007/978-3-319-31957-5							
+Chenchen Zou, Yuping Zhang, Zhengqing Ouyang	Multi-track Modeling for Genome-Scale Reconstruction of 3D Chromatin Structure from Hi-C Data	241-241	10.1007/978-3-319-31957-5							
+Yael Steuerman and Irit Gat-Viks	Revealing the Genetic Basis of Immune Traits in the Absence of Experimental Immunophenotyping	242-243	10.1007/978-3-319-31957-5							
+Emre Sefer and Ziv-Bar Joseph	Shall We Dense? Comparing Design Strategies for Time Series Expression Experiments	244-245	10.1007/978-3-319-31957-5							
+Sean Simmons, Cenk Sahinalp, Bonnie Berger	Enabling Privacy Preserving GWAS in Heterogeneous Human Populations	246-247	10.1007/978-3-319-31957-5							
+Victoria Popic and Serafim Batzoglou	Efficient Privacy-Preserving Read Mapping Using Locality Sensitive Hashing and Secure Kmer Voting	248-249	10.1007/978-3-319-31957-5							
+Tommy Hansen and Fabio Vandin	Finding Mutated Subnetworks Associated with Survival in Cancer	250-250	10.1007/978-3-319-31957-5							
+Mohammed El-Kebir, Gryte Satas, Layla Oesper, Benjamin J. Raphael	Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing	251-251	10.1007/978-3-319-31957-5							
+Katharina Jahn, Jack Kuipers, Niko Beerenwinkel	Tree Inference for Single-Cell Data	252-252	10.1007/978-3-319-31957-5							
+Yuqing Yang, Ning Chen, Ting Chen	mLDM: A New Hierarchical Bayesian Statistical Model for Sparse Microbial Association Discovery	253-254	10.1007/978-3-319-31957-5							
+Yunan Luo, Jianyang Zeng, Bonnie Berger, Jian Peng	Low-Density Locality-Sensitive Hashing Boosts Metagenomic Binning	255-257	10.1007/978-3-319-31957-5							
+Sergey Nurk, Dmitry Meleshko, Anton Korobeynikov, Pavel Pevzner	metaSPAdes: A New Versatile de novo Metagenomics Assembler	258-258	10.1007/978-3-319-31957-5							
+Shashank Singh, Sabrina Rashid, Saket Navlakha, Ziv Bar-Joseph	Distributed Gradient Descent in Bacterial Food Search	259-260	10.1007/978-3-319-31957-5							
+Phuong Dao, Jan Hoinka, Yijie Wang, Mayumi Takahashi, Jiehua Zhou, Fabrizio Costa, John Rossi, John Burnett, Rolf Backofen, Teresa M. Przytycka	AptaTRACE: Elucidating Sequence-Structure Binding Motifs by Uncovering Selection Trends in HT-SELEX Experiments	261-262	10.1007/978-3-319-31957-5							
+John Wiedenhoeft, Eric Brugel, Alexander Schliep	Fast Bayesian Inference of Copy Number Variants Using Hidden Markov Models with Wavelet Compression	263-263	10.1007/978-3-319-31957-5							
+Yang Li, Shiguo Zhou, David C. Schwartz, Jian Ma	Allele-Specific Quantification of Structural Variations in Cancer Genomes	264-264	10.1007/978-3-319-31957-5							
+Yu Lin, Max W. Shen, Jeffrey Yuan, Mark Chaisson, Pavel P. Pevzner	Assembly of Long Error-Prone Reads Using de Bruijn Graphs	265-265	10.1007/978-3-319-31957-5							
+Andreas D.M. Gunawan, Bhaskar Das Gupta, Louxin Zhang	Locating a Tree in a Reticulation-Visible Network in Cubic Time	266-266	10.1007/978-3-319-31957-5							
+Somaye Hashemifar, Qixing Huang, Jinbo Xu	Joint Alignment of Multiple Protein-Protein Interaction Networks via Convex Optimization	267-269	10.1007/978-3-319-31957-5							
+Xiuli Ma, Guangyu Zhou, Jingjing Wang, Jian Peng, Jiawei Han	Complexes Detection in Biological Networks via Diversified Dense Subgraphs Mining	270-272	10.1007/978-3-319-31957-5							

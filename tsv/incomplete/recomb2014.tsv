@@ -1,0 +1,36 @@
+Authors	RECOMB 2014 Paper Title (Original)	LNCS 8394 Pages	LNCS 8394 DOI	Preprint	Journal Name	Title in Journal Version	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Derek Aguiar, Eric Morrow, Sorin Istrail	Tractatus: An Exact and Subquadratic Algorithm for Inferring Identical-by-Descent Multi-shared Haplotype Tracts	1-17	10.1007/978-3-319-05269-4_1							
+Emily Berger, Deniz Yorukoglu, Jian Peng, Bonnie Berger	HapTree: A Novel Bayesian Framework for Single Individual Polyplotyping Using NGS Data	18-19	10.1007/978-3-319-05269-4_2							
+Adam Bloniarz, Ameet Talwalkar, Jonathan Terhorst, Michael I. Jordan, David Patterson, Bin Yu, Yun S. Song	Changepoint Analysis for Efficient Variant Calling	20-34	10.1007/978-3-319-05269-4_3							
+Rayan Chikhi, Antoine Limasset, Shaun Jackman, Jared T. Simpson, Paul Medvedev	On the Representation of de Bruijn Graphs	35-55	10.1007/978-3-319-05269-4_4							
+Hamidreza Chitsaz and Mohammad Aminisharifabad	Exact Learning of RNA Energy Parameters from Structure	56-68	10.1007/978-3-319-05269-4_5							
+Chen-Ping Fu, Vladimir Jojic, Leonard McMillan	An Alignment-Free Regression Approach for Estimating Allele-Specific Expression Using RNA-Seq Data	69-84	10.1007/978-3-319-05269-4_6							
+Adrian Guthals, Christina Boucher, Nuno Bandeira	The Generating Function Approach for Peptide Identification in Spectral Networks	85-99	10.1007/978-3-319-05269-4_7							
+Kelley Harris, Sara Sheehan, John A. Kamm, Yun S. Song	Decoding Coalescent Hidden Markov Models in Linear Time	100-114	10.1007/978-3-319-05269-4_8							
+Jan Hoinka, Alexey Berezhnoy, Zuben E. Sauna, Eli Gilboa, Teresa M. Przytycka	AptaCluster A Method to Cluster HT-SELEX Aptamer Pools and Lessons from Its Application	115-128	10.1007/978-3-319-05269-4_9							
+Hetunandan Kamisetty, Bornika Ghosh, Christopher James Langmead, Chris Bailey-Kellogg	Learning Sequence Determinants of Protein: Protein Interaction Specificity with Sparse Graphical Models	129-143	10.1007/978-3-319-05269-4_10							
+Arun S. Konagurthu, Parthan Kasarapu, Lloyd Allison, James H. Collier, Arthur M. Lesk	On Sufficient Statistics of Least-Squares Superposition of Vector Sets	144-159	10.1007/978-3-319-05269-4_11							
+Henry C.M. Leung, S.M. Yiu, Francis Y.L. Chin	IDBA-MTP: A Hybrid Meta Transcriptomic Assembler Based on Protein Information	160-172	10.1007/978-3-319-05269-4_12							
+Jianzhu Ma, Sheng Wang, Zhiyong Wang, Jinbo Xu	MRFalign: Protein Homology Detection through Alignment of Markov Random Fields	173-174	10.1007/978-3-319-05269-4_13							
+Shaun Mahony, Matthew D. Edwards, Esteban O. Mazzoni, Richard I. Sherwood, Akshay Kakumanu, Carolyn A. Morrison, Hynek Wichterle, David K. Gifford	An Integrated Model of Multiple-Condition ChIP-Seq Data Reveals Predeterminants of Cdx2 Binding	175-176	10.1007/978-3-319-05269-4_14							
+Siavash Mirarab, Nam Nguyen, Tandy Warnow	PASTA: Ultra-Large Multiple Sequence Alignment	177-191	10.1007/978-3-319-05269-4_15							
+Arne C. Müller, Frank J. Bruggeman, Brett G. Olivier, Leen Stougie	Fast Flux Module Detection Using Matroid Theory	192-206	10.1007/978-3-319-05269-4_16							
+Ngan Nguyen, Glenn Hickey, Daniel R. Zerbino, Brian Raney, Dent Earl, Joel Armstrong, David Haussler, Benedict Paten	Building a Pangenome Reference for a Population	207-221	10.1007/978-3-319-05269-4_17							
+Keith Noto, Carla Brodley, Saeed Majidi, Diana W. Bianchi, Donna K. Slonim	CSAX: Characterizing Systematic Anomalies in eXpression Data	222-236	10.1007/978-3-319-05269-4_18							
+Murray Patterson, Tobias Marschall, Nadia Pisanti, Leo van Iersel, Leen Stougie, Gunnar W. Klau, Alexander Schönhuth	WHATSHAP: Haplotype Assembly for Future-Generation Sequencing Reads	237-249	10.1007/978-3-319-05269-4_19							
+Benjamin J. Raphael and Fabio Vandin	Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data	250-264	10.1007/978-3-319-05269-4_20							
+Yana Safonova, Anton Bankevich, Pavel A. Pevzner	DIPSPADES: Assembler for Highly Polymorphic Diploid Genomes	265-279	10.1007/978-3-319-05269-4_21							
+Mingfu Shao, Yu Lin, Bernard Moret	An Exact Algorithm to Compute the DCJ Distance for Genomes with Duplicate Genes	280-292	10.1007/978-3-319-05269-4_22							
+Raunak Shrestha, Ermin Hodzic, Jake Yeung, Kendric Wang, Thomas Sauerwald, Phuong Dao, Shawn Anderson, Himisha Beltran, Mark A. Rubin, Colin C. Collins, Gholamreza Haffari, S. Cenk Sahinalp	HIT'nDRIVE: Multidriver -Gene Prioritization Based on Hitting Time	293-306	10.1007/978-3-319-05269-4_23							
+Ewa Szczurek and Niko Beerenwinkel	Modeling Mutual Exclusivity of Cancer Mutations	307-308	10.1007/978-3-319-05269-4_24							
+Armin Töpfer, Tobias Marschall, Rowena A. Bull, Fabio Luciani, Alexander Schönhuth, Niko Beerenwinkel	Viral Quasispecies Assembly via Maximal Clique Enumeration	309-310	10.1007/978-3-319-05269-4_25							
+Hua Wang, Heng Huang, Chris Ding	Correlated Protein Function Prediction via Maximization of Data-Knowledge Consistency	311-325	10.1007/978-3-319-05269-4_26							
+Rui Wang and Scott C. Schmidler	Bayesian Multiple Protein Structure Alignment	326-339	10.1007/978-3-319-05269-4_27							
+Zhanyong Wang, Jae-Hoon Sul, Sagi Snir, Jose A. Lozano, Eleazar Eskin	Gene-Gene Interactions Detection Using a Two-Stage Model	340-355	10.1007/978-3-319-05269-4_28							
+Shutan Xu, Shuxue Zou, Lincong Wang	A Geometric Clustering Algorithm and Its Applications to Structural Data	356-370	10.1007/978-3-319-05269-4_29							
+Wen-Yun Yang, Farhad Hormozdiari, Eleazar Eskin, Bogdan Pasaniuc	A Spatial-Aware Haplotype Copying Model with Applications to Genotype Imputation	371-384	10.1007/978-3-319-05269-4_30							
+Y. William Yu, Deniz Yorukoglu, Bonnie Berger	Traversing the k-mer Landscape of NGS Read Datasets for Quality Score Sparsification	385-399	10.1007/978-3-319-05269-4_31							
+Shay Zakov and Vineet Bafna	Reconstructing Breakage Fusion Bridge Architectures Using Noisy Copy Numbers	400-417	10.1007/978-3-319-05269-4_32							
+Yu Zheng and Louxin Zhang	Reconciliation with Non-binary Gene Trees Revisited	418-432	10.1007/978-3-319-05269-4_33							
+Jianling Zhong, Todd Wasson, Alexander J. Hartemink	Learning Protein-DNA Interaction Landscapes by Integrating Experimental Data through Computational Models	433-447	10.1007/978-3-319-05269-4_34							
+Marinka Žitnik and Blaž Zupan	Imputation of Quantitative Genetic Interactions in Epistatic MAPS by Interaction Propagation Matrix Completion	448-462	10.1007/978-3-319-05269-4_35							

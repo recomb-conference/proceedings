@@ -1,0 +1,37 @@
+Authors	RECOMB 2009 Paper Title (Original)	LNCS 5541 Pages	LNCS 5541 DOI	Preprint	Journal Name	Title in Journal Version	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Tetsuo Shibuya	Searching Protein 3-D Structures in Linear Time	1-15	10.1007/978-3-642-02008-7_1							
+Zengyou He, Chao Yang, Can Yang, Robert Z. Qi, Jason Po-Ming Tam, Weichuan Yu	Optimization-Based Peptide Mass Fingerprinting for Protein Mixture Identification	16-30	10.1007/978-3-642-02008-7_2							
+Jian Peng and Jinbo Xu	Boosting Protein Threading Accuracy	31-45	10.1007/978-3-642-02008-7_3							
+Cedric Chauve and Nadia El-Mabrouk	New Perspectives on Gene Family Evolution: Losses in Reconciliation and a Link with Supertrees	46-58	10.1007/978-3-642-02008-7_4							
+Feng Zhao, Jian Peng, Joe DeBartolo, Karl F. Freed, Tobin R. Sosnick, Jinbo Xu	A Probabilistic Graphical Model for Ab Initio Folding	59-73	10.1007/978-3-642-02008-7_5							
+Sharon Bruckner, Falk Hüffner, Richard M. Karp, Ron Shamir, Roded Sharan	Topology-Free Querying of Protein Interaction Networks	74-89	10.1007/978-3-642-02008-7_6							
+Yong Lu, Roni Rosenfeld, Gerard J. Nau, Ziv Bar-Joseph	Cross Species Expression Analysis of Innate Immune Response	90-107	10.1007/978-3-642-02008-7_7							
+Bonnie Kirkpatrick, Javier Rosa, Eran Halperin, Richard M. Karp	Haplotype Inference in Complex Pedigrees	108-120	10.1007/978-3-642-02008-7_8							
+Veli Mäkinen, Gonzalo Navarro, Jouni Sirén, Niko Välimäki	Storage and Retrieval of Individual Genomes	121-137	10.1007/978-3-642-02008-7_9							
+Arvind Ramanathan, Pratul K. Agarwal, Maria Kurnikova, Christopher J. Langmead	An Online Approach for Mining Collective Behaviors from Molecular Dynamics Simulations	138-154	10.1007/978-3-642-02008-7_10							
+Alexandre Donzé, Gilles Clermont, Axel Legay, Christopher J. Langmead	Parameter Synthesis in Nonlinear Dynamical Systems: Application to Systems Biology	155-169	10.1007/978-3-642-02008-7_11							
+Rami Jaschek and Amos Tanay	Spatial Clustering of Multivariate Genomic and Epigenomic Information	170-183	10.1007/978-3-642-02008-7_12							
+Nicholas D. Pattengale, Masoud Alipour, Olaf R.P. Bininda-Emonds, Bernard M.E. Moret, Alexandros Stamatakis	How Many Bootstrap Replicates Are Necessary?	184-200	10.1007/978-3-642-02008-7_13							
+Oliver Stegle, Katherine Denby, David L. Wild, Zoubin Ghahramani, Karsten M. Borgwardt	A Robust Bayesian Two-Sample Test for Detecting Intervals of Differential Gene Expression in Microarray Time Series	201-216	10.1007/978-3-642-02008-7_14							
+Tali Raveh-Sadka, Michal Levo, Eran Segal	Incorporating Nucleosomes into Thermodynamic Models of Transcription Regulation	217-217	10.1007/978-3-642-02008-7_15							
+Fereydoun Hormozdiari, Can Alkan, Evan E. Eichler, S. Cenk Sahinalp	Combinatorial Algorithms for Structural Variation Detection in High Throughput Sequenced Genomes	218-219	10.1007/978-3-642-02008-7_16							
+Ali Bashir, Qing Lu, Dennis Carson, Benjamin Raphael, Yu-Tsueng Liu, Vineet Bafna	Optimizing PCR Assays for DNA Based Cancer Diagnostics	220-235	10.1007/978-3-642-02008-7_17							
+Dan Gusfield	The Multi-State Perfect Phylogeny Problem with Missing and Removable Data: Solutions via Integer-Programming and Chordal Graph Theory	236-252	10.1007/978-3-642-02008-7_18							
+Xiang Zhang, Feng Pan, Yuying Xie, Fei Zou, Wei Wang	COE: A General Approach for Efficient Genome-Wide Two-Locus Epistasis Test in Disease Association Study	253-269	10.1007/978-3-642-02008-7_19							
+Snehit Prabhu and Itsik Pe'er	Overlapping Pools for High Throughput Targeted Resequencing	270-270	10.1007/978-3-642-02008-7_20							
+Osvaldo Zagordi, Lukas Geyrhofer, Volker Roth, Niko Beerenwinkel	Deep Sequencing of a Genetically Heterogeneous Sample: Local Haplotype Reconstruction and Read Error Correction	271-284	10.1007/978-3-642-02008-7_21							
+Mathias Möhl, Sebastian Will, Rolf Backofen	Lifting Prediction to Alignment of RNA Pseudoknots	285-301	10.1007/978-3-642-02008-7_22							
+Mathieu Lavallée-Adam, Benoit Coulombe, Mathieu Blanchette	Detection of Locally Over-Represented GO Terms in Protein-Protein Interaction Networks	302-320	10.1007/978-3-642-02008-7_23							
+Wei Zheng, Karl E. Griswold, Chris Bailey-Kellogg	Protein Fragment Swapping: A Method for Asymmetric, Selective Site-Directed Recombination	321-338	10.1007/978-3-642-02008-7_24							
+Jérôme Waldispühl, Charles W. O'Donnell, Sebastian Will, Srinivas Devadas, Rolf Backofen, Bonnie Berger	Simultaneous Alignment and Folding of Protein Sequences	339-355	10.1007/978-3-642-02008-7_25							
+Banu Dost, Nuno Bandeira, Xiangqian Li, Zhouxin Shen, Steve Briggs, Vineet Bafna	Shared Peptides in Mass Spectrometry Based Protein Quantification	356-371	10.1007/978-3-642-02008-7_26							
+Benjamin J. Hescott, Maek D.M. Leiserson, Lenore J. Cowen, Donna K. Slonim	Evaluating Between-Pathway Models with Expression Data	372-385	10.1007/978-3-642-02008-7_27							
+Krister M. Swenson, Vaibhav Rajan, Yu Lin, Bernard M.E. Moret	Sorting Signed Permutations by Inversions in O(n log n) Time	386-399	10.1007/978-3-642-02008-7_28							
+Saket Navlakha, James White, Niranjan Nagarajan, Mihai Pop, Carl Kingsford	Finding Biologically Accurate Clusterings in Hierarchical Tree Decompositions Using the Variation of Information	400-417	10.1007/978-3-642-02008-7_29							
+Suzanne S. Sindi and Benjamin J. Raphael	Identification and Frequency Estimation of Inversion Polymorphisms from Haplotype Data	418-433	10.1007/978-3-642-02008-7_30							
+Sheila M. Reynolds, Jeff A. Bilmes, William Stafford Noble	On the Relationship between DNA Periodicity and Local Chromatin Structure	434-450	10.1007/978-3-642-02008-7_31							
+Constantinos Daskalakis, Elchanan Mossel, Sebastien Roch	Phylogenies without Branch Bounds: Contracting the Short, Pruning the Deep	451-465	10.1007/978-3-642-02008-7_32							
+Eun Yong Kang, Ilya Shpitser, Chun Ye, Eleazar Eskin	Detecting the Presence and Absence of Causal Relationships between Expression of Yeast Genes with Very Few Samples	466-481	10.1007/978-3-642-02008-7_33							
+Hyun Min Kang, Noah A. Zaitlen, Buhm Han, Eleazar Eskin	An Adaptive and Memory Efficient Algorithm for Genotype Imputation	482-495	10.1007/978-3-642-02008-7_34							
+Itai Sharon, Amrita Pati, Victor M. Markowitz, Ron Y. Pinter	A Statistical Framework for the Functional Analysis of Metagenomes	496-511	10.1007/978-3-642-02008-7_35							
+Eagu Kim, Travis Wheeler, John Kececioglu	Learning Models for Aligning Protein Sequences with Predicted Secondary Structure	512-532	10.1007/978-3-642-02008-7_36							

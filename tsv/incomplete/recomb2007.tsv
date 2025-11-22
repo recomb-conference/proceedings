@@ -1,0 +1,38 @@
+Authors	RECOMB 2007 Paper Title (Original)	LNCS 4453 Pages	LNCS 4453 DOI	Preprint	Journal Name	Title in Journal Version	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Banu Dost, Tomer Shlomi, Nitin Gupta, Eytan Ruppin, Vineet Bafna, Roded Sharan	QNet: A Tool for Querying Protein Interaction Networks	1-15	10.1007/978-3-540-71681-5_1							
+Rohit Singh, Jinbo Xu, Bonnie Berger	Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology	16-31	10.1007/978-3-540-71681-5_2							
+Allister Bernard, David S. Vaughn, Alexander J. Hartemink	Reconstructing the Topology of Protein Complexes	32-46	10.1007/978-3-540-71681-5_3							
+T.M. Murali and Corban G. Rivera	Network Legos: Building Blocks of Cellular Wiring Diagrams	47-61	10.1007/978-3-540-71681-5_4							
+Abhishek Garg, Ioannis Xenarios, Luis Mendoza, Giovanni DeMicheli	An Efficient Method for Dynamic Analysis of Gene Regulatory Networks and in silico Gene Perturbation Experiments	62-76	10.1007/978-3-540-71681-5_5							
+Eilon Sharon and Eran Segal	A Feature-Based Approach to Modeling Protein-DNA Interactions	77-91	10.1007/978-3-540-71681-5_6							
+Joshua A. Grochow and Manolis Kellis	Network Motif Discovery Using Subgraph Enumeration and Symmetry-Breaking	92-106	10.1007/978-3-540-71681-5_7							
+Leelavati Narlikar, Raluca Gordan, Alexander J. Hartemink	Nucleosome Occupancy Information Improves de novo Motif Discovery	107-121	10.1007/978-3-540-71681-5_8							
+Amir Ben-Dor, Doron Lipson, Anya Tsalenko, Mark Reimers, Lars O. Baumbusch, Michael T. Barrett, John N. Weinstein, Anne-Lise Børresen-Dale, Zohar Yakhini	Framework for Identifying Common Aberrations in DNA Copy Number Data	122-136	10.1007/978-3-540-71681-5_9							
+Wenyi Wang, Benilton Carvalho, Nate Miller, Jonathan Pevsner, Aravinda Chakravarti, Rafael A. Irizarry	Estimating Genome-Wide Copy Number Using Allele Specific Mixture Models	137-150	10.1007/978-3-540-71681-5_10							
+Yanxin Shi, Fan Guo, Wei Wu, Eric P. Xing	GIMscan: A New Statistical Method for Analyzing Whole-Genome Array CGH Data	151-165	10.1007/978-3-540-71681-5_11							
+Hiroyuki Kuwahara and Chris Myers	Production-Passage-Time Approximation: A New Approximation Method to Accelerate the Simulation Process of Enzymatic Reactions	166-180	10.1007/978-3-540-71681-5_12							
+Noah Zaitlen, Manuel Reyes-Gomez, David Heckerman, Nebojsa Jojic	Shift-Invariant Adaptive Double Threading: Learning MHC II - Peptide Binding	181-195	10.1007/978-3-540-71681-5_13							
+Sean O'Rourke, Noah Zaitlen, Nebojsa Jojic, Eleazar Eskin	Reconstructing the Phylogeny of Mobile Elements	196-210	10.1007/978-3-540-71681-5_14							
+Daniel H. Huson and Tobias H. Klöpper	Beyond Galled Trees Decomposition and Computation of Galled Networks	211-225	10.1007/978-3-540-71681-5_15							
+Ydo Wexler and Dan Geiger	Variational Upper Bounds for Probabilistic Phylogenetic Models	226-237	10.1007/978-3-540-71681-5_16							
+Mukul S. Bansal, J. Gordon Burleigh, Oliver Eulenstein, André Wehe	Heuristics for the Gene-Duplication Problem: A Θ(n) Speed-Up for the Local Search	238-252	10.1007/978-3-540-71681-5_17							
+Chun-Nam John Yu, Thorsten Joachims, Ron Elber, Jaroslaw Pillardy	Support Vector Training of Protein Alignment Models	253-267	10.1007/978-3-540-71681-5_18							
+Xinyu Tang, Shawna Thomas, Lydia Tapia, Nancy M. Amato	Tools for Simulating and Analyzing RNA Folding Kinetics	268-282	10.1007/978-3-540-71681-5_19							
+Yue Lu and Sing-Hoi Sze	Multiple Sequence Alignment Based on Profile Alignment of Intermediate Sequences	283-295	10.1007/978-3-540-71681-5_20							
+Joël Pradines, Vlado Dančík, Alan Ruttenberg, Victor Farutin	Connectedness Profiles in Protein Networks for the Analysis of Gene Expression Data	296-310	10.1007/978-3-540-71681-5_21							
+Antonio Piccolboni	Multivariate Segmentation in the Analysis of Transcription Tiling Array Data	311-324	10.1007/978-3-540-71681-5_22							
+Anitha Kannan, Andrew Emili, Brendan J. Frey	A Bayesian Model That Links Microarray mRNA Measurements to Mass Spectrometry Protein Measurements	325-338	10.1007/978-3-540-71681-5_23							
+Michal Ozery-Flato and Ron Shamir	Rearrangements in Genomes with Centromeres Part I: Translocations	339-353	10.1007/978-3-540-71681-5_24							
+Erik Corona, Benjamin Raphael, Eleazar Eskin	Identification of Deletion Polymorphisms from Haplotypes	354-365	10.1007/978-3-540-71681-5_25							
+Hetunandan Kamisetty, Eric P. Xing, Christopher J. Langmead	Free Energy Estimates of All-Atom Protein Structures Using Generalized Belief Propagation	366-380	10.1007/978-3-540-71681-5_26							
+Chen Yanover, Ora Schueler-Furman, Yair Weiss	Minimizing and Learning Energy Functions for Side-Chain Prediction	381-395	10.1007/978-3-540-71681-5_27							
+Anshul Nigham and David Hsu	Protein Conformational Flexibility Analysis with Noisy Data	396-411	10.1007/978-3-540-71681-5_28							
+Yuval Inbar, Dina Schneidman-Duhovny, Oranit Dror, Ruth Nussinov, Haim J. Wolfson	Deterministic Pharmacophore Detection Via Multiple Flexible Alignment of Drug-Like Molecules	412-429	10.1007/978-3-540-71681-5_29							
+Anthony A. Philippakis, Aaron M. Qureshi, Michael F. Berger, Martha L. Bulyk	Design of Compact, Universal DNA Microarrays for Protein Binding Microarray Experiments 	430-443	10.1007/978-3-540-71681-5_30							
+Marshall Bern and David Goldberg	Improved Ranking Functions for Protein and Modification-Site Identifications	444-458	10.1007/978-3-540-71681-5_31							
+Aaron A. Klammer, Xianhua Yi, Michael J. MacCoss, William Stafford Noble	Peptide Retention Time Prediction Yields Improved Tandem Mass Spectrum Identification for Diverse Chromatography Conditions	459-472	10.1007/978-3-540-71681-5_32							
+Ole Schulz-Trieglaff, Rene Hussong, Clemens Gröpl, Andreas Hildebrandt, Knut Reinert	A Fast and Accurate Algorithm for the Quantification of Peptides from Mass Spectrometry Data	473-487	10.1007/978-3-540-71681-5_33							
+Yufeng Wu	Association Mapping of Complex Diseases with Ancestral Recombination Graphs: Models and Efficient Algorithms	488-502	10.1007/978-3-540-71681-5_34							
+Srinath Sridhar, Satish Rao, Eran Halperin	An Efficient and Accurate Graph-Based Approach to Detect Population Substructure	503-517	10.1007/978-3-540-71681-5_35							
+Wah-Heng Lee and Wing-Kin Sung	RB-Finder: An Improved Distance-Based Sliding Window Method to Detect Recombination Breakpoints	518-532	10.1007/978-3-540-71681-5_36							
+Cyrus L. Harmon, Parvez Ahammad, Ann Hammonds, Richard Weiszmann, Susan E. Celniker, S. Shankar Sastry, Gerald M. Rubin	Comparative Analysis of Spatial Patterns of Gene Expression in Drosophila melanogaster Imaginal Discs	533-548	10.1007/978-3-540-71681-5_37							

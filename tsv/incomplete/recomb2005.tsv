@@ -1,0 +1,52 @@
+Authors	RECOMB 2005 Paper Title (Original)	LNCS 3500 Pages	LNCS 3500 DOI	Preprint	Journal Name	Title in Journal Version	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Jacob Scott, Trey Ideker, Richard M. Karp, Roded Sharan	Efficient Algorithms for Detecting Signaling Pathways in Protein Interaction Networks	1-13	10.1007/11415770_1							
+Ariel Jaimovich, Gal Elidan, Hanah Margalit, Nir Friedman	Towards an Integrated Protein-Protein Interaction Network	14-30	10.1007/11415770_2							
+Irit Gat-Viks, Amos Tanay, Daniela Raijman, Ron Shamir	The Factor Graph Network Model for Biological Systems	31-47	10.1007/11415770_3							
+Mehmet Koyutürk, Ananth Grama, Wojciech Szpankowski	Pairwise Local Alignment of Protein Interaction Networks Guided by Models of Evolution	48-65	10.1007/11415770_4							
+Brendan J. Frey, Quaid D. Morris, Mark Robinson, Timothy R. Hughes	Finding Novel Transcripts in High-Resolution Genome-Wide Microarray Data Using the GenRate Model	66-82	10.1007/11415770_5							
+Doron Lipson, Yonatan Aumann, Amir Ben-Dor, Nathan Linial, Zohar Yakhini	Efficient Calculation of Interval Scores for DNA Copy Number Data Analysis	83-100	10.1007/11415770_6							
+Kuen-Pin Wu, Jia-Ming Chang, Jun-Bo Chen, Chi-Fon Chang, Wen-Jin Wu, Tai-Huang Huang, Ting-Yi Sung, Wen-Lian Hsu	RIBRA An Error-Tolerant Algorithm for the NMR Backbone Assignment Problem	103-117	10.1007/11415770_9							
+Marshall Bern, Jindong Chen, Hao Chi Wong	Avoiding Local Optima in Single Particle Reconstruction	118-132	10.1007/11415770_10							
+Chaya Ben-Zaken Zilberstein, Michal Ziv-Ukelson, Ron Y. Pinter, Zohar Yakhini	A High-Throughput Approach for Associating microRNAs with Their Activity Conditions	133-151	10.1007/11415770_11							
+Can Alkan, Emre Karakoç, Joseph H. Nadeau, S. Cenk Şahinalp, Kaizhong Zhang	RNA-RNA Interaction Prediction and Antisense RNA Target Search	152-171	10.1007/11415770_12							
+Vineet Bafna, Haixu Tang, Shaojie Zhang	Consensus Folding of Unaligned RNA Sequences Revisited	172-187	10.1007/11415770_13							
+Kim R. Rasmussen, Jens Stoye, Eugene W. Myers	Efficient q-Gram Filters for Finding All e-Matches over a Given Length	189-203	10.1007/11415770_15							
+Sing-Hoi Sze, Yue Lu, Qingwu Yang	A Polynomial Time Solvable Formulation of Multiple Sequence Alignment	204-216	10.1007/11415770_16							
+Dan Gusfield, Vikas Bansal	A Fundamental Decomposition Theory for Phylogenetic Networks and Incompatible Characters	217-232	10.1007/11415770_17							
+Daniel H. Huson, Tobias Klöpper, Pete J. Lockhart, Mike A. Steel	Reconstruction of Reticulate Networks from Gene Trees	233-249	10.1007/11415770_18							
+Dannie Durand, Bjarni V. Halldórsson, Benjamin Vernot	A Hybrid Micro-macroevolutionary Approach to Gene Tree Reconstruction	250-264	10.1007/11415770_19							
+Trinh N.D. Huynh, Jesper Jansson, Nguyen Bao Nguyen, Wing-Kin Sung	Constructing a Smallest Refining Galled Phylogenetic Network	265-280	10.1007/11415770_20							
+David Burstein, Igor Ulitsky, Tamir Tuller, Benny Chor	Information Theoretic Approaches to Whole Genome Phylogenies	283-295	10.1007/11415770_22							
+Benny Chor, Tamir Tuller	Maximum Likelihood of Evolutionary Trees Is Hard	296-310	10.1007/11415770_23							
+Teresa Przytycka, George Davis, Nan Song, Dannie Durand	Graph Theoretical Insights into Evolution of Multidomain Proteins	311-325	10.1007/11415770_24							
+Ari Frank, Stephen Tanner, Pavel Pevzner	Peptide Sequence Tags for Fast Database Search in Mass-Spectrometry	326-341	10.1007/11415770_25							
+Yunhu Wan, Ting Chen	A Hidden Markov Model Based Scoring Function for Mass Spectrometry Database Search	342-356	10.1007/11415770_26							
+Marshall Bern, David Goldberg	EigenMS: De Novo Analysis of Peptide Tandem Mass Spectra by Spectral Graph Partitioning	357-372	10.1007/11415770_27							
+Samuel S. Gross, Michael R. Brent	Using Multiple Alignments to Improve Gene Prediction	374-388	10.1007/11415770_29							
+S. Sonnenburg, G. Rätsch, C. Schäfer	Learning Interpretable SVMs for Biological Sequence Classification	389-407	10.1007/11415770_30							
+Yan Liu, Jaime Carbonell, Peter Weigele, Vanathi Gopalakrishnan	Segmentation Conditional Random Fields (SCRFs): A New Approach for Protein Fold Recognition	408-422	10.1007/11415770_31							
+Jinbo Xu	Rapid Protein Side-Chain Packing via Tree Decomposition	423-439	10.1007/11415770_32							
+Maxim Shatsky, Alexandra Shulman-Peleg, Ruth Nussinov, Haim J. Wolfson	Recognition of Binding Patterns Common to a Set of Protein Structures	440-455	10.1007/11415770_33							
+Chen Yanover, Tomer Hertz	Predicting Protein-Peptide Binding Affinity by Learning Peptide-Peptide Distance Functions	456-471	10.1007/11415770_34							
+Nicholas Chia, Ralf Bundschuh	A Practical Approach to Significance Assessment in Alignment with Gaps	474-488	10.1007/11415770_36							
+Anton Valouev, Lei Li, Yu-Chi Liu, David C. Schwartz, Yi Yang, Yu Zhang, Michael S. Waterman	Alignment of Optical Maps	489-504	10.1007/11415770_37							
+Chen-Hsiang Yeang, Tommi Jaakkola	Modeling the Combinatorial Functions of Multiple Transcription Factors	506-521	10.1007/11415770_39							
+Tommy Kaplan, Nir Friedman, Hanah Margalit	Predicting Transcription Factor Binding Sites Using Structural Knowledge	522-537	10.1007/11415770_40							
+Manuel Middendorf, Anshul Kundaje, Mihir Shah, Yoav Freund, Chris H. Wiggins, Christina Leslie	Motif Discovery Through Predictive Modeling of Gene Regulation	538-552	10.1007/11415770_41							
+Eran Halperin, Elad Hazan	HAPLOFREQ Estimating Haplotype Frequencies Efficiently	553-568	10.1007/11415770_42							
+Vineet Bafna, Vikas Bansal	Improved Recombination Lower Bounds for Haplotype Data	569-584	10.1007/11415770_43							
+Zhihong Ding, Vladimir Filkov, Dan Gusfield	A Linear-Time Algorithm for the Perfect Phylogeny Haplotyping (PPH) Problem	585-600	10.1007/11415770_44							
+David Sankoff, Matthew Mazowita	Stability of Rearrangement Measures in the Comparison of Genome Sequences	603-614	10.1007/11415770_46							
+Anne Bergeron, Julia Mixtacki, Jens Stoye	On Sorting by Translocations	615-630	10.1007/11415770_47							
+										
+										
+										
+Keynotes										
+Charles DeLisi	Discovery and Annotation of Genetic Modules (Keynote)	188-188	10.1007/11415770_14							
+Dmitri Papatsenko, Mike Levine	A Regulatory Network Controlling Drosophila Development (Keynote)	101-101	10.1007/11415770_7							
+Susan Lindquist, Ernest Fraenkel, Tiago Outeiro, Aaron Gitler, Julie Su, Anil Cashikar, Smitha Jagadish	Yeast Cells as a Discovery Platform for Neurodegenerative Disease (Keynote)	102-102	10.1007/11415770_8							
+Wolfgang Baumeister	Mapping Molecular Landscapes Inside Cells (Keynote)	281-282	10.1007/11415770_21							
+Eric Lander	Biology as Information (Keynote)	373-373	10.1007/11415770_28							
+Jonathan King, Cammie Haase-Pettingell, Ryan Simkovsky, Peter Weigele	Amino Acid Sequence Control of the Folding of the Parallel β-Helix, the Simplest β-Sheet Fold (Keynote) 	472-473	10.1007/11415770_35							
+James J. Collins	Engineering Gene Regulatory Networks: A Reductionist Approach to Systems Biology (Keynote)	505-505	10.1007/11415770_38							
+David Altshuler	Human Genome Sequence Variation and the Inherited Basis of Common Disease (Keynote)	601-602	10.1007/11415770_45							

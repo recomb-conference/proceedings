@@ -1,0 +1,37 @@
+Authors	RECOMB 2015 Paper Title (Original)	LNCS 9029 Pages	LNCS 9029 DOI	Preprint	Journal Name	Title in Journal Version	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Srinivas Aluru, Alberto Apostolico, Sharma V. Thankachan	Efficient Alignment Free Sequence Comparison with Bounded Mismatches	1-12	10.1007/978-3-319-16706-0_1							
+Naama Amir, Dan Cohen, Haim J. Wolfson	DockStar: A Novel ILP Based Integrative Method for Structural Modelling of Multimolecular Protein Complexes	13-15	10.1007/978-3-319-16706-0_2							
+Ilan Ben-Bassat and Benny Chor	CRISPR Detection from Short Reads Using Partial Overlap Graphs	16-27	10.1007/978-3-319-16706-0_3							
+Emily Berger, Deniz Yorukoglu, Bonnie Berger	HapTree-X: An Integrative Bayesian Framework for Haplotype Reconstruction from Transcriptome and Genome Sequencing Data	28-29	10.1007/978-3-319-16706-0_4							
+Alex Bishara, Yuling Liu, Dorna Kashef-Haghighi, Ziming Weng, Daniel E. Newburger, Robert West, Arend Sidow, Serafim Batzoglou	Read Clouds Uncover Variation in Complex Regions of the Human Genome	30-31	10.1007/978-3-319-16706-0_5							
+Surojit Biswas, Meredith McDonald, Derek S. Lundberg, Jeffery L. Dangl, Vladimir Jojic	Learning Microbial Interaction Networks from Metagenomic Count Data	32-43	10.1007/978-3-319-16706-0_6							
+Stefano R. Bonissone and Pavel A. Pevzner	Immunoglobulin Classification Using the Colored Antibody Graph	44-59	10.1007/978-3-319-16706-0_7							
+Stefan Canzar, Sandro Andreotti, David Weese, Knut Reinert, Gunnar W. Klau	CIDANE: Comprehensive Isoform Discovery and Abundance Estimation	60-61	10.1007/978-3-319-16706-0_8							
+Hyunghoon Cho, Bonnie Berger, Jian Peng	Diffusion Component Analysis: Unraveling Functional Topology in Biological Networks	62-64	10.1007/978-3-319-16706-0_9							
+Kai Dührkop and Sebastian Böcker	Fragmentation Trees Reloaded	65-79	10.1007/978-3-319-16706-0_10							
+Rasmus Fonseca, Henry van den Bedem, Julie Bernauer	KGSrna: Efficient 3D Kinematics-Based Sampling for Nucleic Acids	80-95	10.1007/978-3-319-16706-0_11							
+Philippe Gambette, Andreas D.M. Gunawan, Anthony Labarre, Stéphane Vialette, Louxin Zhang	Locating a Tree in a Phylogenetic Network in Quadratic Time	96-107	10.1007/978-3-319-16706-0_12							
+Huichao Gong, Sai Zhang, Jiangdian Wang, Haipeng Gong, Jianyang Zeng	Constructing Structure Ensembles of Intrinsically Disordered Proteins from Chemical Shift Data	108-121	10.1007/978-3-319-16706-0_13							
+Mark A. Hallen and Bruce R. Donald	COMETS (Constrained Optimization of Multistate Energies by Tree Search): A Provable and Efficient Algorithm to Optimize Binding Affinity and Specificity with Respect to Sequence	122-135	10.1007/978-3-319-16706-0_14							
+Jong Wha J. Joo, Eun Yong Kang, Elin Org, Nick Furlotte, Brian Parks, Aldons J. Lusis, Eleazar Eskin	Efficient and Accurate Multiple-Phenotypes Regression Method for High Dimensional Data Considering Population Structure	136-153	10.1007/978-3-319-16706-0_15							
+Jonathan D. Jou, Swati Jain, Ivelin Georgiev, Bruce R. Donald	BWM*: A Novel, Provable, Ensemble-Based Dynamic Programming Algorithm for Sparse Approximations of Computational Protein Design 	154-166	10.1007/978-3-319-16706-0_16							
+Seunghak Lee, Aurélie Lozano, Prabhanjan Kambadur, Eric P. Xing	An Efficient Nonlinear Regression Approach for Genome-wide Detection of Marginal and Interacting Genetic Variations	167-187	10.1007/978-3-319-16706-0_17							
+Sumudu P. Leelananda, Robert L. Jernigan, Andrzej Kloczkowski	Exploration of Designability of Proteins Using Graph Features of Contact Maps: Beyond Lattice Models	188-201	10.1007/978-3-319-16706-0_18							
+Mark D.M. Leiserson, Hsin-Ta Wu, Fabio Vandin, Benjamin J. Raphael	CoMEt: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer	202-204	10.1007/978-3-319-16706-0_19							
+Yifeng Li, Chih-Yu Chen, Wyeth W. Wasserman	Deep Feature Selection: Theory and Application to Identify Enhancers and Promoters	205-217	10.1007/978-3-319-16706-0_20							
+Jianzhu Ma, Sheng Wang, Zhiyong Wang, Jinbo Xu	Protein Contact Prediction by Integrating Joint Evolutionary Coupling Analysis and Supervised Learning	218-221	10.1007/978-3-319-16706-0_21							
+Igor Mandric and Alex Zelikovsky	ScaffMatch: Scaffolding Algorithm Based on Maximum Weight Matching	222-223	10.1007/978-3-319-16706-0_22							
+David Manescu and Uri Keich	A Symmetric Length-Aware Enrichment Test	224-242	10.1007/978-3-319-16706-0_23							
+Arnon Mazza, Allon Wagner, Eytan Ruppin, Roded Sharan	Functional Alignment of Metabolic Networks	243-255	10.1007/978-3-319-16706-0_24							
+Andrew McPherson, Andrew Roth, Cedric Chauve, S. Cenk Sahinalp	Joint Inference of Genome Structure and Content in Heterogeneous Tumor Samples	256-258	10.1007/978-3-319-16706-0_25							
+Nam Nguyen, Siavash Mirarab, Keerthana Kumar, Tandy Warnow	Ultra-Large Alignments Using Ensembles of Hidden Markov Models	259-260	10.1007/978-3-319-16706-0_26							
+Laxmi Parida, Filippo Utro, Deniz Yorukoglu, Anna Paola Carrieri, David Kuhn, Saugata Basu	Topological Signatures for Population Admixture	261-275	10.1007/978-3-319-16706-0_27							
+Roy Ronen, Glenn Tesler, Ali Akbari, Shay Zakov, Noah A. Rosenberg, Vineet Bafna	Haplotype Allele Frequency (HAF) Score: Predicting Carriers of Ongoing Selective Sweeps Without Knowledge of the Adaptive Allele	276-280	10.1007/978-3-319-16706-0_28							
+Leena Salmela, Kristoffer Sahlin, Veli Mäkinen, Alexandru I. Tomescu	Gap Filling as Exact Path Length Problem	281-292	10.1007/978-3-319-16706-0_29							
+Emre Sefer, Geet Duggal, Carl Kingsford	Deconvolution of Ensemble Chromatin Interaction Data Reveals the Latent Mixing Structures in Cell Subpopulations	293-308	10.1007/978-3-319-16706-0_30							
+Mingfu Shao and Bernard M.E. Moret	A Fast and Exact Algorithm for the Exemplar Breakpoint Distance	309-322	10.1007/978-3-319-16706-0_31							
+Maja Temerinac-Ott, Armaghan W. Naik, Robert F. Murphy	Deciding When to Stop: Efficient Experimentation to Learn to Predict Drug-Target Interactions	323-325	10.1007/978-3-319-16706-0_32							
+Fabio Vandin, Benjamin J. Raphael, Eli Upfal	On the Sample Complexity of Cancer Pathways Identification	326-337	10.1007/978-3-319-16706-0_33							
+Roni Wilentzik and Irit Gat-Viks	A Novel Probabilistic Methodology for eQTL Analysis of Signaling Networks	338-339	10.1007/978-3-319-16706-0_34							
+Shuo Yang, Shai Carmi, Itsik Pe'er	Rapidly Registering Identity-by-Descent Across Ancestral Recombination Graphs	340-353	10.1007/978-3-319-16706-0_35							
+Yichao Zhou, Yuexin Wu, Jianyang Zeng	Computational Protein Design Using AND/OR Branch-and-Bound Search	354-366	10.1007/978-3-319-16706-0_36							

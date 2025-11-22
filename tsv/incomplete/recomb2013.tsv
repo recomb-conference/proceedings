@@ -1,0 +1,33 @@
+Authors	RECOMB 2013 Paper Title (Original)	LNCS 7821 Pages	LNCS 7821 DOI	Preprint	Journal Name	Title in Journal Version	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Mukul S. Bansal, Eric J. Alm, Manolis Kellis	Reconciliation Revisited: Handling Multiple Optima When Reconciling with Duplication, Transfer, and Loss	1-13	10.1007/978-3-642-37195-0_1							
+Shijian Chen, Anqi Wang, Lei M. Li	SEME: A Fast Mapper of Illumina Sequencing Reads with Statistical Evaluation	14-29	10.1007/978-3-642-37195-0_2							
+Dong-Yeon Cho and Teresa M. Przytycka	Dissecting Cancer Heterogeneity with a Probabilistic Genotype-Phenotype Model	30-31	10.1007/978-3-642-37195-0_3							
+Itamar Eskin, Farhad Hormozdiari, Lucia Conde, Jacques Riby, Chris Skibola, Eleazar Eskin, Eran Halperin	eALPS: Estimating Abundance Levels in Pooled Sequencing Using Available Genotyping Data	32-44	10.1007/978-3-642-37195-0_4							
+Ali A. Faruqi, William A. Bryant, John W. Pinney	Analysis of Metabolic Evolution in Bacteria Using Whole-Genome Metabolic Models	45-57	10.1007/978-3-642-37195-0_5							
+Fei Guo, Shuai Cheng Li, Wenji Ma, Lusheng Wang	Detecting Protein Conformational Changes in Interactions via Scaling Known Structures	58-74	10.1007/978-3-642-37195-0_6							
+Dan He, Zhanyong Wang, Buhm Han, Laxmi Parida, Eleazar Eskin	IPED: Inheritance Path Based Pedigree Reconstruction Algorithm Using Genotype Data	75-87	10.1007/978-3-642-37195-0_7							
+Jesper Jansson, Chuanqi Shen, Wing-Kin Sung	An Optimal Algorithm for Building the Majority Rule Consensus Tree	88-99	10.1007/978-3-642-37195-0_8							
+Kyowon Jeong, Sangtae Kim, Pavel A. Pevzner	UniNovo: A Universal Tool for de Novo Peptide Sequencing	100-117	10.1007/978-3-642-37195-0_9							
+Emrah Kostem and Eleazar Eskin	Efficiently Identifying Significant Associations in Genome-Wide Association Studies	118-131	10.1007/978-3-642-37195-0_10							
+Xiaowen Liu, Shawna Hengel, Si Wu, Nikola Tolić, Ljiljana Pasa-Tolić, Pavel A. Pevzner	Identification of Ultramodified Proteins Using Top-Down Spectra	132-144	10.1007/978-3-642-37195-0_11							
+Alina Munteanu and Raluca Gordân	Distinguishing between Genomic Regions Bound by Paralogous Transcription Factors	145-157	10.1007/978-3-642-37195-0_12							
+Sergey Nurk, Anton Bankevich, Dmitry Antipov, Alexey Gurevich, Anton Korobeynikov, Alla Lapidus, Andrey Prjibelsky, Alexey Pyshkin, Alexander Sirotkin, Yakov Sirotkin, Ramunas Stepanauskas, Jeffrey McLean, Roger Lasken, Scott R. Clingenpeel, Tanja Woyke, Glenn Tesler, Max A. Alekseyev, Pavel A. Pevzner	Assembling Genomes and Mini-metagenomes from Highly Chimeric Reads	158-170	10.1007/978-3-642-37195-0_13							
+Layla Oesper, Ahmad Mahmoody, Benjamin J. Raphael	Inferring Intra-tumor Heterogeneity from High-Throughput DNA Sequencing Data	171-172	10.1007/978-3-642-37195-0_14							
+Kriti Puniyani and Eric P. Xing	NP-MuScL: Unsupervised Global Prediction of Interaction Networks from Multiple Data Sources	173-185	10.1007/978-3-642-37195-0_15							
+Christopher Reeder and David Gifford	High Resolution Modeling of Chromatin Interactions	186-198	10.1007/978-3-642-37195-0_16							
+Vladimir Reinharz, Yann Ponty, Jérôme Waldispühl	A Linear Inside-Outside Algorithm for Correcting Sequencing Errors in Structured RNAs	199-211	10.1007/978-3-642-37195-0_17							
+Jesse M. Rodriguez, Serafim Batzoglou, Sivan Bercovici	An Accurate Method for Inferring Relatedness in Large Datasets of Unphased Genotypes via an Embedded Likelihood-Ratio Test	212-229	10.1007/978-3-642-37195-0_18							
+Roy Ronen, Nitin Udpa, Eran Halperin, Vineet Bafna	Learning Natural Selection from the Site Frequency Spectrum	230-233	10.1007/978-3-642-37195-0_19							
+Mohammad Javad Sadeh, Giusi Moffa, Rainer Spang	Considering Unknown Unknowns - Reconstruction of Non-confoundable Causal Relations in Biological Networks	234-248	10.1007/978-3-642-37195-0_20							
+Raheleh Salari, Syed Shayon Saleh, Dorna Kashef-Haghighi, David Khavari, Daniel E. Newburger, Robert B. West, Arend Sidow, Serafim Batzoglou	Inference of Tumor Phylogenies with Improved Somatic Mutation Discovery	249-263	10.1007/978-3-642-37195-0_21							
+Evan Senter, Saad Sheikh, Ivan Dotu, Yann Ponty, Peter Clote	Abstract: Using the Fast Fourier Transform to Accelerate the Computational Search for RNA Conformational Switches	264-265	10.1007/978-3-642-37195-0_22							
+Michael Stevens, Jeffrey B. Cheng, Mingchao Xie, Joseph F. Costello, Ting Wang	MethylCRF, an Algorithm for Estimating Absolute Methylation Levels at Single CpG Resolution from Methylation Enrichment and Restriction Enzyme Sequencing Methods	266-268	10.1007/978-3-642-37195-0_23							
+Ngoc Hieu Tran, Kwok Pui Choi, Louxin Zhang	Counting Motifs in the Entire Biological Network from Noisy and Incomplete Data	269-270	10.1007/978-3-642-37195-0_24							
+Chittaranjan Tripathy, Anthony K. Yan, Pei Zhou, Bruce Randall Donald	Extracting Structural Information from Residual Chemical Shift Anisotropy: Analytic Solutions for Peptide Plane Orientations and Applications to Determine Protein Structure	271-284	10.1007/978-3-642-37195-0_25							
+Fabio Vandin, Alexandra Papoutsaki, Benjamin J. Raphael, Eli Upfal	Genome-Wide Survival Analysis of Somatic Mutations in Cancer	285-286	10.1007/978-3-642-37195-0_26							
+Mingxun Wang and Nuno Bandeira	Spectral Library Generating Function for Assessing Spectrum-Spectrum Match Significance	287-288	10.1007/978-3-642-37195-0_27							
+Sebastian Will, Christina Schmiedl, Milad Miladi, Mathias Möhl, Rolf Backofen	SPARSE: Quadratic Time Simultaneous Alignment and Folding of RNAs without Sequence-Based Heuristics	289-290	10.1007/978-3-642-37195-0_28							
+Yufeng Wu	An Algorithm for Constructing Parsimonious Hybridization Networks with Multiple Phylogenetic Trees	291-303	10.1007/978-3-642-37195-0_29							
+Dong Xu, Hua Li, Yang Zhang	Fast and Accurate Calculation of Protein Depth by Euclidean Distance Transform	304-316	10.1007/978-3-642-37195-0_30							
+ZhiZhuo Zhang, Guoliang Li, Kim-Chuan Toh, Wing-Kin Sung	Inference of Spatial Organizations of Chromosomes Using Semi-definite Embedding Approach and Hi-C Data	317-332	10.1007/978-3-642-37195-0_31							
+Lei Deng, Jihong Guan, Xiaoming Wei, Yuan Yi, Shuigeng Zhou	Boosting Prediction Performance of Protein-Protein Interaction Hot Spots by Using Structural Neighborhood Properties	333-344	10.1007/978-3-642-37195-0_32							

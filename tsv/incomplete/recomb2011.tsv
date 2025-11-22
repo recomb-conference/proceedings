@@ -1,0 +1,50 @@
+Authors	RECOMB 2011 Paper Title (Original)	LNCS 6577 Pages	LNCS 6577 DOI	Preprint	Journal Name	Title in Journal Version	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Amnon Amir and Or Zuk	Bacterial Community Reconstruction Using Compressed Sensing	1-15	10.1007/978-3-642-20036-6_1							
+Swapnil Bhatia, Yong J. Kil, Beatrix Ueberheide, Brian Chait, Lemmuel L. Tayo, Lourdes J. Cruz, Bingwen Lu, John R. Yates III, Marshall Bern	Constrained De Novo Sequencing of Peptides with Application to Conotoxins	16-30	10.1007/978-3-642-20036-6_2							
+Leonid Chindelevitch, Aviv Regev, Bonnie Berger	Metabolic Network Analysis Demystified	31-33	10.1007/978-3-642-20036-6_3							
+Leonid Chindelevitch, Daniel Ziemek, Ahmed Enayetallah, Ranjit Randhawa, Ben Sidders, Christoph Brockel, Enoch Huang	Causal Reasoning on Biological Networks: Interpreting Transcriptional Changes	34-37	10.1007/978-3-642-20036-6_4							
+Nilgun Donmez and Michael Brudno	Hapsembler: An Assembler for Highly Polymorphic Genomes	38-52	10.1007/978-3-642-20036-6_5							
+Jason Ernst and Manolis Kellis	Discovery and Characterization of Chromatin States for Systematic Annotation of the Human Genome	53-53	10.1007/978-3-642-20036-6_6							
+Sinan Erten, Gurkan Bebek, Mehmet Koyutürk	Disease Gene Prioritization Based on Topological Similarity in Protein-Protein Interaction Networks	54-68	10.1007/978-3-642-20036-6_7							
+Irit Gat-Viks, Renana Meller, Martin Kupiec, Ron Shamir	Understanding Gene Sequence Variation in the Context of Transcription Regulation in Yeast	69-69	10.1007/978-3-642-20036-6_8							
+Allison P. Heath, George N. Bennett, Lydia E. Kavraki	Identifying Branched Metabolic Pathways by Merging Linear Metabolic Pathways	70-84	10.1007/978-3-642-20036-6_9							
+Glenn Hickey and Mathieu Blanchette	A Probabilistic Model For Sequence Alignment with Context-Sensitive Indels	85-103	10.1007/978-3-642-20036-6_10							
+Fereydoun Hormozdiari, Iman Hajirasouliha, Andrew McPherson, Evan E. Eichler, S. Cenk Sahinalp	Simultaneous Structural Variation Discovery in Multiple Paired-End Sequenced Genomes	104-105	10.1007/978-3-642-20036-6_11							
+Jim C. Huang and Nebojsa Jojic	Variable Selection through Correlation Sifting	106-123	10.1007/978-3-642-20036-6_12							
+Shuai Jiang and Max A. Alekseyev	Weighted Genomic Distance Can Hardly Impose a Bound on the Proportion of Transpositions	124-133	10.1007/978-3-642-20036-6_13							
+Jaebum Kim and Jian Ma	PSAR: Measuring Multiple Sequence Alignment Reliability by Probabilistic Sampling	134-135	10.1007/978-3-642-20036-6_14							
+Bonnie Kirkpatrick, Shuai Cheng Li, Richard M. Karp, Eran Halperin	Pedigree Reconstruction Using Identity by Descent	136-152	10.1007/978-3-642-20036-6_15							
+Sooraj KuttyKrishnan, Jeffrey Sabina, Laura Langton, Mark Johnston, Michael R. Brent	A Quantitative Model of Glucose Signaling in Yeast Reveals an Incoherent Feed Forward Loop Leading to a Specific, Transient Pulse of Transcription	153-153	10.1007/978-3-642-20036-6_16							
+Mark D.M. Leiserson, Diana Tatar, Lenore J. Cowen, Benjamin J. Hescott	Inferring Mechanisms of Compensation from E-MAP and SGA Data Using Local Search Algorithms for Max Cut	154-167	10.1007/978-3-642-20036-6_17							
+Wei Li, Jianxing Feng, Tao Jiang	IsoLasso: A LASSO Regression Approach to RNA-Seq Based Transcriptome Assembly	168-188	10.1007/978-3-642-20036-6_18							
+Xin Li and Jing Li	Haplotype Reconstruction in Large Pedigrees with Many Untyped Individuals	189-203	10.1007/978-3-642-20036-6_19							
+Tien-ho Lin, Ziv Bar-Joseph, Robert F. Murphy	Learning Cellular Sorting Pathways Using Protein Interactions and Sequence Motifs	204-221	10.1007/978-3-642-20036-6_20							
+Jeffrey W. Martin, Anthony K. Yan, Chris Bailey-Kellogg, Pei Zhou, Bruce R. Donald	A Geometric Arrangement Algorithm for Structure Determination of Symmetric Protein Homo-oligomers from NOEs and RDCs	222-237	10.1007/978-3-642-20036-6_21							
+Paul Medvedev, Son Pham, Mark Chaisson, Glenn Tesler, Pavel Pevzner	Paired de Bruijn Graphs: A Novel Approach for Incorporating Mate Pair Information into Genome Assemblers	238-251	10.1007/978-3-642-20036-6_22							
+Navodit Misra, Guy Blelloch, R. Ravi, Russell Schwartz	An Optimization-Based Sampling Scheme for Phylogenetic Trees	252-266	10.1007/978-3-642-20036-6_23							
+Hosein Mohimani, Wei-Ting Liu, Yu-Liang Yang, Susana P. Gaudêncio, William Fenical, Pieter C. Dorrestein, Pavel A. Pevzner	Multiplex De Novo Sequencing of Peptide Antibiotics	267-281	10.1007/978-3-642-20036-6_24							
+Joe Nadeau	Fractal and Transgenerational Genetic Effects on Phenotypic Variation and Disease Risk (Invited Talk)	282-282	10.1007/978-3-642-20036-6_25							
+Daniel Newkirk, Jacob Biesinger, Alvin Chon, Kyoko Yokomori, Xiaohui Xie	AREM: Aligning Short Reads from ChIP-Sequencing by Expectation Maximization	283-297	10.1007/978-3-642-20036-6_26							
+Julio Ng, Amihood Amir, Pavel A. Pevzner	Blocked Pattern Matching Problem and Its Applications in Proteomics	298-319	10.1007/978-3-642-20036-6_27							
+William Noble, Zhi-jun Duan, Mirela Andronescu, Kevin Schutz, Sean McIlwain, Yoo Jung Kim, Choli Lee, Jay Shendure, Stanley Fields, C. Anthony Blau	A Three-Dimensional Model of the Yeast Genome	320-320	10.1007/978-3-642-20036-6_28							
+Andrew S. Parker, Karl E. Griswold, Chris Bailey-Kellogg	Optimization of Combinatorial Mutagenesis	321-335	10.1007/978-3-642-20036-6_29							
+Hanchuan Peng and Fuhui Long	Seeing More Is Knowing More: V3D Enables Real-Time 3D Visualization and Quantitative Analysis of Large-Scale Biological Image Data Sets	336-336	10.1007/978-3-642-20036-6_30							
+Yu Peng, Henry C.M. Leung, S.M. Yiu, Francis Y.L. Chin	T-IDBA: A de novo Iterative de Bruijn Graph Assembler for Transcriptome	337-338	10.1007/978-3-642-20036-6_31							
+Tobias Petri, Robert Küffner, Ralf Zimmer	Experiment Specific Expression Patterns	339-354	10.1007/978-3-642-20036-6_32							
+Yosef Prat, Menachem Fromer, Michal Linial, Nathan Linial	Geometric Interpretation of Gene Expression by Sparse Reconstruction of Transcript Profiles	355-357	10.1007/978-3-642-20036-6_33							
+Shlomi Reuveni, Isaac Meilijson, Martin Kupiec, Eytan Ruppin, Tamir Tuller	A Ribosome Flow Model for Analyzing Translation Elongation	358-360	10.1007/978-3-642-20036-6_34							
+Kyle E. Roberts, Patrick R. Cushing, Prisca Boisguerin, Dean R. Madden, Bruce R. Donald	Design of Protein-Protein Interactions with a Novel Ensemble-Based Scoring Algorithm	361-376	10.1007/978-3-642-20036-6_35							
+Kerstin Scheubert, Franziska Hufsky, Florian Rasche, Sebastian Böcker	Computing Fragmentation Trees from Metabolite Multiple Mass Spectrometry Data	377-391	10.1007/978-3-642-20036-6_36							
+Emre Sefer and Carl Kingsford	Metric Labeling and Semi-metric Embedding for Protein Annotation Prediction	392-407	10.1007/978-3-642-20036-6_37							
+Solomon Shenker, Charles W. O'Donnell, Srinivas Devadas, Bonnie Berger, Jérôme Waldispühl	Efficient Traversal of Beta-Sheet Protein Folding Pathways Using Ensemble Models	408-423	10.1007/978-3-642-20036-6_38							
+Dana Silverbush, Michael Elberfeld, Roded Sharan	Optimally Orienting Physical Networks	424-436	10.1007/978-3-642-20036-6_39							
+Song Gao, Niranjan Nagarajan, Wing-Kin Sung	Opera: Reconstructing Optimal Genomic Scaffolds with High-Throughput Paired-End Sequences	437-451	10.1007/978-3-642-20036-6_40							
+Jae Hoon Sul, Buhm Han, Eleazar Eskin	Increasing Power of Groupwise Association Test with Likelihood Ratio Test	452-467	10.1007/978-3-642-20036-6_41							
+Ryan Tarpine, Fumei Lam, Sorin Istrail	Conservative Extensions of Linkage Disequilibrium Measures from Pairwise to Multi-loci and Algorithms for Optimal Tagging SNP Selection	468-482	10.1007/978-3-642-20036-6_42							
+Chittaranjan Tripathy, Jianyang Zeng, Pei Zhou, Bruce Randall Donald	Protein Loop Closure Using Orientational Restraints from NMR Data	483-498	10.1007/978-3-642-20036-6_43							
+Fabio Vandin, Eli Upfal, Benjamin J. Raphael	De Novo Discovery of Mutated Driver Pathways in Cancer	499-500	10.1007/978-3-642-20036-6_44							
+Jérôme Waldispühl and Yann Ponty	An Unbiased Adaptive Sampling Algorithm for the Exploration of RNA Mutational Landscapes under Evolutionary Pressure	501-515	10.1007/978-3-642-20036-6_45							
+Fabian L. Wauthier, Michael I. Jordan, Nebojsa Jojic	Nonparametric Combinatorial Sequence Models	516-530	10.1007/978-3-642-20036-6_46							
+Yun Yu, Tandy Warnow, Luay Nakhleh	Algorithms for MDC-Based Multi-locus Phylogeny Inference	531-545	10.1007/978-3-642-20036-6_47							
+Shay Zakov, Yoav Goldberg, Michael Elhadad, Michal Ziv-Ukelson	Rich Parameterization Improves RNA Structure Prediction	546-562	10.1007/978-3-642-20036-6_48							
+Jianyang Zeng, Kyle E. Roberts, Pei Zhou, Bruce R. Donald	A Bayesian Approach for Determining Protein Side-Chain Rotamer Conformations Using Unassigned NOE Data	563-578	10.1007/978-3-642-20036-6_49							
