@@ -1,10 +1,12 @@
-The TSV file I uploaded includes a list of papers published in the RECOMB 2023 Conference. The BIB file is a collective bibliography of RECOMB conferences that covers about 20 years. Each paper in RECOMB may have different citations; a proceedings citation in Springer LNCS series, a bioRxiv version, an arXiv version, and a journal version. The journal version is more likely to be Cell Systems, Genome Research, or Journal for Computational Biology, but it could be in another journal. There is no rule that a paper appears in all of these, but it would appear in some of these. Use the BIB file and Web Search to find each different version of each paper. The journal versions may have a slightly different name and different author orderings, even additional authors. Tabulate your findings, return with these additional columns for each paper: 
+The TSV file I uploaded includes a list of papers published in the RECOMB 2025 Conference. The BIB file is a collective bibliography of RECOMB conferences that covers about 20 years. Each paper in RECOMB may have different citations; a proceedings citation in Springer LNCS series, a bioRxiv version, an arXiv version, and a journal version. The journal version is more likely to be Cell Systems, Genome Research, or Journal for Computational Biology, but it could be in another journal. There is no rule that a paper appears in all of these, but it would appear in some of these. Use the BIB file and Web Search to find each different version of each paper. The journal versions may have a slightly different name and different author orderings, even additional authors. Provide the full author lists, do not use the "et al.". Provide full journal citation, not just the name and the year. For the journal DOI do not just cite the files I provided it to you, give the full DOI for those papers.  The Original Authors and the Journal Version Authors should be separated to two different columns, and again do not use "et al". Tabulate your findings, return with these additional columns for each paper, and each of those must be in different lines. Consolidate all of the results in one sheet. 
 
-Preprint: This should be bioRxiv ID, arXiv ID. Do not add the full DOI, return bioRxiv in a format like "bioRxiv 2020.01.17.910513", and arXiv in a format like "arXiv:1907.01458"
+Additional columns:
+
+Preprint: This should be bioRxiv ID, arXiv ID, medRxiv ID, or HAL ID. Do not add the full DOI, return bioRxiv and medRxiv in a format like "bioRxiv 2020.01.17.910513", HAL in a format like "hal-12345", and arXiv in a format like "arXiv:1907.01458"
 Journal name: Name of the journal the paper is published in.
 Title in the journal version 
-Journal authors: Names of the authors in the journal version.
-Journal volume issue and pages
+Journal authors: Names of the authors in the journal version. Do not use et al., provide full list
+Journal volume issue and pages: this must be in a format like "7(2): 192-200"
 Journal publication year
 Journal version DOI.  
 
