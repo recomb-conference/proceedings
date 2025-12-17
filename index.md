@@ -29,4 +29,8 @@ Authors of accepted papers have multiple avenues for publication:
   - Journal of Computational Biology
 - Preprints: We strongly encourage all authors to submit their work to preprint servers (such as bioRxiv or arXiv).
 
+## Reporting updates
+
+These proceedings were compiled using data currently available from preprint servers and journals. As papers may have been published in journals following our latest update, we invite authors to submit the most recent publication details. Please use [this form](https://forms.gle/6oEHE3ns89QvGHqE7) to provide updates.
+
 
