@@ -1,0 +1,37 @@
+RECOMB 1999 Authors (Original)	RECOMB 1999 Title (Original)	ACM Pages	ACM Proceedings DOI	Preprint	Journal Name	Journal Version Title	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Eric Anson, Gene Myers	Algorithms for whole genome shotgun sequencing	1–9	10.1145/299432.299442							
+Timothy L. Bailey, William Noble Grundy	Classifying proteins by family using the product of correlated p-values	10–14	10.1145/299432.299444							
+Gill Bejerano, Golan Yona	Modeling protein families using probabilistic suffix trees	15–24	10.1145/299432.299445							
+Jadwiga R. Bieńkowska, Robert G. Rogers, Temple F. Smith	A method for optimal design of a threading scoring function	25–32	10.1145/299432.299446							
+Amir Ben-Dor, Zohar Yakhini	Clustering gene expression patterns	33–42	10.1145/299432.299448							
+Laurent Bize, Florence Muri, Franck Samson, François Rodolphe, S. Dusko Ehrlich, Bernard Prum, Philippe Bessières	Searching gene transfers on Bacillus subtilis using hidden Markov models	43–49	10.1145/299432.299449							
+Piotr Berman, Zheng Zhang, Yuri I. Wolf, Eugene V. Koonin, Webb Miller	Winnowing sequences from a database search	50–58	10.1145/299432.299451							
+Vincent Berry, David Bryant	Faster reliable phylogenetic analysis	59–68	10.1145/299432.299457							
+R. Bundschuh, T. Hwa	An analytic study of the phase transition line in local sequence alignment with gaps	70–76	10.1145/299432.349874							
+Stefan Burkhardt, Andreas Crauser, Paolo Ferragina, Hans-Peter Lenhof, Eric Rivals, Martin Vingron	q-gram based database searching using a suffix array (QUASAR)	77–83	10.1145/299432.299460							
+Alberto Caprara	Formulations and hardness of multiple sorting by reversals	84–93	10.1145/299432.299461							
+Ting Chen, Vladimir Filkov, Steven S. Skiena	Identifying gene regulatory networks from experimental data	94–103	10.1145/299432.299462							
+L. Paul Chew, Dan Huttenlocher, Klara Kedem, Jon Kleinberg	Fast detection of common geometric substructure in proteins	104–113	10.1145/299432.299464							
+Thomas Christof, John Kececioglu	Computing physical maps of chromosomes with nonoverlapping probes by branch-and-cut	115–123	10.1145/299432.299465							
+Barry Cohen, Steven Skiena	Optimizing combinatorial library construction via split synthesis	124–133	10.1145/299432.299467							
+Vlado Dančík, Theresa A. Addona, Karl R. Clauser, James E. Vath	De Novo peptide sequencing via tandem mass spectrometry: a graph-theoretical approach	135–144	10.1145/299432.299471							
+Alan A. Dombkowski, Gordon M. Crippen	A solvation potential with improved contact definitions and optimized by extensive threading	145–153	10.1145/299432.299474							
+Nadia El-Mabrouk, David Bryant, David Sankoff	Reconstructing the pre-doubling genome	154–163	10.1145/299432.299475							
+Aris Floratos, Isidore Rigoutsos, Laxmi Parida, Gustova Stolovitzky, Yuan Gao	Sequence homology detection through large scale pattern discovery	164–173	10.1145/299432.299477							
+Christian V. Forst, Klaus Schulten	Evolution of metabolisms: a new method for the comparison of metabolic pathways	174–181	10.1145/299432.299481							
+G. R. Grant, R. S. Spielman, E. Manduchi, V. G. Cheung, W. J. Ewens	Significance testing for genomic mismatch scanning	182–187	10.1145/299432.299482							
+Erez Hartuv, Armin Schmitt, Jörg Lange, Sebastian Meier-Ewert, Hans Lehrach, Ron Shamir	An algorithm for clustering cDNAs for gene expression analysis	188–197	10.1145/299432.299483							
+Daniel H. Huson, Scott Nettles, Tandy J. Warnow	Obtaining highly accurate topology estimates of evolutionary trees from very short sequences	198–207	10.1145/299432.299484							
+Richard M. Karp, Roland Stoughton, Ka Yee Yeung	Algorithms for choosing differential gene expression experiments	208–217	10.1145/299432.299485							
+Lawrence A. Kelley, Robert M. MacCallum, Michael J. E. Sternberg	Recognition of remote protein homologies using three-dimensional information to generate a position specific scoring matrix in the program 3D-PSSM	218–225	10.1145/299432.299486							
+Jon M. Kleinberg	Efficient algorithms for protein sequence design and the analysis of certain evolutionary fitness landscapes	226–237	10.1145/299432.299487							
+Richard H. Lathrop	An anytime algorithm for gapped block protein threading with pair interactions	238–249	10.1145/299432.299488							
+Steven M. LaValle, Paul W. Finn, Lydia E. Kavraki, Jeal-Claude Latombe	Efficient database screening for rational drug design using pharmacophore-constrained conformational search	250–260	10.1145/299432.299489							
+Rune B. Lyngsø, Michael Zuker, Christian N. S. Pedersen	Internal loops in RNA secondary structure prediction	260–267	10.1145/299432.299490							
+Guy Mayraz, Ron Shamir	Construction of physical maps from oligonucleotide fingerprints data	268–277	10.1145/299432.299497							
+Julie C. Mitchell, J. Ben Rosen, Andrew T. Phillips, Lynn F. Ten Eyck	Coupled optimization in protein docking	280–284	10.1145/299432.299502							
+Lior Pachter, Serafim Batzoglou, Valentin I. Spitkovsky, William S. Beebee, Eric S. Lander, Bonnie Berger, Daniel J. Kleitman	A dictionary based approach for gene annotation	285–294	10.1145/299432.299504							
+Franco P. Preparata, Alan M. Frieze, Eli Upfal	On the power of universal bases in sequencing by hybridization	295–301	10.1145/299432.299505							
+David Sankoff, Mathieu Blanchette	Probability models for genome rearrangement and linear invariants for phylogenetic inference	302–309	10.1145/299432.299506							
+Maxim Totrov, Ruben Abagyan	Derivation of sensitive discrimination potential for virtual ligand screening	312–320	10.1145/299432.299509							
+Martin J. Bayley, Valerie J. Gillet, Peter Willett, John Bradshaw, Darren V. S. Green	Computational analysis of molecular diversity for drug discovery	321–330	10.1145/299432.299510							

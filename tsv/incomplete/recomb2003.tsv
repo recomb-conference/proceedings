@@ -1,0 +1,36 @@
+RECOMB 2003 Authors (Original)	RECOMB 2003 Title (Original)	ACM Pages	ACM Proceedings DOI	Preprint	Journal Name	Journal Version Title	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Tatsuya Akutsu	Efficient extraction of mapping rules of atoms from enzymatic reaction data	1–8	10.1145/640075.640076							
+Vineet Bafna, Nathan Edwards	On de novo interpretation of tandem mass spectra for peptide identification	9–18	10.1145/640075.640077							
+Vineet Bafna, Bjarni V. Halldorsson, Russell Schwartz, Andrew G. Clark, Sorin Istrail	Haplotypes and informative SNP selection algorithms: don't block out information	19–27	10.1145/640075.640078							
+Yoseph Barash, Gal Elidan, Nir Friedman, Tommy Kaplan	Modeling dependencies in protein-DNA binding sites	28–37	10.1145/640075.640079							
+Gill Bejerano	Efficient exact value computation and applications to biosequence analysis	38–47	10.1145/640075.640080							
+Amir Ben-Dor, Tzvika Hartman, Benno Schwikowski, Roded Sharan, Zohar Yakhini	Towards optimally multiplexed applications of universal DNA tag systems	48–56	10.1145/640075.640081							
+Mathieu Blanchette	A comparative analysis method for detecting binding sites in coding regions	57–66	10.1145/640075.640082							
+Jeremy Buhler, Uri Keich, Yanni Sun	Designing seeds for similarity search in genomic DNA	67–75	10.1145/640075.640083							
+Benny Chor, Amit Khetan, Sagi Snir	Maximum likelihood on four taxa phylogenetic trees: analytic solutions	76–83	10.1145/640075.640084							
+Derek Y. Chiang, Alan M. Moses, Manolis Kamvysselis, Eric S. Lander, Michael B. Eisen	Phylogenetically and spatially conserved word pairs associated with gene expression changes in yeasts	84–93	10.1145/640075.640085							
+Minghua Deng, Ting Chen, Fengzhu Sun	An integrated probabilistic model for functional prediction of proteins	95–103	10.1145/640075.640087							
+Eleazar Eskin, Eran Halperin, Richard M. Karp	Large scale reconstruction of haplotypes from genotype data	104–113	10.1145/640075.640088							
+Ma'ayan Fishelson, Dan Geiger	Optimizing exact genetic linkage computations	114–121	10.1145/640075.640089							
+Aristides Gionis, Heikki Mannila	Finding recurrent sources in sequences	123–130	10.1145/640075.640091							
+Gideon Greenspan, Dan Geiger	Model-based inference of haplotype block variation	131–137	10.1145/640075.640092							
+Andreas Heger, Michael Lappe, Liisa Holm	Accurate detection of very sparse sequence motifs	139–147	10.1145/640075.640094							
+A. B. Kahng, I. I. Mandoiu, P. A. Pevzner, S. Reda, A. Z. Zelikovsky	Engineering a scalable placement heuristic for DNA probe arrays	148–156	10.1145/640075.640095							
+Manolis Kamvysselis, Nick Patterson, Bruce Birren, Bonnie Berger, Eric Lander	Whole-genome comparative annotation and regulatory motif discovery in multiple yeast species	157–166	10.1145/640075.640096							
+Balaji Krishnapuram, Lawrence Carin, Alexander J. Hartemink	Joint classifier and feature optimization for cancer diagnosis using gene expression data	167–175	10.1145/640075.640097							
+Christopher James Langmead, Anthony K. Yan, Ryan Lilien, Lincong Wang, Bruce Randall Donald	Large a polynomial-time nuclear vector replacement algorithm for automated NMR resonance assignments	176–187	10.1145/640075.640098							
+N. Lesh, M. Mitzenmacher, S. Whitesides	A complete and effective move set for simplified protein folding	188–195	10.1145/640075.640099							
+Jing Li, Tao Jiang	Efficient rule-based haplotyping algorithms for pedigree data	197–206	10.1145/640075.640101							
+Lei Li, Jong Hyun Kim, Michael S. Waterman	Haplotype reconstruction from SNP alignment	207–216	10.1145/640075.640102							
+Wentian Li, Ivo Grosse	Gene selection criterion for discriminant microarray data analysis based on extreme value distributions	217–223	10.1145/640075.640103							
+Niranjan Nagarajan, Golan Yona	A multi-expert system for the automatic detection of protein domains from sequence information	224–234	10.1145/640075.640104							
+Itsik Pe'er, Jacques S. Beckmann	Resolution of haplotypes and haplotype frequencies from SNP genotypes of pooled samples	237–246	10.1145/640075.640107							
+Pavel Pevzner, Glenn Tesler	Transforming men into mice: the Nadeau-Taylor chromosomal breakage model revisited	247–256	10.1145/640075.640108							
+Krishna M. Roskin, Mark Diekhans, David Haussler	Scoring two-species local alignments to try to statistically separate neutrally evolving from selected DNA segments	257–266	10.1145/640075.640109							
+Fabian Schwarzer, Itay Lotan	Approximation of protein structure for fast similarity measures	267–276	10.1145/640075.640110							
+Adam Siepel, David Haussler	Combining phylogenetic and hidden Markov models in biosequence analysis	277–286	10.1145/640075.640111							
+Umar Syed, Golan Yona	Using a mixture of probabilistic decision trees for direct prediction of protein function	289–300	10.1145/640075.640114							
+Amos Tanay, Ron Shamir	Modeling transcription programs: inferring binding site activity and dose-response model optimization	301–310	10.1145/640075.640115							
+Chen-Hsiang Yeang, Tommi Jaakkola	Physical network models and multi-source data integration	312–321	10.1145/640075.640117							
+Gene Yeo, Christopher B. Burge	Maximum entropy modeling of short sequence motifs with applications to RNA splicing signals	322–331	10.1145/640075.640118							
+Kui Zhang, Fengzhu Sun, Michael S. Waterman, Ting Chen	Dynamic programming algorithms for haplotype block partitioning: applications to human chromosome 21 haplotype data	332–340	10.1145/640075.640119							

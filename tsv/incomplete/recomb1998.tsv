@@ -1,0 +1,38 @@
+RECOMB 1998 Authors (Original)	RECOMB 1998 Title (Original)	ACM Pages	ACM Proceedings DOI	Preprint	Journal Name	Journal Version Title	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Pankaj Agarwal, Vineet Bafna	Detecting non-adjoining correlations with signals in DNA	2–8	10.1145/279069.279076							
+Amir Ben-Dor, Benny Chor, Dan Graur, Ron Ophir, Dan Pelleg	From four-taxon trees to phylogenies (preliminary report): the case of mammalian evolution	9–19	10.1145/279069.279078							
+Gary Benson	An algorithm for finding tandem repeats of unspecified pattern size	20–29	10.1145/279069.279079							
+Bonnie Berger, Tom Leighton	Protein folding in the hydrophobic-hydrophilic (HP) is NP-complete	30–39	10.1145/279069.279080							
+Maria Bonet, Mike Steel, Tandy Warnow, Shibu Yooseph	Better methods for solving parsimony and compatibility	40–49	10.1145/279069.279081							
+Cheng Che Chen, Jaswinder Pal Singh, Russ B. Altman	The hierarchical organization of molecular structure computations	51–59	10.1145/279069.279086							
+Pierluigi Crescenzi, Deborah Goldman, Christos Papadimitriou, Antonio Piccolboni, Mihalis Yannakakis	On the complexity of protein folding	61–62	10.1145/279069.279089							
+Dan Fasulo, Tao Jiang, Richard M. Karp, Nitin Sharma	Constructing maps using the span and inclusion relations	64–73	10.1145/279069.279090							
+Alexei V. Finkelstein, Azat Ya. Badretdinov	How fast a protein chain can fold to its most stable structure?	74–78	10.1145/279069.279091							
+Richard M. Fye, Craig J. Benhan	A formally exact method to numerically analyze local denaturation in superhelical DNA	79–84	10.1145/279069.279093							
+Israel Gelfand, Alexander Kister, Casimir Kulikowski, Ognyan Stoyanov	Algorithmic determination of core positions in the VL and VH domains of immunoglobulin molecules	85–93	10.1145/279069.279095							
+William Noble Grundy	Family-based homology detection via pairwise sequence comparison	94–100	10.1145/279069.279098							
+Ian Holmes, Richard Durbin	Dynamic programming alignment accuracy	102–108	10.1145/279069.279102							
+Terence Hwa, Michael Lässig	Optimal detection of sequence similarity by local alignment	109–116	10.1145/279069.279103							
+Richard M. Karp, Ron Shamir	Algorithms for optical mapping	117–124	10.1145/279069.279104							
+Paul E. Kearney	The ordinal quartet method	125–134	10.1145/279069.279105							
+Eugene V. Koonin, Roman L. Tatusov, Michael Y. Galperin, Michael N. Rosanov	Genome analysis using clusters of orthologous groups (COGs)	135–139	10.1145/279069.279106							
+Jeffrey M. Koshi, David P. Mindell, Richard A. Goldstein	Beyond mutation matrices: physical-chemistry based evolutionary models	140–145	10.1145/279069.279107							
+Jae K. Lee, Vlado Dančík, Michael S. Waterman	Estimation for restriction sites observed by optical mapping using reversible-jump Markov chain Monte Carlo	147–152	10.1145/279069.279108							
+Hans-Peter Lenhof, Knut Reinert, Martin Vingron	A polyhedral approach to RNA sequence structure alignment	153–162	10.1145/279069.279109							
+Arthur M. Lesk	Assessment of ab initio protein structure prediction	163–171	10.1145/279069.279110							
+Rongxiang Liu, Tom W. Blackwell, David U. States	A structure based similarity measure for nucleic acid sequence comparison	173–181	10.1145/279069.279112							
+Bin Ma, Ming Li, Louxin Zhang	On reconstructing species trees from gene trees in term of duplications and losses	182–191	10.1145/279069.279113							
+Laxmi Parida, Bud Mishra	Partitioning K clones: hardness results and practical algorithms for the K-populations problem	192–201	10.1145/279069.279114							
+David G. Politte, David R. Maffitt, David J. States	Estimation of allele frequencies from color-multiplexed electropherograms	202–206	10.1145/279069.279115							
+Mireille Régnier	A unified approach to word statistics	207–213	10.1145/279069.279116							
+Boris A. Reva, Alexei V. Finkelstein, Jeffrey Skolnick	A self-consistent field optimization approach to build energetically and geometrically correct lattice models of proteins	214–220	10.1145/279069.279117							
+Isidore Rigoutsos, Aris Floratos	Motif discovery without alignment or enumeration	221–227	10.1145/279069.279118							
+Emily Rocke, Martin Tompa	An algorithm for finding novel gapped motifs in DNA sequences	228–233	10.1145/279069.279119							
+Marie-France Sagot, Eugene W. Myers	Identifying satellites in nucleic acid sequences	234–242	10.1145/279069.279120							
+David Sankoff, Mathieu Blanchette	Multiple genome rearrangements	243–247	10.1145/279069.279122							
+Fengzhu Sun	Modeling DNA shuffling	251–257	10.1145/279069.279126							
+Shamil R. Sunyaev, Igor V. Rodchnkov, Frank Eisenhaber, Eugene N. Kuznetsov	Analysis of the position dependent amino acid probabilities and its application to the search for remote homologues	258–265	10.1145/279069.279127							
+Alexander Vologodskii	Maxwell demon and topology simplification by type II topoisomerases	266–269	10.1145/279069.279129							
+Wynn L. Walker, David S. Goodsell, Elliot M. Landaw	The theoretical limits of DNA sequence discrimination of polyamides	270–275	10.1145/279069.279130							
+Thomas D. Wu, Trevor Hastie, Scott C. Schmidler, Douglas L. Brutlag	Regression analysis of multiple protein structures	276–284	10.1145/279069.279132							
+Ying Xu, Dong Xu, Edward C. Uberbacher	A new method for modeling and solving the protein fold recognition problem	285–292	10.1145/279069.279134							

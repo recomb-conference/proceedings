@@ -1,0 +1,32 @@
+RECOMB 1997 Authors (Original)	RECOMB 1997 Title (Original)	ACM Pages	ACM Proceedings DOI	Preprint	Journal Name	Journal Version Title	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Richa Agarwala, Serafim Batzoglou, Vlado Dančík, Scott E. Decatur, Martin Farach, Sridhar Hannenhalli, S. Muthukrishnan, Steven Skiena	Local rules for protein folding on a triangular lattice and generalized hydrophobicity in the HP model	1–2	10.1145/267521.267522							
+Tatsuya Akutsu, Satoru Miyano	On the approximation of protein threading	3–8	10.1145/267521.267523							
+Eric L. Anson, Eugene W. Myers	ReAligner: a program for refining DNA sequence multi-alignments	9–16	10.1145/267521.267524							
+Amir Ben-Dor, Benny Chor	On constructing radiation hybrid maps	17–26	10.1145/267521.267525							
+Gary Benson	Sequence alignment with tandem duplication	27–36	10.1145/267521.267526							
+Bonnie Berger, Mona Singh	An iterative method for improved protein structural motif recognition	37–46	10.1145/267521.267527							
+Erich Bornberg-Bauer	Chain growth algorithms for HP-type lattice proteins	47–55	10.1145/267521.267528							
+J. Richard Bradley, Steven S. Skiena	Fabricating arrays of strings	57–66	10.1145/267521.267529							
+Weiping Cai, Anne E. Condon, Robert M. Corn, Elton Glaser, Zhengdong Fei, Tony Frutos, Zhen Guo, Max G. Lagally, Qinghua Liu, Lloyd M. Smith, Andrew Thiel	The power of surface-based DNA computation	67–74	10.1145/267521.267530							
+Alberto Caprara	Sorting by reversals is difficult	75–83	10.1145/267521.267531							
+Thomas Christof, Michael Jünger, John Kececioglu, Petra Mutzel, Gerhard Reinelt	A branch-and-cut approach to physical mapping with end-probes	84–92	10.1145/267521.267532							
+Gary A. Churchill	Monte Carlo sequence alignment	93–97	10.1145/267521.267534							
+Jaime Cohen, Martin Farach	Numerical taxonomy on data: experimental results	98	10.1145/267521.267535							
+B. DasGupta, T. Jiang, S. Kannan, M. Li, Z. Sweedyk	On the complexity and approximation of syntenic distance	99–108	10.1145/267521.267536							
+Ken A. Dill, Andrew T. Phillips, J. Ben Rosen	Protein structure prediction and potential energy landscape analysis using continuous global minimization	109–117	10.1145/267521.267537							
+Daniel P. Fasulo, Tao Jiang, Richard M. Karp, Reuben Settergren, Edward C. Thayer	An algorithmic approach to multiple complete digest mapping	118–127	10.1145/267521.267538							
+William E. Hart	On the computational complexity of sequence design problems	128–136	10.1145/267521.267539							
+William E. Hart, Sorin Istrail	Lattice and off-lattice side chain models of protein folding: linear time structure prediction better than 86% of optimal	137–146	10.1145/267521.267540							
+S. C. Heath	The application of Markov chain Monte Carlo methods to radiation hybrid mapping	147–150	10.1145/267521.267541							
+Mudita Jain, Eugene W. Myers	Algorithms for computing and integrating physical maps using unique probes	151–161	10.1145/267521.267542							
+Tao Jiang, Richard M. Karp	Mapping clones with a given ordering or interleaving	162	10.1145/267521.267543							
+Haim Kaplan, Ron Shamir, Robert E. Tarjan	Faster and simpler algorithm for sorting signed permutations by reversals	163	10.1145/267521.267544							
+George A. Komatsoulis, Michael S. Waterman	Chimeric alignment by dynamic programming: algorithm and biological uses	174–180	10.1145/267521.267546							
+Hans-Peter Lenhof	New contact measures for the protein docking problem	182–191	10.1145/267521.267547							
+Shili Lin, Terence P. Speed	An algorithm for haplotype analysis	192–200	10.1145/267521.267548							
+Hiroshi Mamitsuka	Supervised learning of hidden Markov models for sequence discrimination	202–208	10.1145/267521.267551							
+S. Muthukrishnan, Laxmi Parida	Towards constructing physical maps by optical mapping: an effective, simple, combinatorial approach	209–219	10.1145/267521.267552							
+Gene Myers, Sanford Selznick, Zheng Zhang, Webb Miller	Progressive multiple alignment with constraints	220–225	10.1145/267521.267758							
+Mitsunori Ogihara, Animesh Ray	Simulating Boolean circuits on a DNA computer	226–231	10.1145/267521.267759							
+Martin G. Reese, Frank H. Eeckman, David Kulp, David Haussler	Improved splice site detection in Genie	232–240	10.1145/267521.267766							
+K. Reinert, H.-P. Lenhof, P. Mutzel, K. Mehlhorn, J. D. Kececioglu	A branch-and-cut algorithm for multiple sequence alignment	241–250	10.1145/267521.267845							

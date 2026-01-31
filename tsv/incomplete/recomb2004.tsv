@@ -1,0 +1,39 @@
+RECOMB 2004 Authors (Original)	RECOMB 2004 Title (Original)	ACM Pages	ACM Proceedings DOI	arXiv ID	Journal Name	Journal Version Title	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Gad Kimmel, Ron Shamir	Maximum likelihood resolution of multi-block genotypes	2–9	10.1145/974614.974616		Proc Natl Acad Sci USA	GERBIL: genotype resolution and block identification using likelihood	Gad Kimmel, Ron Shamir	102 (1) 158-162	2005	10.1073/pnas.0404730102
+Eran Halperin, Richard M. Karp	Perfect phylogeny and haplotype assignment	10–19	10.1145/974614.974617		NONE					
+Jing Li, Tao Jiang	An exact solution for finding minimum recombinant haplotype configurations on pedigrees with missing data by integer linear programming	20–29	10.1145/974614.974618		Journal of Computational Biology	Computing the minimum recombinant haplotype configuration from incomplete genotype data on a pedigree by integer linear programming	Jing Li, Tao Jiang	12(6): 719-739	2005	10.1089/cmb.2005.12.719
+David Sankoff, Phil Trinh	Chromosomal breakpoint re-use in the inference of genome sequence rearrangement	30–35	10.1145/974614.974619		Journal of Computational Biology	Chromosomal breakpoint reuse in genome sequence rearrangement		12(6): 812-821	2005	10.1089/cmb.2005.12.812
+Niko Beerenwinkel, Jörg Rahnenführer, Martin Däumer, Daniel Hoffmann, Rolf Kaiser, Joachim Selbig, Thomas Lengauer	Learning multiple evolutionary pathways from cross-sectional data	36–44	10.1145/974614.974620		Journal of Computational Biology	Learning multiple evolutionary pathways from cross-sectional data	Niko Beerenwinkel, Jörg Rahnenführer, Martin Däumer, Daniel Hoffmann, Rolf Kaiser, Joachim Selbig, Thomas Lengauer	12(6): 584-598	2005	10.1089/cmb.2005.12.584
+Ryan H. Lilien, Brian W. Stevens, Amy C. Anderson, Bruce R. Donald	A novel ensemble-based scoring and search algorithm for protein redesign, and its application to modify the substrate specificity of the gramicidin synthetase A phenylalanine adenylation enzyme	46–57	10.1145/974614.974622							
+Chris Bailey-Kellogg, Sheetal Chainraj, Gopal Pandurangan	A random graph approach to NMR sequential assignment	58–67	10.1145/974614.974623		Journal of Computational Biology	A random graph approach to NMR sequential assignment	Chris Bailey-Kellogg, Sheetal Chainraj, Gopal Pandurangan	12(6): 569–583	2005	10.1089/cmb.2005.12.569
+Xiaoyue Zhao, Haiyan Huang, Terence P. Speed	Finding short DNA motifs using permuted markov models	68–75	10.1145/974614.974624							
+Yanni Sun, Jeremy Buhler	Designing multiple simultaneous seeds for DNA similarity search	76–84	10.1145/974614.974625							
+John Kececioglu, Dean Starrett	Aligning alignments exactly	85–96	10.1145/974614.974626							
+Zhijin Wu, Rafael A. Irizarry	Stochastic models inspired by hybridization theory for short oligonucleotide arrays	98–106	10.1145/974614.974628							
+Sabrina Ledent, Stéphane Robin	Checking homogeneity of motifs' distribution in heterogenous sequences	107–114	10.1145/974614.974629							
+Eleazar Eskin	From profiles to patterns and back again: a branch and bound algorithm for finding near optimal motif profiles	115–124	10.1145/974614.974630							
+Francis Y. L. Chin, Henry C. M. Leung, S. M. Yiu, T. W. Lam, Roni Rosenfeld, W. W. Tsang, David K. Smith, Y. Jiang	Finding motifs for insufficient number of sequences with strong binding to transcription facto	125–132	10.1145/974614.974631							
+Alberto Policriti, Nicola Vitacolonna, Michele Morgante, Andrea Zuccolo	Structured motifs search	133–139	10.1145/974614.974632							
+Eran Segal, Roded Sharan	A discriminative model for identifying spatial cis-regulatory modules	141–149	10.1145/974614.974634							
+Martin Farach-Colton, Yang Huang, John L. L. Woolford	Discovering temporal relations in molecular pathways using protein-protein interactions	150–156	10.1145/974614.974635							
+Hanchuan Peng, Eugene W. Myers	Comparing in situ mRNA expression patterns of drosophila embryos	157–166	10.1145/974614.974636							
+Alexis Battle, Eran Segal, Daphne Koller	Probabilistic discovery of overlapping cellular processes and their regulation	167–176	10.1145/974614.974637							
+Adam Siepel, David Haussler	Computational identification of evolutionarily conserved exons	177–186	10.1145/974614.974638							
+Sourav Chatterji, Lior Pachter	Multiple organism gene finding by collapsed gibbs sampling	187–193	10.1145/974614.974639		Journal of Computational Biology	Large Multiple Organism Gene Finding by Collapsed Gibbs Sampling	Sourav Chatterji, Lior Pachter	12(6): 599–608	2005	10.1089/cmb.2005.12.609
+Michael A. Erdmann	Protein similarity from knot theory and geometric convolution	195–204	10.1145/974614.974641							
+Yih-En Andrew Ban, Herbert Edelsbrunner, Johannes Rudolph	Interface surfaces for protein-protein complexes	205–212	10.1145/974614.974642							
+Pavel A. Pevzner, Haixu Tang, Glenn Tesler	De novo repeat classification and fragment assembly	213–222	11/974614.974643							
+Ydo Wexler, Zohar Yakhini, Yechezkel Kashi, Dan Geiger	Finding approximate tandem repeats in genomic sequences	223–232	10.1145/974614.974644							
+Ross A. Lippert, Xiaoyue Zhao, Liliana Florea, Clark Mobarry, Sorin Istrail	Finding anchors for genomic sequence comparison	233–241	10.1145/974614.974645							
+Zasha Weinberg, Walter L. Ruzzo	Faster genome annotation of non-coding RNA families without loss of accuracy	243–251	10.1145/974614.974647							
+Xinyu Tang, Bonnie Kirkpatrick, Shawna Thomas, Guang Song, Nancy M. Amato	Using motion planning to study RNA folding kinetics	252–261	10.1145/974614.974648							
+Haifeng Li, Tao Jiang	A class of edit kernels for SVMs to predict translation initiation sites in eukaryotic mRNAs	262–271	10.1145/974614.974649							
+Xin He, Michael H. Goldwasser	Identifying conserved gene clusters in the presence of orthologous groups	272–280	10.1145/974614.974650							
+Roded Sharan, Trey Ideker, Brian P. Kelley, Ron Shamir, Richard M. Karp	Identification of protein complexes by comparative analysis of yeast and bacterial protein interaction data	282–289	10.1145/974614.974652							
+Leonid Meyerguz, David Kempe, Jon Kleinberg, Ron Elber	The evolutionary capacity of protein structures	290–297	10.1145/974614.974653							
+Matthew Menke, Eben Scanlon, Jonathan King, Bonnie Berger, Lenore Cowen	Wrap-and-pack: a new paradigm for beta structural motif recognition with application to recognizing beta trefoils	298–307	10.1145/974614.974654							
+Jun Huan, Wei Wang, Deepak Bandyopadhyay, Jack Snoeyink, Jan Prins, Alexander Tropsha	Mining protein family specific residue packing patterns from protein structure graphs	308–315	10.1145/974614.974655							
+Pawel Górecki	Reconciliation problems for duplication, loss and horizontal gene transfer	316–325	10.1145/974614.974656							
+Lars Arvestad, Ann-Charlotte Berglund, Jens Lagergren, Bengt Sennblad	Gene tree reconstruction and orthology analysis based on an integrated model for duplications and sequence evolution	326–335	10.1145/974614.974657							
+Luay Nakhleh, Tandy Warnow, C. Randal Linder	Reconstructing reticulate evolution in species: theory and practice	337–346	10.1145/974614.974659							
+Mike Hallett, Jens Lagergren, Ali Tofigh	Simultaneous identification of duplications and lateral transfers	347–356	10.1145/974614.974660							

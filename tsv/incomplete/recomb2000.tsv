@@ -1,0 +1,25 @@
+RECOMB 2000 Authors (Original)	RECOMB 2000 Title (Original)	ACM Pages	ACM Proceedings DOI	Preprint	Journal Name	Journal Version Title	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Tatsuya Akutsu, Hiroki Arimura, Shinichi Shimozono	On approximation algorithms for local multiple alignment	1–7	10.1145/332306.332311							
+Tatsuya Akutsu, Satoru Miyano, Satoru Kuhara	Algorithms for identifying Boolean networks and related biological networks based on matrix multiplication and fingerprint function	8–14	10.1145/332306.332317							
+E. Althaus, O. Kohlbacher, H.-P. Lenhof, P. Müller	A combinatorial approach to protein docking with flexible side-chains	15–24	10.1145/332306.332319							
+Alberto Apostolico, Gill Bejerano	Optimal amnesic probabilistic automata or how to learn and classify proteins in linear time and space	25–32	10.1145/332306.332321							
+Chris Bailey-Kellogg, Alik Widge, John J. Kelley, Marcelo J. Berardi, John H. Bushweller, Bruce Randall Donald	The NOESY jigsaw: automated protein secondary structure and main-chain assignment from sparse, unassigned NMR data	33–44	10.1145/332306.332323							
+Serafim Batzoglou, Bonnie Berger, Jill Mesirov, Eric S. Lander	Sequencing a genome by walking with clone-end sequences: a mathematical analysis	45	10.1145/332306.332325							
+Serafim Batzoglou, Lior Pachter, Jill Mesirov, Bonnie Berger, Eric S. Lander	Human and mouse gene structure: comparative analysis and application to exon prediction	46–53	10.1145/332306.332326							
+Amir Ben-Dor, Laurakay Bruhn, Nir Friedman, Iftach Nachman, Michèel Schummer, Zohar Yakhini	Tissue classification with gene expression profiles	54–64	10.1145/332306.332328							
+Amir Ben-Dor, Richard Karp, Benno Schwikowski, Zohar Yakhini	Universal DNA tag systems: a combinatorial design scheme	65–75	10.1145/332306.332346							
+Jadwiga R. Bieńkowska, Lihua Yu, Sophia Zarakhovich, Robert G. Rogers, Temple F. Smith	Comprehensive statistical method for protein fold recognition	76–85	10.1145/332306.332347							
+R. Bundschuh	An analytic approach to significance assessment in local sequence alignment with gaps	86–95	10.1145/332306.332350							
+Kevin Chen, Dannie Durand, Martin Farach-Colton	Notung: dating gene duplications using gene family trees	96–106	10.1145/332306.332351							
+Xin Chen, Sam Kwong, Ming Li	A compression algorithm for DNA sequences and its applications in genome comparison	107	10.1145/332306.332352							
+Benny Chor, Michael D. Hendy, Barbara R. Holland, David Penny	Multiple maxima of likelihood in phylogenetic trees: an analytic approach	108–117	10.1145/332306.332353							
+Richard Desper, Martin Vingron	Tree fitting: an algebraic approach using profile distances	119–126	10.1145/332306.332354							
+Nir Friedman, Michal Linial, Iftach Nachman, Dana Pe'er	Using Bayesian networks to analyze expression data	127–135	10.1145/332306.332355							
+M. T. Hallett, J. Lagergren	New algorithms for the duplication-loss model	138–146	10.1145/332306.332359							
+Reece Hart, Ajay K. Royyuru, Gustavo Stolovitzky, Andrea Califano	Systematic and automated discovery of patterns in PROSITE families	147–154	10.1145/332306.332360							
+Steffan Heber, Jens Stoye, Jörg Hoheisel, Martin Vingron	Contig selection in physical mapping	155–164	10.1145/332306.332361							
+Maricel Kann, Richard A. Goldstein	Optimizing for success: a new score function for distantly related protein sequence comparison	177–182	10.1145/332306.332536							
+John Krececioglu, Sanjay Shete, Jonathan Arnold	Reconstructing distances in physical maps of chromosomes with nonoverlapping probes	183–192	10.1145/332306.332540							
+Adam Liwo, Jaroslaw Pillardy, Cezary Czaplewski, Jooyoung Lee, Daniel R. Ripoll, Malgorzata Groth, Sylwia Rodziewicz-Motowidlo, Rajmund Kamierkiewicz, Ryszard J. Wawak, Stanislaw Oldziej, Harold A. Scheraga	UNRES: a united-residue force field for energy-based prediction of protein structure—orgin and significance of multibody terms	193–200	10.1145/332306.332544							
+Rune B. Lyngsø, Christian N. S. Pedersen	Pseudoknots in RNA secondary structures	201–209	10.1145/332306.332551							
+Laurent Marsan, Marie-France Sagot	Extracting structured motifs using a suffix tree—algorithms and application to promoter consensus identification	210–219	10.1145/332306.332553							

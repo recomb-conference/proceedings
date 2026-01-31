@@ -1,0 +1,36 @@
+RECOMB 2001 Authors (Original)	RECOMB 2001 Title (Original)	ACM Pages	ACM Proceedings DOI	Preprint	Journal Name	Journal Version Title	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Abdullah N. Arslan, Ömer Eğecioğlu, Pavel A. Pevzner	A new approach to sequence comparison: normalized sequence alignment	2–11	10.1145/369133.369146							
+Yoseph Barash, Nir Friedman	Context-specific Bayesian clustering for gene expression data	12–21	10.1145/369133.369150							
+Richard Beigel, Noga Alon, Simon Kasif, Mehmet Serkan Apaydin, Lance Fortnow	An optimal procedure for gap closing in whole genome shotgun sequencing	22–30	10.1145/369133.369152							
+Amir Ben-Dor, Nir Friedman, Zohar Yakhini	Class discovery in gene expression data	31–38	10.1145/369133.369167							
+Yonatan Bilu, Michal Linial	On the predictive power of sequence similarity in yeast	39–48	10.1145/369133.369168							
+Mathieu Blanchette	Algorithms for phylogenetic footprinting	49–58	10.1145/369133.369170							
+Phil Bradley, Lenore Cowen, Matthew Menke, Jonathan King, Bonnie Berger	Predicting the β-helix fold from protein sequence data	59–67	10.1145/369133.369171							
+Jeremy Buhler, Martin Tompa	Finding motifs using random projections	69–76	10.1145/369133.369172							
+Ralf Bundschuh	Rapid significance estimation in local sequence alignment with gaps	77–85	10.1145/369133.369173							
+Harmen J. Bussemaker, Hao Li, Eric D. Siggia	Regulatory element detection using correlation with expression	86	10.1145/369133.369174							
+Ting Chen	Gene-finding via tandem mass spectrometry	87–94	10.1145/369133.369176							
+Ting Chen, Jacob D. Jaffe, George M. Church	Algorithms for identifying protein cross-links via tandem mass spectrometry	95–102	10.1145/369133.369177							
+Miklós Csűrös	Fast recovery of evolutionary trees with thousands of nodes	104–113	10.1145/369133.369178							
+Alon Efrat, Frank Hoffman, Klaus Kriegel, Christof Schultz, Carola Wenk	Geometric algorithms for the analysis of 2D-electrophoresis gels	114–123	10.1145/369133.369181							
+Vladimir Filkov, Steven Skiena, Jizu Zhi	Analysis techniques for microarray time-series data	124–131	10.1145/369133.369183							
+Nir Friedman, Matan Ninio, Itsik Pe'er, Tal Pupko	A structural EM algorithm for phylogenetic inference	132–140	10.1145/369133.369182							
+Alan M. Frieze, Bjarni V. Halldórsson	Optimal sequencing by hybridization in rounds	141–148	10.1145/369133.369187							
+M. T. Hallett, J. Lagergren	Efficient algorithms for lateral gene transfer problems	149–156	10.1145/369133.369188							
+Daniel H. Huson, Knut Reinert, Eugene Myers	The greedy path-merging algorithm for sequence assembly	157–163	10.1145/369133.369190							
+Christopher James Langmead, Bruce Randall Donald	Extracting structural information using time-frequency analysis of protein NMR data	164–175	10.1145/369133.369191							
+John Kececioglu, Jun Ju	Separating repeats in DNA sequence assembly	176–183	10.1145/369133.369192							
+O. Kohlbacher, A. Burchardt, A. Moll, A. Hildebrandt, P. Bayer, H.-P Lenhof	A NMR-spectra-based scoring function for protein docking	184–192	10.1145/369133.369194							
+Giuseppe Lancia, Robert Carr, Brian Walenz, Sorin Istrail	101 optimal PDB structure alignments: a branch-and-cut algorithm for the maximum contact map overlap problem	193–202	10.1145/369133.369199							
+Wentian Li	DNA segmentation as a model selection process	204–210	10.1145/369133.369202							
+Guo-Hui Lin, Bin Ma, Kaizhong Zhang	Edit distance between two RNA structures	211–220	10.1145/369133.369214							
+Gene Myers	Comparing sequence scaffolds	224–230	10.1145/369133.369218							
+Gonzalo Navarro, Mathieu Raffinot	Fast and simple character classes and bounded gaps pattern matching, with application to protein searching	231–240	10.1145/369133.369220							
+Lior Pachter, Marina Alexandersson, Simon Cawley	Applications of generalized pair hidden Markov models to alignment and gene finding problems	241–248	10.1145/369133.369227							
+Paul Pavlidis, Jason Weston, Jinsong Cai, William Noble Grundy	Gene functional classification from heterogeneous data	249–255	10.1145/369133.369228							
+Pavel A. Pevzner, Haixu Tang, Michael S. Waterman	A new approach to fragment assembly in DNA sequencing	256–267	10.1145/369133.369230							
+Ron Shamir, Dekel Tsur	Large scale sequencing by hybridization	269–277	10.1145/369133.369233							
+Mona Singh, Peter S. Kim	Towards predicting coiled-coil protein interactions	279–286	10.1145/369133.369238							
+Guang Song, Nancy M. Amato	Using motion planning to study protein folding pathways	287–296	10.1145/369133.369239							
+Mengxiang Tang, Michael Waterman, Shibu Yooseph	Zinc finger gene clusters and tandem gene duplication	297–304	10.1145/369133.369241							
+Gert Thijs, Kathleen Marchal, Magali Lescot, Stephane Rombauts, Bart De Moor, Pierre Rouzé, Yves Moreau	A Gibbs sampling method to detect over-represented motifs in the upstream regions of co-expressed genes	305–312	10.1145/369133.369253							
