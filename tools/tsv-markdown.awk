@@ -12,6 +12,9 @@
 
 BEGIN {
     FS = "\t"      # or ":", ",", " "
+    print ""
+    print "## List of Publications"
+    print ""
 }
 {
 if ($1 ~ /Authors/)
