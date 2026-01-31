@@ -19,9 +19,21 @@ BEGIN {
 {
 if ($1 ~ /Authors/)
 {
-	# just get LNCS volume	
-	match($4, /[0-9]+/)
-	lncs_volume = substr($4, RSTART, RLENGTH)
+	match($2, /[0-9]+/)
+	recomb_year = substr($2, RSTART, RLENGTH) 
+
+	if ($3 ~ /LNCS/)
+	{
+		# just get LNCS volume	
+		match($4, /[0-9]+/)
+		lncs_volume = substr($4, RSTART, RLENGTH)
+		proceedings_type = "lncs"
+	}
+	else if ($3 ~ /ACM/)
+	{
+		proceedings_type = "acm"
+		lncs_volume = ""
+	}
 }
 else
 {
@@ -38,10 +50,21 @@ else
 	journal_doi = $11
 
 	print "- **"title"**. "authors"."
-	if (lncs_pages != "" && lncs_pages != "NONE" && lncs_pages != "N/A")
+	if (proceedings_type == "lncs")
 	{
-		print "  - Proceedings: Research in Computational Molecular Biology. RECOMB 2023. Lecture Notes in Computer Science, vol "lncs_volume", pp "lncs_pages", Springer, Cham."
-		print "    - DOI: ["lncs_doi"](https://doi.org/"lncs_doi")"
+		if (lncs_pages != "" && lncs_pages != "NONE" && lncs_pages != "N/A")
+		{
+			print "  - Proceedings: Research in Computational Molecular Biology. RECOMB "recomb_year". Lecture Notes in Computer Science, vol "lncs_volume", pp "lncs_pages", Springer, Cham."
+			print "    - DOI: ["lncs_doi"](https://doi.org/"lncs_doi")"
+		}
+	}
+	else
+	{
+		if (lncs_pages != "" && lncs_pages != "NONE" && lncs_pages != "N/A")
+		{
+			print "  - Proceedings: Research in Computational Molecular Biology. RECOMB "recomb_year", pp "lncs_pages". Association for Computing Machinery, New York, NY, USA."
+			print "    - DOI: ["lncs_doi"](https://doi.org/"lncs_doi")"
+		}
 	}
 	if (preprint != "" && preprint != "NONE" && preprint != "N/A")
 	{
@@ -63,6 +86,7 @@ else
 	}
 	if (journal != "" && journal != "NONE" && journal != "N/A")
 	{
+		gsub(/^[ \t]+|[ \t]+$/, "", journal_title)
 		if (journal_authors == "")
 		{
 			print "  - Journal: **"journal_title"**. "authors". *"journal"*, "journal_issue_pages", "journal_year"."
