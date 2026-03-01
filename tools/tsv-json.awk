@@ -12,21 +12,33 @@
 
 BEGIN {
     FS = "\t"      # or ":", ",", " "
+	print "\"title\": \"24th Annual International Conference on Research in Computational Molecular Biology\","
+	print "\"location\": \"xx, yy\","
+	print "\"dates\": \"June 22-25, 2020\","
+	print "\"editor\": \"pc chair\","
+	print "\"website\": \"https://recomb.org/recomb2022/\","
+	print "\"proceedings\": \"https://recomb.org/proceedings/2020-2016/2020/\","
+	print "\"papers\":"
+    	print "["
 }
 {
 if ($1 ~ /Authors/)
 {
-	# just get LNCS volume	
-	match($4, /[0-9]+/)
-	lncs_volume = substr($4, RSTART, RLENGTH)
-	print "{"
-	print "\"title\": \"27th Annual International Conference on Research in Computational Molecular Biology\","
-	print "\"location\": \"İstanbul, Türkiye\","
-	print "\"dates\": \"April 16-19, 2023\","
-	print "\"editor\": \"Haixu Tang\","
-	print "\"website\": \"https://recomb.org/recomb2023/\","
-	print "\"proceedings\": \"https://recomb.org/proceedings/2025-2021/2023\","
-	print "\"papers\": ["
+	match($2, /[0-9]+/)
+	recomb_year = substr($2, RSTART, RLENGTH) 
+
+	if ($3 ~ /LNCS/)
+	{
+		# just get LNCS volume	
+		match($4, /[0-9]+/)
+		lncs_volume = substr($4, RSTART, RLENGTH)
+		proceedings_type = "lncs"
+	}
+	else if ($3 ~ /ACM/)
+	{
+		proceedings_type = "acm"
+		lncs_volume = ""
+	}
 }
 else
 {
@@ -46,13 +58,25 @@ else
 
 	print "\t\t\"author\": \""authors"\","			
 	print "\t\t\"title\": \""title"\","
-	
-	if (lncs_pages != "" && lncs_pages != "NONE" && lncs_pages != "N/A")
-	{	
-		print "\t\t\"proceedings_name\": \"Research in Computational Molecular Biology. Lecture Notes in Computer Science.\""
-		print "\t\t\"proceedings_volume\": \""lncs_volume"\""
-		print "\t\t\"proceedings_pages\": \""lncs_pages"\""
-		print "\t\t\"proceedings_doi\": \""lncs_doi"\""
+	if (proceedings_type == "lncs")
+	{
+		if (lncs_pages != "" && lncs_pages != "NONE" && lncs_pages != "N/A")
+		{	
+			print "\t\t\"proceedings_name\": \"Research in Computational Molecular Biology. RECOMB "recomb_year". Lecture Notes in Computer Science, vol "lncs_volume", pp "lncs_pages", Springer, Cham.\","
+			print "\t\t\"proceedings_volume\": \""lncs_volume"\","
+			print "\t\t\"proceedings_pages\": \""lncs_pages"\","
+			print "\t\t\"proceedings_doi\": \""lncs_doi"\","
+		}
+	}
+	else
+	{
+		if (lncs_pages != "" && lncs_pages != "NONE" && lncs_pages != "N/A")
+		{	
+			print "\t\t\"proceedings_name\": \"Research in Computational Molecular Biology. RECOMB "recomb_year", pp "lncs_pages". Association for Computing Machinery, New York, NY, USA.\","
+			print "\t\t\"proceedings_volume\": \""lncs_volume"\","
+			print "\t\t\"proceedings_pages\": \""lncs_pages"\","
+			print "\t\t\"proceedings_doi\": \""lncs_doi"\","
+		}
 	}
 	if (preprint != "" && preprint != "NONE" && preprint != "N/A")
 	{
@@ -60,41 +84,42 @@ else
 		if (preprint ~ /bioRxiv/) 
 		{
 			sub(/^bioRxiv /, "", temp)
-			print "\t\t\"preprint_id\": \""preprint"\""
-			print "\t\t\"preprint_doi\": \"10.1101/"temp"\""
+			print "\t\t\"preprint_id\": \""preprint"\","
+			print "\t\t\"preprint_doi\": \"10.1101/"temp"\","
 		}
 		else if (preprint ~ /arXiv/)
 		{
 			sub(/^arXiv:/, "arXiv.", temp)
-			print "\t\t\"preprint_id\": \""preprint"\""
-			print "\t\t\"preprint_doi\": \"10.48550/"temp"\""
+			print "\t\t\"preprint_id\": \""preprint"\","
+			print "\t\t\"preprint_doi\": \"10.48550/"temp"\","
 		}
 		else if (preprint ~ /hal/)
 		{
-			print "\t\t\"preprint_id\": \""preprint"\""
-			print "\t\t\"preprint_doi\": \"hal.science/"temp"\"" # not real doi		
+			print "\t\t\"preprint_id\": \""preprint"\","
+			print "\t\t\"preprint_doi\": \"hal.science/"temp"\"," # not real doi		
 		}		
 	}
 	if (journal != "" && journal != "NONE" && journal != "N/A")
 	{
-		print "\t\t\"journal\": \""journal"\""
-		print "\t\t\"journal_title\": \""journal_title"\""		
+		print "\t\t\"journal\": \""journal"\","
+		gsub(/^[ \t]+|[ \t]+$/, "", journal_title)
+		print "\t\t\"journal_title\": \""journal_title"\","		
 		if (journal_authors == "")
 		{
-			print "\t\t\"journal_authors\": \""authors"\""		
+			print "\t\t\"journal_authors\": \""authors"\","		
 		}
 		else
 		{
-			print "\t\t\"journal_authors\": \""journal_authors"\""
+			print "\t\t\"journal_authors\": \""journal_authors"\","
 		}
-		print "\t\t\"journal_issue_pages\": \""journal_issue_pages"\""
-		print "\t\t\"journal_year\": \""journal_year"\""
+		print "\t\t\"journal_issue_pages\": \""journal_issue_pages"\","
+		print "\t\t\"journal_year\": \""journal_year"\","
 		
 		tmp = journal_doi
     		gsub(/\r/, "", tmp)
-    		print "\t\t\"journal_doi\": \""tmp"\""
+    		print "\t\t\"journal_doi\": \""tmp"\","
 	}
-	print "\t}"
+	print "\t},"
 }  
 }
 
