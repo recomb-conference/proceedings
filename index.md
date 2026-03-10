@@ -33,4 +33,6 @@ Authors of accepted papers have multiple avenues for publication:
 
 These proceedings were compiled using data currently available from preprint servers and journals. As papers may have been published in journals following our latest update, we invite authors to submit the most recent publication details. Please use [this form](https://forms.gle/6oEHE3ns89QvGHqE7) to provide updates.
 
+## JSON and BibTeX files
 
+We also provide [JSON files](https://github.com/recomb-conference/proceedings/tree/main/json) for the proceedings for easy parsing, and [BibTeX files](https://github.com/recomb-conference/proceedings/tree/main/bibtex) for easy citing.
