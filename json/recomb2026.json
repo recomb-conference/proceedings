@@ -22,25 +22,25 @@
       "author": "Ross Stewart, Florent Laval, Michael Calderwood, Matthew Mort, David Cooper, Marc Vidal, Predrag Radivojac",
       "title": "Predicting interaction-specific protein–protein interaction perturbations by missense variants with MutPred-PPI",
       "preprint_id": "bioRxiv 2025.12.20.695738",
-      "preprint_doi": "10.1101/2025.12.20.695738"
+      "preprint_doi": "10.64898/2025.12.20.695738"
     },
     {
       "author": "Molly Borowiak and Yun William Yu",
       "title": "KuPID: Kmer-based Upstream Preprocessing of Long Reads for Isoform Discovery",
       "preprint_id": "bioRxiv 2025.12.05.692400",
-      "preprint_doi": "10.1101/2025.12.05.692400"
+      "preprint_doi": "10.64898/2025.12.05.692400"
     },
     {
       "author": "Kirill Nikitin and Gamze Gursoy",
       "title": "Private Information Leakage from Polygenic Risk Scores",
       "preprint_id": "bioRxiv 2026.02.16.706191",
-      "preprint_doi": "10.1101/2026.02.16.706191"
+      "preprint_doi": "10.64898/2026.02.16.706191"
     },
     {
       "author": "Jacob Blindenbach, Shaunak Soni, Gamze Gursoy",
       "title": "Privacy-Preserving Pangenome Graphs",
       "preprint_id": "bioRxiv 2026.02.16.706152",
-      "preprint_doi": "10.1101/2026.02.16.706152"
+      "preprint_doi": "10.64898/2026.02.16.706152"
     },
     {
       "author": "Zitai Kong, Yiheng Zhu, Yinlong Xu, Mingze Yin, Tingjun Hou, Jian Wu, Hongxia Xu, Chang-Yu Hsieh",
@@ -52,7 +52,7 @@
       "author": "Sara C. Schulte, Henri Schmidt, Martin Jürgens, Gunnar W. Klau, Palash Sashittal, Benjamin J. Raphael",
       "title": "POTTR: Identifying Recurrent Trajectories in Evolutionary and Developmental Processes using Posets",
       "preprint_id": "bioRxiv 2026.02.25.707960",
-      "preprint_doi": "10.1101/2026.02.25.707960"
+      "preprint_doi": "10.64898/2026.02.25.707960"
     },
     {
       "author": "Peidong Zhang, Rong Han, Xiangzhe Kong, Ting Chen, Jianzhu Ma",
@@ -70,7 +70,7 @@
       "author": "Md Zarzees Uddin Shah Chowdhury, T. M. Murali, Palash Sashittal",
       "title": "A Cophylogenetic Approach for Virus-Host Interaction Prediction",
       "preprint_id": "bioRxiv 2026.02.26.708038",
-      "preprint_doi": "10.1101/2026.02.26.708038"
+      "preprint_doi": "10.64898/2026.02.26.708038"
     },
     {
       "author": "Victor Chardès",
@@ -80,7 +80,9 @@
     },
     {
       "author": "Yazheng Di and Na Cai",
-      "title": "Prediction of lifetime disease liability from EHR features"
+      "title": "Prediction of lifetime disease liability from EHR features",
+      "preprint_id": "medRxiv 2026.02.15.26346336",
+      "preprint_doi": "10.64898/2026.02.15.26346336"
     },
     {
       "author": "Azamat Salamatov and Gowtham Atluri",
@@ -98,19 +100,19 @@
       "author": "Vaibhav Mohanty, Anna Sappington, Eugene Shakhnovich, Bonnie Berger",
       "title": "Evolutionary dynamics under phenotypic uncertainty",
       "preprint_id": "bioRxiv 2026.03.15.711953",
-      "preprint_doi": "10.1101/2026.03.15.711953"
+      "preprint_doi": "10.64898/2026.03.15.711953"
     },
     {
       "author": "Shayesteh Arasti, Ali Osman Berk Şapcı, Eleonora Rachtman, Mohammed El-Kebir, Siavash Mirarab",
       "title": "Deconvolving Phylogenetic Distance Mixtures",
       "preprint_id": "bioRxiv 2026.01.18.700179",
-      "preprint_doi": "10.1101/2026.01.18.700179"
+      "preprint_doi": "10.64898/2026.01.18.700179"
     },
     {
       "author": "Pengyu Sun, Tian Mou, Xubin Zheng, Xinlei Huang",
       "title": "Achieving spatial multi-omics integration from unaligned serial sections with DIME",
       "preprint_id": "bioRxiv 2026.02.25.707961",
-      "preprint_doi": "10.1101/2026.02.25.707961"
+      "preprint_doi": "10.64898/2026.02.25.707961"
     },
     {
       "author": "Xinming Tu, Alexander Sasse, Kaitavjeet Chowdhary, Anna E. Spiro, Liang Yang, Maria Chikina, Christophe O. Benoist, Sara Mostafavi",
@@ -122,7 +124,7 @@
       "author": "Leonard Bohnenkämper, Luca Parmigiani, Cedric Chauve, Jens Stoye",
       "title": "On Deriving Synteny Blocks by Compacting Elements",
       "preprint_id": "bioRxiv 2025.12.15.694404",
-      "preprint_doi": "10.1101/2025.12.15.694404"
+      "preprint_doi": "10.64898/2025.12.15.694404"
     },
     {
       "author": "Niels Holtgrefe, Leo van Iersel, Ruben Meuwese, Yukihiro Murakami, Jannik Schestag",
@@ -134,7 +136,7 @@
       "author": "Jinpu Cai, Yuxuan Wang, Yunhao Qiao, Cheng Wang, Ziqi Rong, Luting Zhou, Haoyang Liu, Meng Jiang, Hongbin Shen, Jingyi Jessica Li, Hongyi Xin",
       "title": "Information Geometry Reconciles Discrete and Continuous Variation in Single-Cell and Spatial Transcriptomic Analysis",
       "preprint_id": "bioRxiv 2026.02.25.707866",
-      "preprint_doi": "10.1101/2026.02.25.707866"
+      "preprint_doi": "10.64898/2026.02.25.707866"
     },
     {
       "author": "Giulia Muzio, Michael Adamer, Leyden Fernandez, Lukas Miklautz, Karsten Borgwardt, Kemal Avican",
@@ -158,7 +160,7 @@
       "author": "Xiaoge Zhang, Zhengyu Fang, Kaiyu Tang, Huiyuan Chen, Jing Li",
       "title": "Joint Learning of Drug-Drug Combination and Drug-Drug Interaction via Coupled Tensor-Tensor Factorization with Side Information",
       "preprint_id": "bioRxiv 2026.02.13.705792",
-      "preprint_doi": "10.1101/2026.02.13.705792"
+      "preprint_doi": "10.64898/2026.02.13.705792"
     },
     {
       "author": "Hugo Magalhães, Jonas Weber, Gunnar W. Klau, Tobias Marschall, Timofey Prodanov",
@@ -170,13 +172,13 @@
       "author": "Minh Hoang, Isabel Armour-Garb, Mona Singh",
       "title": "Fast, accurate construction of multiple sequence alignments from protein language embeddings",
       "preprint_id": "bioRxiv 2026.01.02.697423",
-      "preprint_doi": "10.1101/2026.01.02.697423"
+      "preprint_doi": "10.64898/2026.01.02.697423"
     },
     {
       "author": "Ardalan Naseri, Ahsan Sanaullah, Shaojie Zhang, Degui Zhi",
       "title": "SLAB: A Sweep Line Algorithm in PBWT for Finding Haplotype Block Cores",
       "preprint_id": "bioRxiv 2026.03.16.712201",
-      "preprint_doi": "10.1101/2026.03.16.712201"
+      "preprint_doi": "10.64898/2026.03.16.712201"
     },
     {
       "author": "Florian Ingels, Lea Vandamme, Mathilde Girard, Clément Agret, Bastien Cazaux, Antoine Limasset",
@@ -200,49 +202,49 @@
       "author": "Ryan Doughty, Michael Tisza, Todd Treangen",
       "title": "bronko: ultrarapid, alignment-free detection of viral genome variation",
       "preprint_id": "bioRxiv 2025.12.01.691650",
-      "preprint_doi": "10.1101/2025.12.01.691650"
+      "preprint_doi": "10.64898/2025.12.01.691650"
     },
     {
       "author": "Leah Weber, Chi Yin Ching, Chrisopher Ly, Yixiao Cheng, Chunxu Gao, Peter Van Loo",
       "title": "Arborist: Prioritizing Bulk DNA Inferred Tumor Phylogenies via Low-pass Single-cell DNA Sequencing Data",
       "preprint_id": "bioRxiv 2026.02.26.707773",
-      "preprint_doi": "10.1101/2026.02.26.707773"
+      "preprint_doi": "10.64898/2026.02.26.707773"
     },
     {
       "author": "Zhongxuan Sun, Hyunseung Kang, Sunduz Keles",
       "title": "Causal gene regulatory network inference from Perturb-seq via adaptive instrumental variable modeling",
       "preprint_id": "bioRxiv 2026.02.18.706642",
-      "preprint_doi": "10.1101/2026.02.18.706642"
+      "preprint_doi": "10.64898/2026.02.18.706642"
     },
     {
       "author": "Xinyu Gu, Stefan Ivanovic, Daniel Feng, Mohammed El-Kebir",
       "title": "Summarizing RNA Structural Ensembles via Maximum Agreement Secondary Structures",
       "preprint_id": "bioRxiv 2026.02.25.708069",
-      "preprint_doi": "10.1101/2026.02.25.708069"
+      "preprint_doi": "10.64898/2026.02.25.708069"
     },
     {
       "author": "Danrong Li, Young Kun Ko, Stefan Canzar",
       "title": "CAMP: Coreset Accelerated Metacell Partitioning enables scalable analysis of single-cell data",
       "preprint_id": "bioRxiv 2025.12.11.693725",
-      "preprint_doi": "10.1101/2025.12.11.693725"
+      "preprint_doi": "10.64898/2025.12.11.693725"
     },
     {
       "author": "Anusha Aggarwal, Ksenia Sokolova, Olga Troyanskaya",
       "title": "Multi-modal tissue-aware graph neural network for in silico genetic discovery",
       "preprint_id": "bioRxiv 2026.02.17.706433",
-      "preprint_doi": "10.1101/2026.02.17.706433"
+      "preprint_doi": "10.64898/2026.02.17.706433"
     },
     {
       "author": "Arghamitra Talukder, Nicholas Keung, Itsik Pe'Er, David A. Knowles",
       "title": "CLADES — Contrastive Learning Augmented DifferEntial Splicing with Orthologous Positive Pairs",
       "preprint_id": "bioRxiv 2026.02.20.707118",
-      "preprint_doi": "10.1101/2026.02.20.707118"
+      "preprint_doi": "10.64898/2026.02.20.707118"
     },
     {
       "author": "Chang Lu, Yuval Kluger, Rong Ma",
       "title": "MOSAIC: A Spectral Framework for Integrative Phenotypic Characterization Using Population-Level Single-Cell Multi-Omics",
       "preprint_id": "bioRxiv 2026.02.10.705077",
-      "preprint_doi": "10.1101/2026.02.10.705077"
+      "preprint_doi": "10.64898/2026.02.10.705077"
     },
     {
       "author": "Anupama Nandi, Seth Neel, Hyunghoon Cho",
@@ -254,13 +256,13 @@
       "author": "Chih Hao Wu, Jacob Gilbert, Salem Malikić, S. Cenk Sahinalp",
       "title": "Identifying Robust Subclonal Structures Through Tumor Progression Tree Alignment",
       "preprint_id": "bioRxiv 2026.02.25.708046",
-      "preprint_doi": "10.1101/2026.02.25.708046"
+      "preprint_doi": "10.64898/2026.02.25.708046"
     },
     {
       "author": "Anish Karpurapu, Charles Gersbach, Rohit Singh",
       "title": "DeltaNMF: A Two-Stage Neural NMF for Differential Gene Program Discovery",
       "preprint_id": "bioRxiv 2026.01.22.701049",
-      "preprint_doi": "10.1101/2026.01.22.701049"
+      "preprint_doi": "10.64898/2026.01.22.701049"
     },
     {
       "author": "Aditya Pratapa, Rohit Singh, Purushothama Rao Tata",
@@ -272,25 +274,25 @@
       "author": "Zhengtong Liu, Arush Ramteke, Aakarsh Anand, Aditya Gorla, Moonseong Jeong, Sriram Sankararaman",
       "title": "A biobank-scale method for learning environmental modulators of gene–environment interaction underlying complex traits",
       "preprint_id": "bioRxiv 2026.03.13.711725",
-      "preprint_doi": "10.1101/2026.03.13.711725"
+      "preprint_doi": "10.64898/2026.03.13.711725"
     },
     {
       "author": "Xinhai Pan, Yiru Chen, Xiuwei Zhang",
       "title": "Integrative Inference of Spatially Informed Cell Lineage Trees using LineageMap",
       "preprint_id": "bioRxiv 2026.01.19.700383",
-      "preprint_doi": "10.1101/2026.01.19.700383"
+      "preprint_doi": "10.64898/2026.01.19.700383"
     },
     {
       "author": "Kailey Hua, Ellie Haber, Jian Ma",
       "title": "Uncertainty-aware synthetic lethality prediction with pretrained foundation models",
       "preprint_id": "bioRxiv 2026.02.25.708096",
-      "preprint_doi": "10.1101/2026.02.25.708096"
+      "preprint_doi": "10.64898/2026.02.25.708096"
     },
     {
       "author": "Shitong Dai, Jiaqi Luo, Yunan Luo",
       "title": "Evolutionary profile enhancement improves protein function annotation",
       "preprint_id": "bioRxiv 2026.03.03.709280",
-      "preprint_doi": "10.1101/2026.03.03.709280"
+      "preprint_doi": "10.64898/2026.03.03.709280"
     },
     {
       "author": "Jamshed Khan, Laxman Dhulipala, Prashant Pandey, Rob Patro",
@@ -308,13 +310,13 @@
       "author": "Luqi Yang, Zhenwei Huang, Hongyi Xin, Jinpu Cai",
       "title": "Gene-First Identity Construction for Robust Cell Identification in Single-Cell Transcriptomics",
       "preprint_id": "bioRxiv 2026.02.25.707869",
-      "preprint_doi": "10.1101/2026.02.25.707869"
+      "preprint_doi": "10.64898/2026.02.25.707869"
     },
     {
       "author": "Chris Dong, Yihui Cen, Dongyuan Song, Jingyi Jessica Li",
       "title": "scDesignPop generates population-scale single-cell RNA-seq data for power analysis, method benchmarking, and privacy protection",
       "preprint_id": "bioRxiv 2026.02.23.707578",
-      "preprint_doi": "10.1101/2026.02.23.707578"
+      "preprint_doi": "10.64898/2026.02.23.707578"
     },
     {
       "author": "Jens Zentgraf, Johanna Schmitz, Andreas Keller, Sven Rahmann",
@@ -338,13 +340,13 @@
       "author": "Daniel Lazarev, Anna Sappington, Grant Chau, Ruochi Zhang, Bonnie Berger",
       "title": "Constrained diffusion as a paradigm for evolution",
       "preprint_id": "bioRxiv 2026.03.10.710948",
-      "preprint_doi": "10.1101/2026.03.10.710948"
+      "preprint_doi": "10.64898/2026.03.10.710948"
     },
     {
       "author": "Jiayi Li, Yanruisheng Shao, Yu Li, Qinze Yu",
       "title": "Integrative Multi‑Scale Sequence–Structure Modeling for Antimicrobial Peptide Prediction and Design",
       "preprint_id": "bioRxiv 2026.02.24.707610",
-      "preprint_doi": "10.1101/2026.02.24.707610"
+      "preprint_doi": "10.64898/2026.02.24.707610"
     },
     {
       "author": "Jinqiu Du, Kevin Z. Lin",
@@ -356,13 +358,13 @@
       "author": "Kerr Ding, Ziang Li, Tony Tu, Jiaqi Luo, Yunan Luo",
       "title": "Deconvolving mutation effects on protein stability and function with disentangled protein language models",
       "preprint_id": "bioRxiv 2026.02.03.703560",
-      "preprint_doi": "10.1101/2026.02.03.703560"
+      "preprint_doi": "10.64898/2026.02.03.703560"
     },
     {
       "author": "Mahsa Faizrahnemoon, Jens Luebeck, King L. Hung, Suhas Rao, Matthew G. Jones, Paul S. Mischel, Howard Y. Chang, Kaiyuan Zhu, Vineet Bafna",
       "title": "Fast and accurate resolution of ecDNA sequence using Cycle-Extractor",
       "preprint_id": "bioRxiv 2026.03.10.710955",
-      "preprint_doi": "10.1101/2026.03.10.710955"
+      "preprint_doi": "10.64898/2026.03.10.710955"
     },
     {
       "author": "Marjan Hosseini, Ella Veiner, Thomas Bergendahl, Tala Yasenpoor, Zane Smith, Margaret Staton, Derek Aguiar",
@@ -374,7 +376,7 @@
       "author": "Mustafa Coşkun, Filipa Blasco Lopes, Pınar Kubilay Tolunay, Mark R. Chance, Mehmet Koyutürk",
       "title": "scProfiterole: Clustering of Single-Cell Proteomic Data Using Graph Contrastive Learning via Spectral Filters",
       "preprint_id": "bioRxiv 2026.02.26.708196",
-      "preprint_doi": "10.1101/2026.02.26.708196"
+      "preprint_doi": "10.64898/2026.02.26.708196"
     },
     {
       "author": "Sanjana Tule, Samuel Davis, Ivan Koludarov, Ariane Mora, Mikael Boden",
@@ -386,13 +388,13 @@
       "author": "Xiaoqi Sheng, Jiawen Liu, Jiaming Liang, Yiheng Zhang, Sankar Mondal, Yutong Li, Tinghe Zhang, Bing Liu, Jiangning Song, Hongmin Cai",
       "title": "Modeling Multi-Modal Brain Connectomes for Brain Disorder Diagnosis via Graph Diffusion Optimal Transport Network",
       "preprint_id": "bioRxiv 2026.03.05.709693",
-      "preprint_doi": "10.1101/2026.03.05.709693"
+      "preprint_doi": "10.64898/2026.03.05.709693"
     },
     {
       "author": "Xinhao Liu, Hongyu Zheng, Peter Halmos, Julian Gold, Erik Storrs, Li Ding, Ben Raphael",
       "title": "Multimodal spatial alignment and morphology mapping with MOSAICField",
       "preprint_id": "bioRxiv 2026.03.10.710931",
-      "preprint_doi": "10.1101/2026.03.10.710931"
+      "preprint_doi": "10.64898/2026.03.10.710931"
     }
   ]
 }
