@@ -72,7 +72,7 @@ else
 		if (preprint ~ /bioRxiv/) 
 		{
 			sub(/^bioRxiv /, "", temp)
-			print "  - Preprint: ["preprint"](https://doi.org/10.1101/"temp")"
+			print "  - Preprint: ["preprint"](https://doi.org/10.64898/"temp")"
 		}
 		else if (preprint ~ /arXiv/)
 		{
