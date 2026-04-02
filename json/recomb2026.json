@@ -16,7 +16,7 @@
       "author": "Francisco Sena and Alexandru I. Tomescu",
       "title": "Fast and Flexible Flow Decompositions in General Graphs via Dominators",
       "preprint_id": "arXiv:2511.19153",
-      "preprint_doi": "10.4855/arXiv.2511.19153"
+      "preprint_doi": "10.48550/arXiv.2511.19153"
     },
     {
       "author": "Ross Stewart, Florent Laval, Michael Calderwood, Matthew Mort, David Cooper, Marc Vidal, Predrag Radivojac",
@@ -76,7 +76,7 @@
       "author": "Victor Chardès",
       "title": "Denoising single-cell transcriptomic data with sparse PCA",
       "preprint_id": "arXiv:2509.15429",
-      "preprint_doi": "10.4855/arXiv.2509.15429"
+      "preprint_doi": "10.48550/arXiv.2509.15429"
     },
     {
       "author": "Yazheng Di and Na Cai",
@@ -250,7 +250,7 @@
       "author": "Anupama Nandi, Seth Neel, Hyunghoon Cho",
       "title": "GOPHER: Optimization-based Phenotype Randomization for Genome-Wide Association Studies with Differential Privacy",
       "preprint_id": "arXiv:2512.04225",
-      "preprint_doi": "10.4855/arXiv.2512.04225"
+      "preprint_doi": "10.48550/arXiv.2512.04225"
     },
     {
       "author": "Chih Hao Wu, Jacob Gilbert, Salem Malikić, S. Cenk Sahinalp",
@@ -304,7 +304,7 @@
       "author": "Chenxin Flora Jiang, Changhu Wang, Jingyi Jessica Li",
       "title": "Nullstrap-DE: A General Framework for Calibrating FDR and Preserving Power in Differential Expression Methods, with Applications to DESeq2 and edgeR",
       "preprint_id": "arXiv:2507.20598",
-      "preprint_doi": "10.4855/arXiv.2507.20598"
+      "preprint_doi": "10.48550/arXiv.2507.20598"
     },
     {
       "author": "Luqi Yang, Zhenwei Huang, Hongyi Xin, Jinpu Cai",
@@ -370,7 +370,7 @@
       "author": "Marjan Hosseini, Ella Veiner, Thomas Bergendahl, Tala Yasenpoor, Zane Smith, Margaret Staton, Derek Aguiar",
       "title": "pHapCompass: Probabilistic Assembly and Uncertainty Quantification of Polyploid Haplotype Phase",
       "preprint_id": "arXiv:2512.04393",
-      "preprint_doi": "10.4855/arXiv.2512.04393"
+      "preprint_doi": "10.48550/arXiv.2512.04393"
     },
     {
       "author": "Mustafa Coşkun, Filipa Blasco Lopes, Pınar Kubilay Tolunay, Mark R. Chance, Mehmet Koyutürk",
