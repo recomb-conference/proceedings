@@ -4,7 +4,6 @@
   "dates": "April 16-19, 2023",
   "editor": "Haixu Tang",
   "website": "https://recomb.org/recomb2023/",
-  "proceedings": "https://recomb.org/proceedings/2025-2021/2023/",
   "papers": [
     {
       "author": "Runpeng Luo, Yu Lin",
@@ -285,7 +284,7 @@
       "journal_doi": "10.1101/gr.277675.123"
     },
     {
-      "author": "Yuelin Liu, Xuan Cindy Li, Farid Rashidi Mehrabadi, Alejandro A. Schäffer, Drew Pratt, David R. Crawford, Salem Maliki´ c, Erin K. Molloy, Vishaka Gopalan, Stephen M. Mount, Eytan Ruppin, Kenneth Aldape, S. Cenk Sahinalp",
+      "author": "Yuelin Liu, Xuan Cindy Li, Farid Rashidi Mehrabadi, Alejandro A. Schäffer, Drew Pratt, David R. Crawford, Salem Malikic, Erin K. Molloy, Vishaka Gopalan, Stephen M. Mount, Eytan Ruppin, Kenneth Aldape, S. Cenk Sahinalp",
       "title": "Single-Cell Methylation Sequencing Data Reveal Succinct Metastatic Migration Histories and Tumor Progression Models",
       "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2023. Lecture Notes in Computer Science, vol 13976, pp 219-221, Springer, Cham.",
       "proceedings_volume": "13976",
@@ -295,7 +294,7 @@
       "preprint_doi": "10.1101/2021.03.22.436475",
       "journal": "Genome Research",
       "journal_title": "Single-cell methylation sequencing data reveal succinct metastatic migration histories and tumor progression models",
-      "journal_authors": "Yuelin Liu, Xuan Cindy Li, Farid Rashidi Mehrabadi, Alejandro A. Schäffer, Drew Pratt, David R. Crawford, Salem Maliki´ c, Erin K. Molloy, Vishaka Gopalan, Stephen M. Mount, Eytan Ruppin, Kenneth Aldape, S. Cenk Sahinalp",
+      "journal_authors": "Yuelin Liu, Xuan Cindy Li, Farid Rashidi Mehrabadi, Alejandro A. Schäffer, Drew Pratt, David R. Crawford, Salem Malikic, Erin K. Molloy, Vishaka Gopalan, Stephen M. Mount, Eytan Ruppin, Kenneth Aldape, S. Cenk Sahinalp",
       "journal_issue_pages": "33(7): 1089-1100",
       "journal_year": "2023",
       "journal_doi": "10.1101/gr.277608.122"
