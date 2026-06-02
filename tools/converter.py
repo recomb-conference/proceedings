@@ -78,6 +78,8 @@ def convert_tsv(input_tsv, output_md, output_json):
     
     # Init Markdown Base
     if output_md:
+        # Format the website as a Markdown link if it exists
+        website_line = f"**Website:** [{website}]({website})  \n" if website else ""
         md_content = f"""---
 title: {year}
 nav_order: {nav_order}
@@ -90,7 +92,7 @@ parent: {parent}
 **PC Chair:** {pc_chair}  
 **Organization Committee:** {org_committee}  
 **Keynote Speakers:** {keynotes}  
-
+{website_line}
 ## List of Publications
 """
     # Init JSON Base
@@ -158,14 +160,14 @@ parent: {parent}
             preprint_text = row[4].strip()
             if preprint_text and preprint_text.upper() not in ('NONE', 'N/A', ''):
                 
-                # --- NEW HAL LOGIC ---
+                # --- HAL LOGIC ---
                 if preprint_text.lower().startswith('hal'):
                     hal_url = f"https://hal.science/{preprint_text}"
                     if output_md:
                         md_content += f"  - Preprint: [{preprint_text}]({hal_url})\n"
                     if output_json:
                         paper_obj["preprint_id"] = preprint_text
-                        paper_obj["preprint_url"] = hal_url # Uses 'preprint_url' instead of 'preprint_doi' to avoid UI confusion
+                        paper_obj["preprint_url"] = hal_url 
                         
                 else:
                     # --- STANDARD DOI LOGIC ---
