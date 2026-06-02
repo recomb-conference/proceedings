@@ -2,8 +2,15 @@
 import argparse
 import csv
 import sys
+import json
 
-def convert_tsv_to_markdown(input_tsv, output_md):
+def get_ordinal(n):
+    """Returns the number with its ordinal suffix (e.g. 1st, 2nd, 3rd, 4th)."""
+    if 11 <= (n % 100) <= 13:
+        return f"{n}th"
+    return f"{n}{['th', 'st', 'nd', 'rd', 'th'][min(n % 10, 4)]}"
+
+def convert_tsv(input_tsv, output_md, output_json):
     metadata = {}
     publications = []
 
@@ -43,16 +50,22 @@ def convert_tsv_to_markdown(input_tsv, output_md):
     pc_chair = metadata.get('#PC_Chair', '')
     org_committee = metadata.get('#Organization_Committee', '')
     keynotes = metadata.get('#Keynotes', '')
+    website = metadata.get('#Website', '') 
     
-    # Store Proceedings variables to be used in the loop
+    # Store Proceedings variables
     proc_type = metadata.get('#Proceedings_Type', 'NONE')
     proc_vol = metadata.get('#Proceedings_Volume', '')
     
-    # Calculate iteration and dynamic front-matter bounds
+    # Calculate iteration and bounds
     year = int(year_str) if year_str.isdigit() else 2018
     iteration = year - 1996 
     
-    # Dynamic Parent Logic (Divisible by 5, Minimum bound 1997)
+    # Format the dates string to ensure it includes the year for the JSON output
+    json_dates = dates
+    if dates and str(year) not in dates:
+        json_dates = f"{dates}, {year}"
+    
+    # Dynamic Parent Logic
     remainder = year % 5
     upper_bound = year if remainder == 0 else year + (5 - remainder)
     lower_bound = max(1997, upper_bound - 4)
@@ -60,8 +73,12 @@ def convert_tsv_to_markdown(input_tsv, output_md):
     parent = f"{upper_bound}-{lower_bound}"
     nav_order = upper_bound - year + 1
 
-    # Format the markdown header
-    md_content = f"""---
+    md_content = ""
+    json_data = {}
+    
+    # Init Markdown Base
+    if output_md:
+        md_content = f"""---
 title: {year}
 nav_order: {nav_order}
 parent: {parent}
@@ -76,6 +93,19 @@ parent: {parent}
 
 ## List of Publications
 """
+    # Init JSON Base
+    if output_json:
+        conf_title = f"{get_ordinal(iteration)} Annual International Conference on Research in Computational Molecular Biology"
+        json_data = {
+            "title": conf_title,
+            "location": location,
+            "dates": json_dates,
+            "pc_chair": pc_chair,
+            "organization_committee": org_committee,
+            "keynotes": keynotes,
+            "website": website,
+            "papers": []
+        }
 
     # --- PROCESS PUBLICATIONS ROW BY ROW ---
     for row in publications:
@@ -88,51 +118,82 @@ parent: {parent}
         pages = row[2].strip() if len(row) > 2 else ''
         proc_doi = row[3].strip() if len(row) > 3 else ''
         
-        # Base format for every paper
-        md_content += f"\n\n- **{title}**. {authors}.\n"
+        # Base JSON paper object prep
+        paper_obj = {}
+        if output_json:
+            paper_obj["author"] = authors
+            paper_obj["title"] = title
+            
+        if output_md:
+            md_content += f"\n\n- **{title}**. {authors}.\n"
         
-        # 1. Proceedings Format based on type (LNCS, ACM, NONE)
+        # 1. Proceedings Format based on type
         if proc_type == 'LNCS':
-            md_content += f"  - Proceedings: Research in Computational Molecular Biology. RECOMB {year}. Lecture Notes in Computer Science, vol {proc_vol}, pp {pages}, Springer, Cham.\n"
-            if proc_doi and proc_doi.upper() not in ('NONE', 'N/A', ''):
-                md_content += f"    - DOI: [{proc_doi}](https://doi.org/{proc_doi})\n"
-        
+            proc_str = f"Research in Computational Molecular Biology. RECOMB {year}. Lecture Notes in Computer Science, vol {proc_vol}, pp {pages}, Springer, Cham."
+            if output_md:
+                md_content += f"  - Proceedings: {proc_str}\n"
+                if proc_doi and proc_doi.upper() not in ('NONE', 'N/A', ''):
+                    md_content += f"    - DOI: [{proc_doi}](https://doi.org/{proc_doi})\n"
+            if output_json:
+                paper_obj["proceedings_name"] = proc_str
+                if proc_vol: paper_obj["proceedings_volume"] = proc_vol
+                if pages: paper_obj["proceedings_pages"] = pages
+                if proc_doi and proc_doi.upper() not in ('NONE', 'N/A', ''):
+                    paper_obj["proceedings_doi"] = proc_doi
+                    
         elif proc_type == 'ACM':
-            md_content += f"  - Proceedings: Research in Computational Molecular Biology. RECOMB {year}, pp {pages}. Association for Computing Machinery, New York, NY, USA.\n"
-            if proc_doi and proc_doi.upper() not in ('NONE', 'N/A', ''):
-                md_content += f"    - DOI: [{proc_doi}](https://doi.org/{proc_doi})\n"
+            proc_str = f"Research in Computational Molecular Biology. RECOMB {year}, pp {pages}. Association for Computing Machinery, New York, NY, USA."
+            if output_md:
+                md_content += f"  - Proceedings: {proc_str}\n"
+                if proc_doi and proc_doi.upper() not in ('NONE', 'N/A', ''):
+                    md_content += f"    - DOI: [{proc_doi}](https://doi.org/{proc_doi})\n"
+            if output_json:
+                paper_obj["proceedings_name"] = proc_str
+                if pages: paper_obj["proceedings_pages"] = pages
+                if proc_doi and proc_doi.upper() not in ('NONE', 'N/A', ''):
+                    paper_obj["proceedings_doi"] = proc_doi
                 
         # 2. Preprint Format
         if len(row) > 4:
             preprint_text = row[4].strip()
-            if preprint_text and preprint_text.upper() not in ('NONE', 'N/A'):
-                preprint_prefix = row[5].strip() if len(row) > 5 else ''
+            if preprint_text and preprint_text.upper() not in ('NONE', 'N/A', ''):
                 
-                # Normalize the prefix to cleanly build the link
-                if not preprint_prefix.endswith('/'):
-                    # Fix standard CrossRef missing 0 for arXiv prefix (10.4855 -> 10.48550/)
-                    if preprint_prefix == '10.4855': 
-                        preprint_prefix = '10.48550/'
-                    elif preprint_prefix:
-                        preprint_prefix += '/'
-                
-                if preprint_text.startswith('bioRxiv'):
-                    # Remove the string "bioRxiv" and trim any inner spaces
-                    doi_id = preprint_text.replace('bioRxiv', '').replace(' ', '')
-                    link_url = f"{preprint_prefix}{doi_id}"
-                
-                elif preprint_text.startswith('arXiv:'):
-                    # For DOI links, replace ":" with "." so crossref resolves properly
-                    url_id = preprint_text.replace('arXiv:', 'arXiv.')
-                    link_url = f"{preprint_prefix}{url_id}"
-                
+                # --- NEW HAL LOGIC ---
+                if preprint_text.lower().startswith('hal'):
+                    hal_url = f"https://hal.science/{preprint_text}"
+                    if output_md:
+                        md_content += f"  - Preprint: [{preprint_text}]({hal_url})\n"
+                    if output_json:
+                        paper_obj["preprint_id"] = preprint_text
+                        paper_obj["preprint_url"] = hal_url # Uses 'preprint_url' instead of 'preprint_doi' to avoid UI confusion
+                        
                 else:
-                    # Fallback straight concatenation
-                    link_url = f"{preprint_prefix}{preprint_text}"
+                    # --- STANDARD DOI LOGIC ---
+                    preprint_prefix = row[5].strip() if len(row) > 5 else ''
                     
-                md_content += f"  - Preprint: [{preprint_text}](https://doi.org/{link_url})\n"
+                    # Normalize prefix and build link
+                    if not preprint_prefix.endswith('/'):
+                        if preprint_prefix == '10.4855': 
+                            preprint_prefix = '10.48550/'
+                        elif preprint_prefix:
+                            preprint_prefix += '/'
+                    
+                    if preprint_text.startswith('bioRxiv'):
+                        doi_id = preprint_text.replace('bioRxiv', '').replace(' ', '')
+                        link_val = f"{preprint_prefix}{doi_id}"
+                    elif preprint_text.startswith('arXiv:'):
+                        url_id = preprint_text.replace('arXiv:', 'arXiv.')
+                        link_val = f"{preprint_prefix}{url_id}"
+                    else:
+                        link_val = f"{preprint_prefix}{preprint_text}"
+                        
+                    if output_md:
+                        md_content += f"  - Preprint: [{preprint_text}](https://doi.org/{link_val})\n"
+                    if output_json:
+                        paper_obj["preprint_id"] = preprint_text
+                        paper_obj["preprint_doi"] = link_val
                 
-        # 3. Journal Format (If present)
+        # 3. Journal Format
         if len(row) > 6:
             j_name = row[6].strip()
             if j_name and j_name.upper() not in ('NONE', 'N/A', ''):
@@ -142,34 +203,56 @@ parent: {parent}
                 j_year = row[10].strip() if len(row) > 10 else ''
                 j_doi = row[11].strip() if len(row) > 11 else ''
                 
-                md_content += f"  - Journal: **{j_title}**. {j_authors}. *{j_name}*, {j_vol}, {j_year}.\n"
-                if j_doi and j_doi.upper() not in ('NONE', 'N/A', ''):
-                    md_content += f"    - DOI: [{j_doi}](https://doi.org/{j_doi})\n"
+                if output_md:
+                    md_content += f"  - Journal: **{j_title}**. {j_authors}. *{j_name}*, {j_vol}, {j_year}.\n"
+                    if j_doi and j_doi.upper() not in ('NONE', 'N/A', ''):
+                        md_content += f"    - DOI: [{j_doi}](https://doi.org/{j_doi})\n"
+                
+                if output_json:
+                    paper_obj["journal"] = j_name
+                    if j_title: paper_obj["journal_title"] = j_title
+                    if j_authors: paper_obj["journal_authors"] = j_authors
+                    if j_vol: paper_obj["journal_issue_pages"] = j_vol
+                    if j_year: paper_obj["journal_year"] = j_year
+                    if j_doi and j_doi.upper() not in ('NONE', 'N/A', ''):
+                        paper_obj["journal_doi"] = j_doi
+                        
+        if output_json:
+            json_data["papers"].append(paper_obj)
 
-    # Write the completed output
-    try:
-        with open(output_md, 'w', encoding='utf-8') as f:
-            f.write(md_content)
-        print(f"\nSuccess! Full file converted and saved to '{output_md}'.")
-        print(f"Year: {year} | Parent: {parent} | Iteration: {iteration}\n")
-    except Exception as e:
-        print(f"\n[ERROR] Could not write to file '{output_md}': {e}\n")
-        sys.exit(1)
+    # --- WRITE FILES ---
+    if output_md:
+        try:
+            with open(output_md, 'w', encoding='utf-8') as f:
+                f.write(md_content)
+            print(f"[SUCCESS] Markdown format saved to: '{output_md}'")
+        except Exception as e:
+            print(f"\n[ERROR] Could not write to file '{output_md}': {e}\n")
+            
+    if output_json:
+        try:
+            with open(output_json, 'w', encoding='utf-8') as f:
+                json.dump(json_data, f, indent=2, ensure_ascii=False)
+            print(f"[SUCCESS] JSON format saved to: '{output_json}'")
+        except Exception as e:
+            print(f"\n[ERROR] Could not write to file '{output_json}': {e}\n")
 
 if __name__ == "__main__":
     custom_epilog = """
 Examples:
-  ./converter.py -i "RECOMB Proceedings - Official List - 2018.tsv" -md "2018.md"
-  python3 converter.py -i data.tsv -md output.md
+  ./converter.py -i "data.tsv" -md "output.md"
+  ./converter.py -i "data.tsv" -json "output.json"
+  ./converter.py -i "data.tsv" -md "output.md" -json "output.json"
 """
     parser = argparse.ArgumentParser(
-        description='Convert RECOMB TSV files into Markdown format including all publications.',
+        description='Convert RECOMB TSV files into Markdown and/or JSON format.',
         epilog=custom_epilog,
         formatter_class=argparse.RawTextHelpFormatter
     )
     
     parser.add_argument('-i', '--input', required=True, help='Path to the input TSV file')
-    parser.add_argument('-md', '--markdown', required=True, help='Path to the output Markdown file')
+    parser.add_argument('-md', '--markdown', help='Path to the output Markdown file')
+    parser.add_argument('-json', '--json', help='Path to the output JSON file')
     
     if len(sys.argv) == 1:
         parser.print_help(sys.stderr)
@@ -177,6 +260,10 @@ Examples:
         
     try:
         args = parser.parse_args()
-        convert_tsv_to_markdown(args.input, args.markdown)
+        
+        if not args.markdown and not args.json:
+            parser.error("\n[ERROR] You must provide an output path! Provide at least one: -md OR -json")
+            
+        convert_tsv(args.input, args.markdown, args.json)
     except SystemExit:
         sys.exit(1)
