@@ -6,6 +6,11 @@ on:
     paths:
       - 'tsv/**/*.tsv'
   workflow_dispatch: # Allows you to run this manually from the Actions tab if needed
+  # This tells the Pages builder to run the moment your TSV script finishes successfully!
+  workflow_run:
+    workflows: ["Process RECOMB TSV Files"] 
+    types:
+      - completed
 
 # Add permissions needed to commit and push changes back to the repo
 permissions:
@@ -30,8 +35,8 @@ jobs:
           # A Personal Access Token (PAT) is sometimes needed to trigger subsequent workflows (like Pages)
           # By default, actions made by GITHUB_TOKEN don't trigger other workflows.
           # If Pages doesn't build automatically after this, you may need to use a PAT here.
-          token: ${{ secrets.PAGES_TRIGGER_TOKEN }}
-          # fetch-depth: 0 
+          # token: ${{ secrets.PAGES_TRIGGER_TOKEN }}
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v5
