@@ -16,14 +16,22 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+      - name: Check if secret is populated
+        run: |
+          if [ -z "${{ secrets.PAGES_TRIGGER_TOKEN }}" ]; then
+            echo "The token is EMPTY! GitHub cannot find the secret."
+            exit 1
+          else
+            echo "The token is populated! Proceeding..."
+          fi
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           # A Personal Access Token (PAT) is sometimes needed to trigger subsequent workflows (like Pages)
           # By default, actions made by GITHUB_TOKEN don't trigger other workflows.
           # If Pages doesn't build automatically after this, you may need to use a PAT here.
-          # token: ${{ secrets.PAGES_TRIGGER_TOKEN }}
-          fetch-depth: 0 
+          token: ${{ secrets.PAGES_TRIGGER_TOKEN }}
+          # fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v5
