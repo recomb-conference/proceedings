@@ -1,0 +1,299 @@
+{
+  "title": "20th Annual International Conference on Research in Computational Molecular Biology",
+  "location": "Santa Monica, CA, United States",
+  "dates": "April 17 - 21, 2016",
+  "pc_chair": "Mona Singh",
+  "organization_committee": "Eleazar Eskin (chair)",
+  "keynotes": "Peter S. Kim, Rob Knight, Leonid Kruglyak, Phil Bradley, Teresa Przytycka, Karen Adelman",
+  "website": "https://recomb.org/recomb2016/",
+  "papers": [
+    {
+      "author": "Chandler Zuo, Kailei Chen, Sündüz Keleş",
+      "title": "A MAD-Bayes Algorithm for State-Space Inference and Clustering with Application to Querying Large Collections of ChIP-Seq Data Sets",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 19-36, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "19-36",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_2"
+    },
+    {
+      "author": "Hao Wang, Joel McManus, Carl Kingsford",
+      "title": "Accurate Recovery of Ribosome Positions Reveals Slow Translation of Wobble-Pairing Codons in Yeast",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 37-52, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "37-52",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_3"
+    },
+    {
+      "author": "Meghana Kshirsagar, Jaime G. Carbonell, Judith Klein-Seetharaman, Keerthiram Murugesan",
+      "title": "Multitask Matrix Completion for Learning Protein Interactions Across Diseases",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 53-64, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "53-64",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_4"
+    },
+    {
+      "author": "Simona Cristea, Jack Kuipers, Niko Beerenwinkel",
+      "title": "pathTiMEx: Joint Inference of Mutually Exclusive Cancer Pathways and Their Dependencies in Tumor Progression",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 65-82, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "65-82",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_5"
+    },
+    {
+      "author": "Nilgun Donmez, Salem Malikic, Alexander W. Wyatt, Martin E. Gleave, Colin C. Collins, S. Cenk Sahinalp",
+      "title": "Clonality Inference from Single Tumor Samples Using Low Coverage Sequence Data",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 83-94, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "83-94",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_6"
+    },
+    {
+      "author": "Nicolo Fusi and Jennifer Listgarten",
+      "title": "Flexible Modelling of Genetic Effects on Function-Valued Traits",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 95-110, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "95-110",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_7"
+    },
+    {
+      "author": "Ahmed Sobih, Alexandru I. Tomescu, Veli Mäkinen",
+      "title": "MetaFlow: Metagenomic Profiling Based on Whole-Genome Coverage Analysis with Min-Cost Flows",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 111-121, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "111-121",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_8"
+    },
+    {
+      "author": "Mark A. Hallen, Jonathan D. Jou, Bruce R. Donald",
+      "title": "LUTE (Local Unpruned Tuple Expansion): Accurate Continuously Flexible Protein Design with General Energy Functions and Rigid-rotamer-like Efficiency",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 122-136, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "122-136",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_9"
+    },
+    {
+      "author": "David Pellow, Darya Filippova, Carl Kingsford",
+      "title": "Improving Bloom Filter Performance on Sequence Data Using k-mer Bloom Filters",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 137-151, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "137-151",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_10"
+    },
+    {
+      "author": "Alexandru I. Tomescu and Paul Medvedev",
+      "title": "Safe and Complete Contig Assembly Via Omnitigs",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 152-163, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "152-163",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_11"
+    },
+    {
+      "author": "Alexander Artyomenko, Nicholas C. Wu, Serghei Mangul, Eleazar Eskin, Ren Sun, Alex Zelikovsky",
+      "title": "Long Single-Molecule Reads Can Resolve the Complexity of the Influenza Virus Composed of Rare, Closely Related Mutant Variants",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 164-175, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "164-175",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_12"
+    },
+    {
+      "author": "Kristoffer Sahlin, Mattias Frånberg, Lars Arvestad",
+      "title": "Structural Variation Detection with Read Pair Information-An Improved Null-Hypothesis Reduces Bias",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 176-188, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "176-188",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_13"
+    },
+    {
+      "author": "Mingfu Shao and Bernard M.E. Moret",
+      "title": "On Computing Breakpoint Distances for Genomes with Duplicate Genes",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 189-203, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "189-203",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_14"
+    },
+    {
+      "author": "Luis Antonio B. Kowada, Daniel Doerr, Simone Dantas, Jens Stoye",
+      "title": "New Genome Similarity Measures Based on Conserved Gene Adjacencies",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 204-224, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "204-224",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_15"
+    },
+    {
+      "author": "Constantinos Tsirogiannis and Brody Sandel",
+      "title": "Fast Phylogenetic Biodiversity Computations Under a Non-uniform Random Distribution",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 225-238, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "225-238",
+      "proceedings_doi": "10.1007/978-3-319-31957-5_16"
+    },
+    {
+      "author": "Joshua D. Welch, Ziqing Liu, Li Wang, Junjie Lu, Paul Lerou, Jeremy Purvis, Li Qian, Alexander Hartemink, Jan F. Prins",
+      "title": "SLICER: Inferring Branched, Nonlinear Cellular Trajectories from Single Cell RNA-seq Data",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 239-240, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "239-240",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Chenchen Zou, Yuping Zhang, Zhengqing Ouyang",
+      "title": "Multi-track Modeling for Genome-Scale Reconstruction of 3D Chromatin Structure from Hi-C Data",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 241-241, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "241-241",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Yael Steuerman and Irit Gat-Viks",
+      "title": "Revealing the Genetic Basis of Immune Traits in the Absence of Experimental Immunophenotyping",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 242-243, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "242-243",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Emre Sefer and Ziv-Bar Joseph",
+      "title": "Shall We Dense? Comparing Design Strategies for Time Series Expression Experiments",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 244-245, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "244-245",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Sean Simmons, Cenk Sahinalp, Bonnie Berger",
+      "title": "Enabling Privacy Preserving GWAS in Heterogeneous Human Populations",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 246-247, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "246-247",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Victoria Popic and Serafim Batzoglou",
+      "title": "Efficient Privacy-Preserving Read Mapping Using Locality Sensitive Hashing and Secure Kmer Voting",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 248-249, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "248-249",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Tommy Hansen and Fabio Vandin",
+      "title": "Finding Mutated Subnetworks Associated with Survival in Cancer",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 250-250, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "250-250",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Mohammed El-Kebir, Gryte Satas, Layla Oesper, Benjamin J. Raphael",
+      "title": "Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 251-251, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "251-251",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Katharina Jahn, Jack Kuipers, Niko Beerenwinkel",
+      "title": "Tree Inference for Single-Cell Data",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 252-252, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "252-252",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Yuqing Yang, Ning Chen, Ting Chen",
+      "title": "mLDM: A New Hierarchical Bayesian Statistical Model for Sparse Microbial Association Discovery",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 253-254, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "253-254",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Yunan Luo, Jianyang Zeng, Bonnie Berger, Jian Peng",
+      "title": "Low-Density Locality-Sensitive Hashing Boosts Metagenomic Binning",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 255-257, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "255-257",
+      "proceedings_doi": "10.1007/978-3-319-31957-5",
+      "preprint_id": "arXiv:1604.02699",
+      "preprint_doi": "arXiv.1604.02699",
+      "journal": "Bioinformatics",
+      "journal_title": "Metagenomic binning through low-density hashing",
+      "journal_authors": "Yunan Luo, Yun William Yu, Jianyang Zeng, Bonnie Berger, Jian Peng",
+      "journal_issue_pages": "35(2):219–226",
+      "journal_year": "2018",
+      "journal_doi": "10.1093/bioinformatics/bty611"
+    },
+    {
+      "author": "Sergey Nurk, Dmitry Meleshko, Anton Korobeynikov, Pavel Pevzner",
+      "title": "metaSPAdes: A New Versatile de novo Metagenomics Assembler",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 258-258, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "258-258",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Shashank Singh, Sabrina Rashid, Saket Navlakha, Ziv Bar-Joseph",
+      "title": "Distributed Gradient Descent in Bacterial Food Search",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 259-260, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "259-260",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Phuong Dao, Jan Hoinka, Yijie Wang, Mayumi Takahashi, Jiehua Zhou, Fabrizio Costa, John Rossi, John Burnett, Rolf Backofen, Teresa M. Przytycka",
+      "title": "AptaTRACE: Elucidating Sequence-Structure Binding Motifs by Uncovering Selection Trends in HT-SELEX Experiments",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 261-262, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "261-262",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "John Wiedenhoeft, Eric Brugel, Alexander Schliep",
+      "title": "Fast Bayesian Inference of Copy Number Variants Using Hidden Markov Models with Wavelet Compression",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 263-263, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "263-263",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Yang Li, Shiguo Zhou, David C. Schwartz, Jian Ma",
+      "title": "Allele-Specific Quantification of Structural Variations in Cancer Genomes",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 264-264, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "264-264",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Yu Lin, Max W. Shen, Jeffrey Yuan, Mark Chaisson, Pavel P. Pevzner",
+      "title": "Assembly of Long Error-Prone Reads Using de Bruijn Graphs",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 265-265, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "265-265",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Andreas D.M. Gunawan, Bhaskar Das Gupta, Louxin Zhang",
+      "title": "Locating a Tree in a Reticulation-Visible Network in Cubic Time",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 266-266, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "266-266",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Somaye Hashemifar, Qixing Huang, Jinbo Xu",
+      "title": "Joint Alignment of Multiple Protein-Protein Interaction Networks via Convex Optimization",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 267-269, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "267-269",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    },
+    {
+      "author": "Xiuli Ma, Guangyu Zhou, Jingjing Wang, Jian Peng, Jiawei Han",
+      "title": "Complexes Detection in Biological Networks via Diversified Dense Subgraphs Mining",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 270-272, Springer, Cham.",
+      "proceedings_volume": "9649",
+      "proceedings_pages": "270-272",
+      "proceedings_doi": "10.1007/978-3-319-31957-5"
+    }
+  ]
+}
