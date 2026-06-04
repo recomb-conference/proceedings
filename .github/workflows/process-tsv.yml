@@ -1,42 +1,34 @@
-name: Process RECOMB TSV Files
+name: Process TSV and Deploy Pages
 
-# 1. Trigger the workflow only when files in the tsv/ directory are modified.
+# Trigger the workflow when files in the tsv/ directory are modified.
 on:
   push:
     paths:
       - 'tsv/**/*.tsv'
-  workflow_dispatch: # Allows you to run this manually from the Actions tab if needed
-  # This tells the Pages builder to run the moment your TSV script finishes successfully!
-  workflow_run:
-    workflows: ["Process RECOMB TSV Files"] 
-    types:
-      - completed
+  workflow_dispatch: 
 
-# Add permissions needed to commit and push changes back to the repo
+# These permissions allow the bot to commit files AND deploy the website
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
+  # ==========================================
+  # JOB 1: Run Python Script & Commit Files
+  # ==========================================
   convert-and-commit:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Check if secret is populated
-        run: |
-          if [ -z "${{ secrets.PAGES_TRIGGER_TOKEN }}" ]; then
-            echo "The token is EMPTY! GitHub cannot find the secret."
-            exit 1
-          else
-            echo "The token is populated! Proceeding..."
-          fi
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          # A Personal Access Token (PAT) is sometimes needed to trigger subsequent workflows (like Pages)
-          # By default, actions made by GITHUB_TOKEN don't trigger other workflows.
-          # If Pages doesn't build automatically after this, you may need to use a PAT here.
-          # token: ${{ secrets.PAGES_TRIGGER_TOKEN }}
-          fetch-depth: 0 
+        # Notice we removed the PAT token here! It will use the default GITHUB_TOKEN.
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -48,25 +40,17 @@ jobs:
 
       - name: Process all TSV files
         run: |
-          # Ensure base output directories exist
           mkdir -p json bib
 
-          # Loop through all .tsv files in the tsv/ directory
           for tsv_file in tsv/*.tsv; do
-            # Skip if no TSV files are found
             [ -e "$tsv_file" ] || continue
             
-            # Extract the year from the TSV filename using grep and regex.
             YEAR=$(echo "$tsv_file" | grep -o -E '[0-9]{4}')
-            
-            if [ -z "$YEAR" ]; then
-              echo "Warning: Could not extract a year from filename $tsv_file. Skipping."
-              continue
-            fi
+            if [ -z "$YEAR" ]; then continue; fi
             
             echo "Processing file for year: $YEAR ($tsv_file)"
             
-            # --- CALCULATE 5-YEAR PARENT DIRECTORY BOUNDS IN BASH ---
+            # Calculate 5-year parent directory bounds
             REMAINDER=$((YEAR % 5))
             if [ $REMAINDER -eq 0 ]; then
               UPPER_BOUND=$YEAR
@@ -75,40 +59,62 @@ jobs:
             fi
             
             LOWER_BOUND=$((UPPER_BOUND - 4))
-            
-            # Ensure lower bound does not drop below 1997
-            if [ $LOWER_BOUND -lt 1997 ]; then
-              LOWER_BOUND=1997
-            fi
+            if [ $LOWER_BOUND -lt 1997 ]; then LOWER_BOUND=1997; fi
             
             PARENT_DIR="${UPPER_BOUND}-${LOWER_BOUND}"
-            # --------------------------------------------------------
             
-            # Create the dynamic parent directory before writing to it
             mkdir -p "proceedings/${PARENT_DIR}"
             
-            # Define exact output file paths
             MD_OUTPUT="proceedings/${PARENT_DIR}/${YEAR}.md"
             JSON_OUTPUT="json/recomb${YEAR}.json"
             BIB_OUTPUT="bib/recomb${YEAR}.bib"
             
-            # Run the Python script
             python tools/converter.py -i "$tsv_file" -md "$MD_OUTPUT" -json "$JSON_OUTPUT" -bib "$BIB_OUTPUT"
           done
 
       - name: Commit and push generated files
         run: |
-          # Configure Git as a generic GitHub Actions bot
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Stage the newly created/updated files
           git add proceedings/ json/ bib/
           
-          # Check if there are actually any changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Automated conversion: TSV to MD, JSON, and BibTeX"
             git push
           fi
+
+  # ==========================================
+  # JOB 2: Build and Deploy the Website
+  # ==========================================
+  build-and-deploy:
+    # This tells Job 2 to wait until Job 1 finishes successfully
+    needs: convert-and-commit 
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main # Pull the absolute latest code, including the bot's new commit
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
