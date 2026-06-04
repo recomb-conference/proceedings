@@ -22,7 +22,7 @@ jobs:
           # A Personal Access Token (PAT) is sometimes needed to trigger subsequent workflows (like Pages)
           # By default, actions made by GITHUB_TOKEN don't trigger other workflows.
           # If Pages doesn't build automatically after this, you may need to use a PAT here.
-          token: ${{ secrets.PAGES_TRIGGER_TOKEN }}
+          # token: ${{ secrets.PAGES_TRIGGER_TOKEN }}
           fetch-depth: 0 
 
       - name: Set up Python
