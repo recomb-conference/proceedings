@@ -1,9 +1,11 @@
 {
   "title": "27th Annual International Conference on Research in Computational Molecular Biology",
   "location": "İstanbul, Türkiye",
-  "dates": "April 16-19, 2023",
-  "editor": "Haixu Tang",
-  "website": "https://recomb.org/recomb2023/",
+  "dates": "April 16 - 19, 2023",
+  "pc_chair": "Haixu Tang",
+  "organization_committee": "Can Alkan (co-chair), Attila Gürsoy (co-chair), Zülal Bingöl, A. Ercüment Çiçek, Tunca Doğan, Ezgi Ebren, Arzucan Özgür, Öznur Taştan",
+  "keynotes": "İvet Bahar, Ewan Birney, Richard Durbin, Tuuli Lappalainen, Sohini Ramachandran, Fabian Theis",
+  "website": "https://recomb.org/recomb2023",
   "papers": [
     {
       "author": "Runpeng Luo, Yu Lin",
@@ -312,8 +314,7 @@
       "journal_title": "Information-theoretic Classification Accuracy: A Criterion that Guides Data-driven Combination of Ambiguous Outcome Labels in Multi-class Classification",
       "journal_authors": "Chihao Zhang, Yiling Elaine Chen, Shihua Zhang, Jingyi Jessica Li",
       "journal_issue_pages": "23(341): 1-65",
-      "journal_year": "2022",
-      "journal_doi": "NONE"
+      "journal_year": "2022"
     },
     {
       "author": "David Pellow, Lianrong Pu, Baris Ekim, Lior Kotlar, Ron Shamir, Yaron Orenstein",
@@ -329,7 +330,7 @@
       "journal_authors": "David Pellow, Lianrong Pu, Baris Ekim, Lior Kotlar, Bonnie Berger, Ron Shamir, Yaron Orenstein",
       "journal_issue_pages": "33(7): 1154-1161",
       "journal_year": "2023",
-      "journal_doi": " 10.1101/gr.277644.123"
+      "journal_doi": "10.1101/gr.277644.123"
     },
     {
       "author": "Daniel N. Baker, Ben Langmead",
@@ -386,8 +387,8 @@
       "proceedings_volume": "13976",
       "proceedings_pages": "233-235",
       "proceedings_doi": "10.1007/978-3-031-29119-7",
-      "preprint_id": "bioRxiv 2022.10.26.513890 ",
-      "preprint_doi": "10.1101/2022.10.26.513890 ",
+      "preprint_id": "bioRxiv 2022.10.26.513890",
+      "preprint_doi": "10.1101/2022.10.26.513890",
       "journal": "Genome Research",
       "journal_title": "Aligning distant sequences to graphs using long seed sketches",
       "journal_authors": "Amir Joudaki, Alexandru Meterez, Harun Mustafa, Ragnar Groot Koerkamp, André Kahles, Gunnar Rätsch",
@@ -418,8 +419,8 @@
       "proceedings_volume": "13976",
       "proceedings_pages": "239-240",
       "proceedings_doi": "10.1007/978-3-031-29119-7",
-      "preprint_id": "bioRxiv 2023.01.05.522921 ",
-      "preprint_doi": "10.1101/2023.01.05.522921 "
+      "preprint_id": "bioRxiv 2023.01.05.522921",
+      "preprint_doi": "10.1101/2023.01.05.522921"
     },
     {
       "author": "Sara C. Schulte, Alexander Dilthey, Gunnar W. Klau",
@@ -444,8 +445,8 @@
       "proceedings_volume": "13976",
       "proceedings_pages": "244-246",
       "proceedings_doi": "10.1007/978-3-031-29119-7",
-      "preprint_id": "bioRxiv 2023.01.06.522935 ",
-      "preprint_doi": "10.1101/2023.01.06.522935 ",
+      "preprint_id": "bioRxiv 2023.01.06.522935",
+      "preprint_doi": "10.1101/2023.01.06.522935",
       "journal": "Genome Research",
       "journal_title": "Ultrafast genome-wide inference of pairwise coalescence times",
       "journal_authors": "Regev Schweiger, Richard Durbin",
@@ -476,8 +477,8 @@
       "proceedings_volume": "13976",
       "proceedings_pages": "249-250",
       "proceedings_doi": "10.1007/978-3-031-29119-7",
-      "preprint_id": "bioRxiv 2023.01.04.522803 ",
-      "preprint_doi": "10.1101/2023.01.04.522803 ",
+      "preprint_id": "bioRxiv 2023.01.04.522803",
+      "preprint_doi": "10.1101/2023.01.04.522803",
       "journal": "Genome Research",
       "journal_title": "Minimal positional substring cover is a haplotype threading alternative to Li and Stephens model",
       "journal_authors": "Ahsan Sanaullah, Degui Zhi, Shaojie Zhang",

@@ -1,10 +1,11 @@
 {
   "title": "23rd Annual International Conference on Research in Computational Molecular Biology",
-  "location": "Washington, DC, United States",
-  "dates": "May 5-8, 2019",
-  "editor": "Lenore J. Cowen",
-  "website": "https://recomb.org/recomb2019/",
-  "proceedings": "https://recomb.org/proceedings/2020-2016/2019/",
+  "location": "Washington, DC, USA",
+  "dates": "May 5 - 8, 2019",
+  "pc_chair": "Lenore J. Cowen",
+  "organization_committee": "Max Alekseyev (co-chair), Teresa Przytycka (co-chair), Pavel Avdeyev, Jan Hoinka, Chanson Benjamin, Damian Wojtowicz, Rebecca Sarto Basso, Alexander Hopkins-Ives",
+  "keynotes": "Carlos D. Bustamante, Rachel Kolodny, Mihai Pop, Franziska Michor, Eytan Ruppin, Alfonso Valencia",
+  "website": "https://recomb.org/recomb2019",
   "papers": [
     {
       "author": "Fatemeh Almodaresi, Prashant Pandey, Michael Ferdman, Rob Johnson, Rob Patro",
@@ -98,7 +99,7 @@
     },
     {
       "author": "Jonathan D. Jou, Graham T. Holt, Anna U. Lowegard, Bruce R. Donald",
-      "title": "Minimization-Aware Recursive  K*(MARK*): A Novel, Provable Algorithm that Accelerates Ensemble-Based Protein Design and Provably Approximates the Energy Landscape",
+      "title": "Minimization-Aware Recursive  K\\*(MARK\\*): A Novel, Provable Algorithm that Accelerates Ensemble-Based Protein Design and Provably Approximates the Energy Landscape",
       "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2019. Lecture Notes in Computer Science, vol 11467, pp 101-119, Springer, Cham.",
       "proceedings_volume": "11467",
       "proceedings_pages": "101-119",
@@ -159,7 +160,7 @@
       "journal_doi": "10.1089/cmb.2019.0309"
     },
     {
-      "author": "Haoyun Lei, Bochuan Lyu, E. Michael Gertz, Alejandro A. Schäffer, Xulian Shi, Kui Wu, Guibo Li, Liqin Xu, Yong Hou, Michael Dean, Russell Schwartz ",
+      "author": "Haoyun Lei, Bochuan Lyu, E. Michael Gertz, Alejandro A. Schäffer, Xulian Shi, Kui Wu, Guibo Li, Liqin Xu, Yong Hou, Michael Dean, Russell Schwartz",
       "title": "Tumor Copy Number Deconvolution Integrating Bulk and Single-Cell Sequencing Data",
       "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2019. Lecture Notes in Computer Science, vol 11467, pp 174-189, Springer, Cham.",
       "proceedings_volume": "11467",
@@ -546,7 +547,7 @@
     },
     {
       "author": "Martin J. Zhang, Fei Xia, James Zou",
-      "title": "AdaFDR: A Fast, Powerful and Covariate-Adaptive Approach to Multiple Hypothesis Testing ",
+      "title": "AdaFDR: A Fast, Powerful and Covariate-Adaptive Approach to Multiple Hypothesis Testing",
       "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2019. Lecture Notes in Computer Science, vol 11467, pp 330-333, Springer, Cham.",
       "proceedings_volume": "11467",
       "proceedings_pages": "330-333",
@@ -555,7 +556,7 @@
       "preprint_doi": "10.1101/496372",
       "journal": "Nature Communications",
       "journal_title": "Fast and covariate-adaptive method amplifies detection power in large-scale multiple hypothesis testing",
-      "journal_authors": "Martin J. Zhang, Fei Xia, James Zou ",
+      "journal_authors": "Martin J. Zhang, Fei Xia, James Zou",
       "journal_issue_pages": "10(1): 3433",
       "journal_year": "2019",
       "journal_doi": "10.1038/s41467-019-11247-0"

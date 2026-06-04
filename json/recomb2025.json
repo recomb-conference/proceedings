@@ -2,9 +2,10 @@
   "title": "29th Annual International Conference on Research in Computational Molecular Biology",
   "location": "Seoul, South Korea",
   "dates": "April 26 - 29, 2025",
-  "editor": "Sriram Sankararaman",
-  "website": "https://recomb.org/recomb2025/",
-  "proceedings": "https://recomb.org/proceedings/2025-2021/2025/",
+  "pc_chair": "Sriram Sankararaman",
+  "organization_committee": "Jihyun F. Kim (co-chair), Martin Steinegger (co-chair), Sungwon Jung, Soon-Kyeong Kwon, Ezgi Ebren, Hyobin Jeong, Hyeshik Chang, Young-suk Lee, Minkyung Baek, Jinhyuk Bhin, Yusook Chung, Mohammed Alser, Jongsik Chun",
+  "keynotes": "Peer Bork, Evan E. Eichler, V. Narry Kim, Sang Yup Lee, Lior Pachter, Olga Troyanskaya, Leslie Valiant",
+  "website": "https://recomb.org/recomb2025",
   "papers": [
     {
       "author": "Jiahan Li, Shitong Luo, Congyue Deng, Chaoran Cheng, Jiaqi Guan, Leonidas Guibas, Jian Peng, Jianzhu Ma",
@@ -96,7 +97,7 @@
       "proceedings_pages": "134-152",
       "proceedings_doi": "10.1007/978-3-031-90252-9_9",
       "preprint_id": "hal-04756160",
-      "preprint_doi": "hal.science/hal-04756160"
+      "preprint_url": "https://hal.science/hal-04756160"
     },
     {
       "author": "Tianshuo Zhou, Apoorv Malik, Wei Yu Tang, David H. Mathews, Liang Huang",
@@ -261,6 +262,8 @@
       "proceedings_volume": "15647",
       "proceedings_pages": "281-284",
       "proceedings_doi": "10.1007/978-3-031-90252-9_22",
+      "preprint_id": "medRxiv 2025.02.13.25322211",
+      "preprint_doi": "10.1101/medRxiv 2025.02.13.25322211",
       "journal": "Genome Research",
       "journal_title": "OMKar automates genome karyotyping using optical maps to identify constitutional abnormalities",
       "journal_authors": "Siavash Raeisi Dehkordi, Zhaoyang Jia, Joey Estabrook, Jen Hauenstein, Neil Miller, Naz Güleray-Lafci, Jürgen Neesen, Alex Hastie, Alka Chaubey, Andy Wing Chun Pang, Paul Dremsek, and Vineet Bafna",
@@ -316,7 +319,9 @@
       "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2025. Lecture Notes in Computer Science, vol 15647, pp 299-302, Springer, Cham.",
       "proceedings_volume": "15647",
       "proceedings_pages": "299-302",
-      "proceedings_doi": "10.1007/978-3-031-90252-9_26"
+      "proceedings_doi": "10.1007/978-3-031-90252-9_26",
+      "preprint_id": "medRxiv 2025.03.02.25323165",
+      "preprint_doi": "10.1101/medRxiv 2025.03.02.25323165"
     },
     {
       "author": "Tianyu Liu, Edward De Brouwer, Tony Kuo, Nathaniel Diamant, Alsu Missarova, Hanchen Wang, Minsheng Hao, Hector Corrada Bravo, Gabriele Scalia, Aviv Regev, Graham Heimberg",

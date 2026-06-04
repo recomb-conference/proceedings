@@ -1,7 +1,7 @@
 {
   "title": "22nd Annual International Conference on Research in Computational Molecular Biology",
   "location": "Paris, France",
-  "dates": "April 21-24, 2018",
+  "dates": "April 21 - 24, 2018",
   "pc_chair": "Benjamin J. Raphael",
   "organization_committee": "Yann Ponty (co-chair), Mireille Regnier (co-chair), Alessandra Carbone, Celine Scornavacca, Eric Tannier, Hélène Touzet, Stéphane Vialette",
   "keynotes": "Peter Campbell, Ron Shamir, Sarah Teichmann, Nevan Krogan, Francois Spitz, Tandy Warnow",
@@ -244,7 +244,7 @@
       "proceedings_doi": "10.1007/978-3-319-89929-9"
     },
     {
-      "author": "G. Durif, L. Modolo, J. E. Mold, S. Lambert-Lacroix, F. Picard",
+      "author": "Ghislain Durif, Laurent Modolo, Jeff E Mold, Sophie Lambert-Lacroix, Franck Picard",
       "title": "Probabilistic Count Matrix Factorization for Single Cell Expression Data Analysis",
       "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2018. Lecture Notes in Computer Science, vol 10812, pp 254-255, Springer, Cham.",
       "proceedings_volume": "10812",
