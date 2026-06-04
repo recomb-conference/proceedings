@@ -1,0 +1,101 @@
+name: Process RECOMB TSV Files
+
+# 1. Trigger the workflow only when files in the tsv/ directory are modified.
+on:
+  push:
+    paths:
+      - 'tsv/**/*.tsv'
+  workflow_dispatch: # Allows you to run this manually from the Actions tab if needed
+
+# Add permissions needed to commit and push changes back to the repo
+permissions:
+  contents: write
+
+jobs:
+  convert-and-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # A Personal Access Token (PAT) is sometimes needed to trigger subsequent workflows (like Pages)
+          # By default, actions made by GITHUB_TOKEN don't trigger other workflows.
+          # If Pages doesn't build automatically after this, you may need to use a PAT here.
+          token: ${{ secrets.PAGES_TRIGGER_TOKEN }}
+          fetch-depth: 0 
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Make the converter script executable
+        run: chmod +x tools/converter.py
+
+      - name: Process all TSV files
+        run: |
+          # Ensure base output directories exist
+          mkdir -p json bib
+
+          # Loop through all .tsv files in the tsv/ directory
+          for tsv_file in tsv/*.tsv; do
+            # Skip if no TSV files are found
+            [ -e "$tsv_file" ] || continue
+            
+            # Extract the year from the TSV filename using grep and regex.
+            YEAR=$(echo "$tsv_file" | grep -o -E '[0-9]{4}')
+            
+            if [ -z "$YEAR" ]; then
+              echo "Warning: Could not extract a year from filename $tsv_file. Skipping."
+              continue
+            fi
+            
+            echo "Processing file for year: $YEAR ($tsv_file)"
+            
+            # --- CALCULATE 5-YEAR PARENT DIRECTORY BOUNDS IN BASH ---
+            REMAINDER=$((YEAR % 5))
+            if [ $REMAINDER -eq 0 ]; then
+              UPPER_BOUND=$YEAR
+            else
+              UPPER_BOUND=$((YEAR + 5 - REMAINDER))
+            fi
+            
+            LOWER_BOUND=$((UPPER_BOUND - 4))
+            
+            # Ensure lower bound does not drop below 1997
+            if [ $LOWER_BOUND -lt 1997 ]; then
+              LOWER_BOUND=1997
+            fi
+            
+            PARENT_DIR="${UPPER_BOUND}-${LOWER_BOUND}"
+            # --------------------------------------------------------
+            
+            # Create the dynamic parent directory before writing to it
+            mkdir -p "proceedings/${PARENT_DIR}"
+            
+            # Define exact output file paths
+            MD_OUTPUT="proceedings/${PARENT_DIR}/${YEAR}.md"
+            JSON_OUTPUT="json/recomb${YEAR}.json"
+            BIB_OUTPUT="bib/recomb${YEAR}.bib"
+            
+            # Run the Python script
+            python tools/converter.py -i "$tsv_file" -md "$MD_OUTPUT" -json "$JSON_OUTPUT" -bib "$BIB_OUTPUT"
+          done
+
+      - name: Commit and push generated files
+        run: |
+          # Configure Git as a generic GitHub Actions bot
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Stage the newly created/updated files
+          git add proceedings/ json/ bib/
+          
+          # Check if there are actually any changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated conversion: TSV to MD, JSON, and BibTeX"
+            git push
+          fi
