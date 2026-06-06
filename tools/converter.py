@@ -81,6 +81,10 @@ def convert_tsv(input_tsv, output_md, output_json, output_bib):
     # Init Markdown Base
     if output_md:
         website_line = f"**Website:** [{website}]({website})  \n" if website else ""
+        json_url = f"https://recomb.org/proceedings/json/recomb{year}.json"
+        bib_url = f"https://recomb.org/proceedings/bibtex/recomb{year}.bib"
+        exports_line = f"**Export:** [JSON]({json_url}) | [BibTeX]({bib_url})  \n"
+        
         md_content = f"""---
 title: {year}
 nav_order: {nav_order}
@@ -93,7 +97,7 @@ parent: {parent}
 **PC Chair:** {pc_chair}  
 **Organization Committee:** {org_committee}  
 **Keynote Speakers:** {keynotes}  
-{website_line}
+{website_line}{exports_line}
 ## List of Publications
 """
     # Init JSON Base

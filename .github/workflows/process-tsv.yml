@@ -40,7 +40,7 @@ jobs:
 
       - name: Process all TSV files
         run: |
-          mkdir -p json bib
+          mkdir -p json bibtex
 
           for tsv_file in tsv/*.tsv; do
             [ -e "$tsv_file" ] || continue
@@ -67,7 +67,7 @@ jobs:
             
             MD_OUTPUT="proceedings/${PARENT_DIR}/${YEAR}.md"
             JSON_OUTPUT="json/recomb${YEAR}.json"
-            BIB_OUTPUT="bib/recomb${YEAR}.bib"
+            BIB_OUTPUT="bibtex/recomb${YEAR}.bib"
             
             python tools/converter.py -i "$tsv_file" -md "$MD_OUTPUT" -json "$JSON_OUTPUT" -bib "$BIB_OUTPUT"
           done
@@ -77,7 +77,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          git add proceedings/ json/ bib/
+          git add proceedings/ json/ bibtex/
           
           if git diff --staged --quiet; then
             echo "No changes to commit."
