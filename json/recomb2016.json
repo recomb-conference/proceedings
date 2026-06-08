@@ -267,15 +267,13 @@
       "proceedings_pages": "246-247",
       "proceedings_doi": "10.1007/978-3-319-31957-5",
       "preprint_id": "arXiv:1604.04484",
-      "preprint_doi": "10.48550/arXiv.1604.04484"
-    },
-    {
-      "author": "Victoria Popic and Serafim Batzoglou",
-      "title": "Efficient Privacy-Preserving Read Mapping Using Locality Sensitive Hashing and Secure Kmer Voting",
-      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2016. Lecture Notes in Computer Science, vol 9649, pp 248-249, Springer, Cham.",
-      "proceedings_volume": "9649",
-      "proceedings_pages": "248-249",
-      "proceedings_doi": "10.1007/978-3-319-31957-5"
+      "preprint_doi": "10.48550/arXiv.1604.04484",
+      "journal": "Cell Systems",
+      "journal_title": "Enabling Privacy-Preserving GWASs in Heterogeneous Human Populations",
+      "journal_authors": "Sean Simmons, Cenk Sahinalp, Bonnie Berger",
+      "journal_issue_pages": "3(1):54-61",
+      "journal_year": "2016",
+      "journal_doi": "10.1016/j.cels.2016.04.013"
     },
     {
       "author": "Tommy Hansen and Fabio Vandin",
