@@ -355,7 +355,13 @@
       "proceedings_pages": "256-258",
       "proceedings_doi": "10.1007/978-3-319-16706-0_25",
       "preprint_id": "arXiv:1504.03080",
-      "preprint_doi": "10.48550/arXiv.1504.03080"
+      "preprint_doi": "10.48550/arXiv.1504.03080",
+      "journal": "Genome Biology",
+      "journal_title": "ReMixT: clone-specific genomic structure estimation in cancer",
+      "journal_authors": "Andrew W. McPherson, Andrew Roth, Gavin Ha, Cedric Chauve, Adi Steif, Camila P. E. de Souza, Peter Eirew, Alexandre Bouchard-Côté, Sam Aparicio, S. Cenk Sahinalp, Sohrab P. Shah",
+      "journal_issue_pages": "18: 140",
+      "journal_year": "2017",
+      "journal_doi": "10.1186/s13059-017-1267-2"
     },
     {
       "author": "Nam Nguyen, Siavash Mirarab, Keerthana Kumar, Tandy Warnow",
@@ -365,13 +371,7 @@
       "proceedings_pages": "259-260",
       "proceedings_doi": "10.1007/978-3-319-16706-0_26",
       "preprint_id": "arXiv:1504.01142",
-      "preprint_doi": "10.48550/arXiv.1504.01142",
-      "journal": "Genome Biology",
-      "journal_title": "Ultra-large alignments using Phylogeny-aware Profiles",
-      "journal_authors": "Nam-Phuong D. Nguyen, Siavash Mirarab, Keerthana Kumar, Tandy Warnow",
-      "journal_issue_pages": "16: 124",
-      "journal_year": "2015",
-      "journal_doi": "10.1186/s13059-015-0688-z"
+      "preprint_doi": "10.48550/arXiv.1504.01142"
     },
     {
       "author": "Laxmi Parida, Filippo Utro, Deniz Yorukoglu, Anna Paola Carrieri, David Kuhn, Saugata Basu",
