@@ -7,12 +7,6 @@ on:
       - 'tsv/**/*.tsv'
   workflow_dispatch: 
 
-# These permissions allow the bot to commit files AND deploy the website
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
 # Allow only one concurrent deployment
 concurrency:
   group: "pages"
@@ -24,11 +18,13 @@ jobs:
   # ==========================================
   convert-and-commit:
     runs-on: ubuntu-latest
+    # Explicit permissions for the first job to write contents
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        # Notice we removed the PAT token here! It will use the default GITHUB_TOKEN.
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -90,12 +86,17 @@ jobs:
   # JOB 2: Build and Deploy the Website
   # ==========================================
   build-and-deploy:
-    # This tells Job 2 to wait until Job 1 finishes successfully
     needs: convert-and-commit 
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    
+    # CRITICAL FIX: Explicitly grant deployment permissions to this specific job
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     
     steps:
       - name: Checkout repository
