@@ -32,7 +32,7 @@ Authors of accepted papers have multiple avenues for publication:
 
 ## JSON and BibTeX files
 
-We also provide [JSON files](https://github.com/recomb-conference/proceedings/tree/main/json) for the proceedings for easy parsing, and [BibTeX files](https://github.com/recomb-conference/proceedings/tree/main/bibtex) for easy citing.
+We also provide [JSON files](https://github.com/recomb-conference/proceedings/tree/main/json) for the proceedings for easy parsing, and [BibTeX files](https://github.com/recomb-conference/proceedings/tree/main/bibtex) for easy citing. These files are also linked from the proceedings pages of each individual year.
 
 ## Reporting updates
 
