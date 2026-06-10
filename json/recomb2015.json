@@ -371,7 +371,13 @@
       "proceedings_pages": "259-260",
       "proceedings_doi": "10.1007/978-3-319-16706-0_26",
       "preprint_id": "arXiv:1504.01142",
-      "preprint_doi": "10.48550/arXiv.1504.01142"
+      "preprint_doi": "10.48550/arXiv.1504.01142",
+      "journal": "Genome Biology",
+      "journal_title": "Ultra-large alignments using Phylogeny-aware Profiles",
+      "journal_authors": "Nam-Phuong D. Nguyen, Siavash Mirarab, Keerthana Kumar, Tandy Warnow",
+      "journal_issue_pages": "16: 124",
+      "journal_year": "2015",
+      "journal_doi": "10.1186/s13059-015-0688-z"
     },
     {
       "author": "Laxmi Parida, Filippo Utro, Deniz Yorukoglu, Anna Paola Carrieri, David Kuhn, Saugata Basu",
