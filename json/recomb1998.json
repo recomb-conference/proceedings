@@ -1,0 +1,380 @@
+{
+  "title": "2nd Annual International Conference on Research in Computational Molecular Biology",
+  "location": "New York, NY, United States",
+  "dates": "March 22 - 25, 1998",
+  "pc_chair": "Pavel Pevzner",
+  "organization_committee": "Gary Benson (chair), Craig Benham, Martin Farach, Eugene Kolker",
+  "keynotes": "Ruben Abagyan, Charles Cantor, David Cox, Ron Davis, Klaus Gubernator, Joshua Lederberg, Michael Levitt, David Schwartz, John Yates",
+  "website": "https://recomb.org/recomb1998",
+  "papers": [
+    {
+      "author": "Pankaj Agarwal, Vineet Bafna",
+      "title": "Detecting non-adjoining correlations with signals in DNA",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 2–8. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "2–8",
+      "proceedings_doi": "10.1145/279069.279076"
+    },
+    {
+      "author": "Amir Ben-Dor, Benny Chor, Dan Graur, Ron Ophir, Dan Pelleg",
+      "title": "From four-taxon trees to phylogenies (preliminary report): the case of mammalian evolution",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 9–19. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "9–19",
+      "proceedings_doi": "10.1145/279069.279078",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Constructing Phylogenies from Quartets: Elucidation of Eutherian Superordinal Relationships",
+      "journal_authors": "Amir Ben‐Dor, Benny Chor, Dan Graur, Ron Ophir, Dan Pelleg",
+      "journal_issue_pages": "5(3): 377-390",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.377"
+    },
+    {
+      "author": "Gary Benson",
+      "title": "An algorithm for finding tandem repeats of unspecified pattern size",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 20–29. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "20–29",
+      "proceedings_doi": "10.1145/279069.279079"
+    },
+    {
+      "author": "Bonnie Berger, Tom Leighton",
+      "title": "Protein folding in the hydrophobic-hydrophilic (HP) is NP-complete",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 30–39. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "30–39",
+      "proceedings_doi": "10.1145/279069.279080",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Protein Folding in the Hydrophobic-Hydrophilic (HP) Model is NP-Complete",
+      "journal_authors": "Bonnie Berger, Tom Leighton",
+      "journal_issue_pages": "5(1): 27-40",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.27"
+    },
+    {
+      "author": "Maria Bonet, Mike Steel, Tandy Warnow, Shibu Yooseph",
+      "title": "Better methods for solving parsimony and compatibility",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 40–49. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "40–49",
+      "proceedings_doi": "10.1145/279069.279081",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Better Methods for Solving Parsimony and Compatibility",
+      "journal_authors": "Maria Bonet, Mike Steel, Tandy Warnow, Shibu Yooseph",
+      "journal_issue_pages": "5(3): 391-407",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.391"
+    },
+    {
+      "author": "Cheng Che Chen, Jaswinder Pal Singh, Russ B. Altman",
+      "title": "The hierarchical organization of molecular structure computations",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 51–59. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "51–59",
+      "proceedings_doi": "10.1145/279069.279086",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Hierarchical Organization of Molecular Structure Computations",
+      "journal_authors": "Cheng Che Chen, Jaswinder Pal Singh, Russ B. Altman",
+      "journal_issue_pages": "5(3): 409-422",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.409"
+    },
+    {
+      "author": "Pierluigi Crescenzi, Deborah Goldman, Christos Papadimitriou, Antonio Piccolboni, Mihalis Yannakakis",
+      "title": "On the complexity of protein folding",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 61–62. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "61–62",
+      "proceedings_doi": "10.1145/279069.279089",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "On the Complexity of Protein Folding",
+      "journal_authors": "Pierluigi Crescenzi, Deborah Goldman, Christos Papadimitriou, Antonio Piccolboni, Mihalis Yannakakis",
+      "journal_issue_pages": "5(3): 423-465",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.423"
+    },
+    {
+      "author": "Dan Fasulo, Tao Jiang, Richard M. Karp, Nitin Sharma",
+      "title": "Constructing maps using the span and inclusion relations",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 64–73. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "64–73",
+      "proceedings_doi": "10.1145/279069.279090"
+    },
+    {
+      "author": "Alexei V. Finkelstein, Azat Ya. Badretdinov",
+      "title": "How fast a protein chain can fold to its most stable structure?",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 74–78. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "74–78",
+      "proceedings_doi": "10.1145/279069.279091"
+    },
+    {
+      "author": "Richard M. Fye, Craig J. Benhan",
+      "title": "A formally exact method to numerically analyze local denaturation in superhelical DNA",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 79–84. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "79–84",
+      "proceedings_doi": "10.1145/279069.279093",
+      "journal": "Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics",
+      "journal_title": "Exact method for numerically analyzing a model of local denaturation in superhelically stressed DNA",
+      "journal_authors": "Richard M. Fye, Craig J. Benhan",
+      "journal_issue_pages": "59(3): 3408-3426",
+      "journal_year": "1999",
+      "journal_doi": "10.1103/physreve.59.3408"
+    },
+    {
+      "author": "Israel Gelfand, Alexander Kister, Casimir Kulikowski, Ognyan Stoyanov",
+      "title": "Algorithmic determination of core positions in the VL and VH domains of immunoglobulin molecules",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 85–93. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "85–93",
+      "proceedings_doi": "10.1145/279069.279095",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Algorithmic Determination of Core Positions in the VL and VH Domains of Immunoglobulin Molecules",
+      "journal_authors": "I. Gelfand, Alexander Kister, Casimir A. Kulikowski, Ognyan Stoyanov",
+      "journal_issue_pages": "5(3): 467-477",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.467"
+    },
+    {
+      "author": "William Noble Grundy",
+      "title": "Family-based homology detection via pairwise sequence comparison",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 94–100. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "94–100",
+      "proceedings_doi": "10.1145/279069.279098",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Homology Detection via Family Pairwise Search",
+      "journal_authors": "William Noble Grundy",
+      "journal_issue_pages": "5(3): 479-491",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.479"
+    },
+    {
+      "author": "Ian Holmes, Richard Durbin",
+      "title": "Dynamic programming alignment accuracy",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 102–108. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "102–108",
+      "proceedings_doi": "10.1145/279069.279102",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Dynamic Programming Alignment Accuracy",
+      "journal_authors": "Ian Holmes, Richard Durbin",
+      "journal_issue_pages": "5(3): 493-504",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.493"
+    },
+    {
+      "author": "Terence Hwa, Michael Lässig",
+      "title": "Optimal detection of sequence similarity by local alignment",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 109–116. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "109–116",
+      "proceedings_doi": "10.1145/279069.279103",
+      "preprint_id": "arXiv:cond-mat/9712081",
+      "preprint_doi": "10.48550/arXiv.cond-mat/9712081"
+    },
+    {
+      "author": "Richard M. Karp, Ron Shamir",
+      "title": "Algorithms for optical mapping",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 117–124. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "117–124",
+      "proceedings_doi": "10.1145/279069.279104",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Algorithms for Optical Mapping",
+      "journal_authors": "Richard M. Karp, Ron Shamir",
+      "journal_issue_pages": "7(1-2): 303-316",
+      "journal_year": "2000",
+      "journal_doi": "10.1089/10665270050081540"
+    },
+    {
+      "author": "Paul E. Kearney",
+      "title": "The ordinal quartet method",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 125–134. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "125–134",
+      "proceedings_doi": "10.1145/279069.279105"
+    },
+    {
+      "author": "Eugene V. Koonin, Roman L. Tatusov, Michael Y. Galperin, Michael N. Rosanov",
+      "title": "Genome analysis using clusters of orthologous groups (COGs)",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 135–139. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "135–139",
+      "proceedings_doi": "10.1145/279069.279106"
+    },
+    {
+      "author": "Jeffrey M. Koshi, David P. Mindell, Richard A. Goldstein",
+      "title": "Beyond mutation matrices: physical-chemistry based evolutionary models",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 140–145. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "140–145",
+      "proceedings_doi": "10.1145/279069.279107"
+    },
+    {
+      "author": "Jae K. Lee, Vlado Dančík, Michael S. Waterman",
+      "title": "Estimation for restriction sites observed by optical mapping using reversible-jump Markov chain Monte Carlo",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 147–152. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "147–152",
+      "proceedings_doi": "10.1145/279069.279108",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Estimation for Restriction Sites Observed by Optical Mapping Using Reversible-Jump Markov Chain Monte Carlo",
+      "journal_authors": "Jae K Lee, Vlado Dančík, Michael S. Waterman",
+      "journal_issue_pages": "5(3): 505-515",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.505"
+    },
+    {
+      "author": "Hans-Peter Lenhof, Knut Reinert, Martin Vingron",
+      "title": "A polyhedral approach to RNA sequence structure alignment",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 153–162. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "153–162",
+      "proceedings_doi": "10.1145/279069.279109",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "A Polyhedral Approach to RNA Sequence Structure Alignment",
+      "journal_authors": "Hans‐Peter Lenhof, Knut Reinert, Martin Vingron",
+      "journal_issue_pages": "5(3): 153-162",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.517"
+    },
+    {
+      "author": "Arthur M. Lesk",
+      "title": "Assessment of ab initio protein structure prediction",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 163–171. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "163–171",
+      "proceedings_doi": "10.1145/279069.279110"
+    },
+    {
+      "author": "Rongxiang Liu, Tom W. Blackwell, David U. States",
+      "title": "A structure based similarity measure for nucleic acid sequence comparison",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 173–181. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "173–181",
+      "proceedings_doi": "10.1145/279069.279112"
+    },
+    {
+      "author": "Bin Ma, Ming Li, Louxin Zhang",
+      "title": "On reconstructing species trees from gene trees in term of duplications and losses",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 182–191. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "182–191",
+      "proceedings_doi": "10.1145/279069.279113"
+    },
+    {
+      "author": "Laxmi Parida, Bud Mishra",
+      "title": "Partitioning K clones: hardness results and practical algorithms for the K-populations problem",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 192–201. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "192–201",
+      "proceedings_doi": "10.1145/279069.279114",
+      "journal": "Discrete Applied Mathematics",
+      "journal_title": "Partitioning single-molecule maps into multiple populations: algorithms and probabilistic analysis",
+      "journal_authors": "Laxmi Parida, Bud Mishra",
+      "journal_issue_pages": "104(1-3): 203-227",
+      "journal_year": "2000",
+      "journal_doi": "10.1016/s0166-218x(00)00191-8"
+    },
+    {
+      "author": "David G. Politte, David R. Maffitt, David J. States",
+      "title": "Estimation of allele frequencies from color-multiplexed electropherograms",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 202–206. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "202–206",
+      "proceedings_doi": "10.1145/279069.279115"
+    },
+    {
+      "author": "Mireille Régnier",
+      "title": "A unified approach to word statistics",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 207–213. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "207–213",
+      "proceedings_doi": "10.1145/279069.279116",
+      "journal": "Discrete Applied Mathematics",
+      "journal_title": "A unified approach to word occurrence probabilities",
+      "journal_authors": "Mireille Régnier",
+      "journal_issue_pages": "104(1-3): 259-280",
+      "journal_year": "2000",
+      "journal_doi": "10.1016/s0166-218x(00)00195-5"
+    },
+    {
+      "author": "Boris A. Reva, Alexei V. Finkelstein, Jeffrey Skolnick",
+      "title": "A self-consistent field optimization approach to build energetically and geometrically correct lattice models of proteins",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 214–220. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "214–220",
+      "proceedings_doi": "10.1145/279069.279117"
+    },
+    {
+      "author": "Isidore Rigoutsos, Aris Floratos",
+      "title": "Motif discovery without alignment or enumeration",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 221–227. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "221–227",
+      "proceedings_doi": "10.1145/279069.279118"
+    },
+    {
+      "author": "Emily Rocke, Martin Tompa",
+      "title": "An algorithm for finding novel gapped motifs in DNA sequences",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 228–233. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "228–233",
+      "proceedings_doi": "10.1145/279069.279119"
+    },
+    {
+      "author": "Marie-France Sagot, Eugene W. Myers",
+      "title": "Identifying satellites in nucleic acid sequences",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 234–242. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "234–242",
+      "proceedings_doi": "10.1145/279069.279120",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Identifying Satellites and Periodic Repetitions in Biological Sequences",
+      "journal_authors": "Marie‐France Sagot, Eugene W. Myers",
+      "journal_issue_pages": "5(3): 539-553",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.539"
+    },
+    {
+      "author": "David Sankoff, Mathieu Blanchette",
+      "title": "Multiple genome rearrangements",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 243–247. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "243–247",
+      "proceedings_doi": "10.1145/279069.279122"
+    },
+    {
+      "author": "Fengzhu Sun",
+      "title": "Modeling DNA shuffling",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 251–257. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "251–257",
+      "proceedings_doi": "10.1145/279069.279126",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Modeling DNA Shuffling",
+      "journal_authors": "Fengzhu Sun",
+      "journal_issue_pages": "6(1): 77-90",
+      "journal_year": "1999",
+      "journal_doi": "10.1089/cmb.1999.6.77"
+    },
+    {
+      "author": "Shamil R. Sunyaev, Igor V. Rodchnkov, Frank Eisenhaber, Eugene N. Kuznetsov",
+      "title": "Analysis of the position dependent amino acid probabilities and its application to the search for remote homologues",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 258–265. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "258–265",
+      "proceedings_doi": "10.1145/279069.279127"
+    },
+    {
+      "author": "Alexander Vologodskii",
+      "title": "Maxwell demon and topology simplification by type II topoisomerases",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 266–269. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "266–269",
+      "proceedings_doi": "10.1145/279069.279129"
+    },
+    {
+      "author": "Wynn L. Walker, David S. Goodsell, Elliot M. Landaw",
+      "title": "The theoretical limits of DNA sequence discrimination of polyamides",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 270–275. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "270–275",
+      "proceedings_doi": "10.1145/279069.279130",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "journal_title": "The theoretical limits of DNA sequence discrimination by linked polyamides",
+      "journal_authors": "Wynn L. Walker, Elliot M. Landaw, Richard E. Dickerson, David S. Goodsell",
+      "journal_issue_pages": "95(8): 4315-4320",
+      "journal_year": "1998",
+      "journal_doi": "10.1073/pnas.95.8.4315"
+    },
+    {
+      "author": "Thomas D. Wu, Trevor Hastie, Scott C. Schmidler, Douglas L. Brutlag",
+      "title": "Regression analysis of multiple protein structures",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 276–284. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "276–284",
+      "proceedings_doi": "10.1145/279069.279132",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Regression Analysis of Multiple Protein Structures",
+      "journal_authors": "Thomas D. Wu, Scott C. Schmidler, Trevor Hastie, Douglas L. Brutlag",
+      "journal_issue_pages": "5(3): 585-595",
+      "journal_year": "1998",
+      "journal_doi": "10.1089/cmb.1998.5.585"
+    },
+    {
+      "author": "Ying Xu, Dong Xu, Edward C. Uberbacher",
+      "title": "A new method for modeling and solving the protein fold recognition problem",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1998, pp 285–292. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "285–292",
+      "proceedings_doi": "10.1145/279069.279134"
+    }
+  ]
+}

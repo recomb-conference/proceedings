@@ -1,0 +1,323 @@
+{
+  "title": "3rd Annual International Conference on Research in Computational Molecular Biology",
+  "location": "Lyon, France",
+  "dates": "April 11 - 14, 1999",
+  "pc_chair": "Sorin Istrail",
+  "organization_committee": "Mireille Regnier (chair), Florence Balax, Daniel Kahn, Gregory Kucherov, Sophie Schbath, Annick Theis-Viémont",
+  "keynotes": "Peer Bork, Cyrus Chothia, Daniel Cohen, John Moult, Gene Myers, Piotr Slonimski, E. M. Southern, Peter Willett, John Woole",
+  "website": "https://recomb.org/recomb1999",
+  "papers": [
+    {
+      "author": "Eric Anson, Gene Myers",
+      "title": "Algorithms for whole genome shotgun sequencing",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 1–9. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "1–9",
+      "proceedings_doi": "10.1145/299432.299442"
+    },
+    {
+      "author": "Timothy L. Bailey, William Noble Grundy",
+      "title": "Classifying proteins by family using the product of correlated p-values",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 10–14. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "10–14",
+      "proceedings_doi": "10.1145/299432.299444"
+    },
+    {
+      "author": "Gill Bejerano, Golan Yona",
+      "title": "Modeling protein families using probabilistic suffix trees",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 15–24. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "15–24",
+      "proceedings_doi": "10.1145/299432.299445"
+    },
+    {
+      "author": "Jadwiga R. Bieńkowska, Robert G. Rogers, Temple F. Smith",
+      "title": "A method for optimal design of a threading scoring function",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 25–32. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "25–32",
+      "proceedings_doi": "10.1145/299432.299446"
+    },
+    {
+      "author": "Amir Ben-Dor, Zohar Yakhini",
+      "title": "Clustering gene expression patterns",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 33–42. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "33–42",
+      "proceedings_doi": "10.1145/299432.299448",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Clustering Gene Expression Patterns",
+      "journal_authors": "Amir Ben‐Dor, Ron Shamir, Zohar Yakhini",
+      "journal_issue_pages": "6(3-4): 281-297",
+      "journal_year": "1999",
+      "journal_doi": "10.1089/106652799318274"
+    },
+    {
+      "author": "Laurent Bize, Florence Muri, Franck Samson, François Rodolphe, S. Dusko Ehrlich, Bernard Prum, Philippe Bessières",
+      "title": "Searching gene transfers on Bacillus subtilis using hidden Markov models",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 43–49. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "43–49",
+      "proceedings_doi": "10.1145/299432.299449"
+    },
+    {
+      "author": "Piotr Berman, Zheng Zhang, Yuri I. Wolf, Eugene V. Koonin, Webb Miller",
+      "title": "Winnowing sequences from a database search",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 50–58. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "50–58",
+      "proceedings_doi": "10.1145/299432.299451",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Winnowing Sequences from a Database Search",
+      "journal_authors": "Piotr Berman, Zheng Zhang, Yuri I. Wolf, Eugene V. Koonin, Webb Miller",
+      "journal_issue_pages": "7(1-2): 293-302",
+      "journal_year": "2000",
+      "journal_doi": "10.1089/10665270050081531"
+    },
+    {
+      "author": "Vincent Berry, David Bryant",
+      "title": "Faster reliable phylogenetic analysis",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 59–68. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "59–68",
+      "proceedings_doi": "10.1145/299432.299457"
+    },
+    {
+      "author": "R. Bundschuh, T. Hwa",
+      "title": "An analytic study of the phase transition line in local sequence alignment with gaps",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 70–76. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "70–76",
+      "proceedings_doi": "10.1145/299432.349874",
+      "journal": "Discrete Applied Mathematics",
+      "journal_title": "An analytic study of the phase transition line in local sequence alignment with gaps",
+      "journal_authors": "Ralf Bundschuh, Terence Hwa",
+      "journal_issue_pages": "104(1-3): 113-142",
+      "journal_year": "2000",
+      "journal_doi": "10.1016/s0166-218x(00)00188-8"
+    },
+    {
+      "author": "Stefan Burkhardt, Andreas Crauser, Paolo Ferragina, Hans-Peter Lenhof, Eric Rivals, Martin Vingron",
+      "title": "q-gram based database searching using a suffix array (QUASAR)",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 77–83. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "77–83",
+      "proceedings_doi": "10.1145/299432.299460"
+    },
+    {
+      "author": "Alberto Caprara",
+      "title": "Formulations and hardness of multiple sorting by reversals",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 84–93. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "84–93",
+      "proceedings_doi": "10.1145/299432.299461"
+    },
+    {
+      "author": "Ting Chen, Vladimir Filkov, Steven S. Skiena",
+      "title": "Identifying gene regulatory networks from experimental data",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 94–103. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "94–103",
+      "proceedings_doi": "10.1145/299432.299462",
+      "journal": "Parallel Computing",
+      "journal_title": "Identifying gene regulatory networks from experimental data",
+      "journal_authors": "Ting Chen, Vladimir Filkov, Steven Skiena",
+      "journal_issue_pages": "27(1-2): 141-162",
+      "journal_year": "2001",
+      "journal_doi": "10.1016/s0167-8191(00)00092-2"
+    },
+    {
+      "author": "L. Paul Chew, Dan Huttenlocher, Klara Kedem, Jon Kleinberg",
+      "title": "Fast detection of common geometric substructure in proteins",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 104–113. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "104–113",
+      "proceedings_doi": "10.1145/299432.299464",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Fast Detection of Common Geometric Substructure in Proteins",
+      "journal_authors": "L. Paul Chew, D.P. Huttenlocher, Klara Kedem, Jon Kleinberg",
+      "journal_issue_pages": "6(3-4): 313-325",
+      "journal_year": "1999",
+      "journal_doi": "10.1089/106652799318292"
+    },
+    {
+      "author": "Thomas Christof, John Kececioglu",
+      "title": "Computing physical maps of chromosomes with nonoverlapping probes by branch-and-cut",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 115–123. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "115–123",
+      "proceedings_doi": "10.1145/299432.299465"
+    },
+    {
+      "author": "Barry Cohen, Steven Skiena",
+      "title": "Optimizing combinatorial library construction via split synthesis",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 124–133. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "124–133",
+      "proceedings_doi": "10.1145/299432.299467"
+    },
+    {
+      "author": "Vlado Dančík, Theresa A. Addona, Karl R. Clauser, James E. Vath",
+      "title": "De Novo peptide sequencing via tandem mass spectrometry: a graph-theoretical approach",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 135–144. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "135–144",
+      "proceedings_doi": "10.1145/299432.299471"
+    },
+    {
+      "author": "Alan A. Dombkowski, Gordon M. Crippen",
+      "title": "A solvation potential with improved contact definitions and optimized by extensive threading",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 145–153. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "145–153",
+      "proceedings_doi": "10.1145/299432.299474"
+    },
+    {
+      "author": "Nadia El-Mabrouk, David Bryant, David Sankoff",
+      "title": "Reconstructing the pre-doubling genome",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 154–163. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "154–163",
+      "proceedings_doi": "10.1145/299432.299475"
+    },
+    {
+      "author": "Aris Floratos, Isidore Rigoutsos, Laxmi Parida, Gustova Stolovitzky, Yuan Gao",
+      "title": "Sequence homology detection through large scale pattern discovery",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 164–173. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "164–173",
+      "proceedings_doi": "10.1145/299432.299477"
+    },
+    {
+      "author": "Christian V. Forst, Klaus Schulten",
+      "title": "Evolution of metabolisms: a new method for the comparison of metabolic pathways",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 174–181. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "174–181",
+      "proceedings_doi": "10.1145/299432.299481",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Evolution of Metabolisms: A New Method for the Comparison of Metabolic Pathways Using Genomics Information",
+      "journal_authors": "Christian V. Forst, Klaus Schulten",
+      "journal_issue_pages": "6(3-4): 343-360",
+      "journal_year": "1999",
+      "journal_doi": "10.1089/106652799318319"
+    },
+    {
+      "author": "G. R. Grant, R. S. Spielman, E. Manduchi, V. G. Cheung, W. J. Ewens",
+      "title": "Significance testing for genomic mismatch scanning",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 182–187. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "182–187",
+      "proceedings_doi": "10.1145/299432.299482"
+    },
+    {
+      "author": "Erez Hartuv, Armin Schmitt, Jörg Lange, Sebastian Meier-Ewert, Hans Lehrach, Ron Shamir",
+      "title": "An algorithm for clustering cDNAs for gene expression analysis",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 188–197. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "188–197",
+      "proceedings_doi": "10.1145/299432.299483"
+    },
+    {
+      "author": "Daniel H. Huson, Scott Nettles, Tandy J. Warnow",
+      "title": "Obtaining highly accurate topology estimates of evolutionary trees from very short sequences",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 198–207. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "198–207",
+      "proceedings_doi": "10.1145/299432.299484"
+    },
+    {
+      "author": "Richard M. Karp, Roland Stoughton, Ka Yee Yeung",
+      "title": "Algorithms for choosing differential gene expression experiments",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 208–217. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "208–217",
+      "proceedings_doi": "10.1145/299432.299485"
+    },
+    {
+      "author": "Lawrence A. Kelley, Robert M. MacCallum, Michael J. E. Sternberg",
+      "title": "Recognition of remote protein homologies using three-dimensional information to generate a position specific scoring matrix in the program 3D-PSSM",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 218–225. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "218–225",
+      "proceedings_doi": "10.1145/299432.299486"
+    },
+    {
+      "author": "Jon M. Kleinberg",
+      "title": "Efficient algorithms for protein sequence design and the analysis of certain evolutionary fitness landscapes",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 226–237. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "226–237",
+      "proceedings_doi": "10.1145/299432.299487",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Efficient Algorithms for Protein Sequence Design and the Analysis of Certain Evolutionary Fitness Landscapes",
+      "journal_authors": "Jon Kleinberg",
+      "journal_issue_pages": "6(3-4): 387-404",
+      "journal_year": "1999",
+      "journal_doi": "10.1089/106652799318346"
+    },
+    {
+      "author": "Richard H. Lathrop",
+      "title": "An anytime algorithm for gapped block protein threading with pair interactions",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 238–249. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "238–249",
+      "proceedings_doi": "10.1145/299432.299488"
+    },
+    {
+      "author": "Steven M. LaValle, Paul W. Finn, Lydia E. Kavraki, Jeal-Claude Latombe",
+      "title": "Efficient database screening for rational drug design using pharmacophore-constrained conformational search",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 250–260. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "250–260",
+      "proceedings_doi": "10.1145/299432.299489"
+    },
+    {
+      "author": "Rune B. Lyngsø, Michael Zuker, Christian N. S. Pedersen",
+      "title": "Internal loops in RNA secondary structure prediction",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 260–267. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "260–267",
+      "proceedings_doi": "10.1145/299432.299490",
+      "journal": "Bioinformatics",
+      "journal_title": "Fast evaluation of internal loops in RNA secondary structure prediction.",
+      "journal_authors": "R B Lyngsø, Michael Zuker, Clara Nautrup Pedersen",
+      "journal_issue_pages": "15(6): 440-445",
+      "journal_year": "1999",
+      "journal_doi": "10.1093/bioinformatics/15.6.440"
+    },
+    {
+      "author": "Guy Mayraz, Ron Shamir",
+      "title": "Construction of physical maps from oligonucleotide fingerprints data",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 268–277. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "268–277",
+      "proceedings_doi": "10.1145/299432.299497",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "Construction of Physical Maps from Oligonucleotide Fingerprints Data",
+      "journal_authors": "Guy Mayraz, Ron Shamir",
+      "journal_issue_pages": "6(2): 237-252",
+      "journal_year": "1999",
+      "journal_doi": "10.1089/cmb.1999.6.237"
+    },
+    {
+      "author": "Julie C. Mitchell, J. Ben Rosen, Andrew T. Phillips, Lynn F. Ten Eyck",
+      "title": "Coupled optimization in protein docking",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 280–284. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "280–284",
+      "proceedings_doi": "10.1145/299432.299502"
+    },
+    {
+      "author": "Lior Pachter, Serafim Batzoglou, Valentin I. Spitkovsky, William S. Beebee, Eric S. Lander, Bonnie Berger, Daniel J. Kleitman",
+      "title": "A dictionary based approach for gene annotation",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 285–294. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "285–294",
+      "proceedings_doi": "10.1145/299432.299504",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "A Dictionary-Based Approach for Gene Annotation",
+      "journal_authors": "Lior Pachter, Serafim Batzoglou, Valentin I. Spitkovsky, Eric Banks, Eric S. Lander, Daniel J. Kleitman, Bonnie Berger",
+      "journal_issue_pages": "6(3-4): 419-430",
+      "journal_year": "1999",
+      "journal_doi": "10.1089/106652799318364"
+    },
+    {
+      "author": "Franco P. Preparata, Alan M. Frieze, Eli Upfal",
+      "title": "On the power of universal bases in sequencing by hybridization",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 295–301. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "295–301",
+      "proceedings_doi": "10.1145/299432.299505"
+    },
+    {
+      "author": "David Sankoff, Mathieu Blanchette",
+      "title": "Probability models for genome rearrangement and linear invariants for phylogenetic inference",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 302–309. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "302–309",
+      "proceedings_doi": "10.1145/299432.299506"
+    },
+    {
+      "author": "Maxim Totrov, Ruben Abagyan",
+      "title": "Derivation of sensitive discrimination potential for virtual ligand screening",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 312–320. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "312–320",
+      "proceedings_doi": "10.1145/299432.299509"
+    },
+    {
+      "author": "Martin J. Bayley, Valerie J. Gillet, Peter Willett, John Bradshaw, Darren V. S. Green",
+      "title": "Computational analysis of molecular diversity for drug discovery",
+      "proceedings_name": "Research in Computational Molecular Biology. RECOMB 1999, pp 321–330. Association for Computing Machinery, New York, NY, USA.",
+      "proceedings_pages": "321–330",
+      "proceedings_doi": "10.1145/299432.299510"
+    }
+  ]
+}
