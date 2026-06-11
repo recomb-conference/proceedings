@@ -1,0 +1,46 @@
+#Year	1999										
+#Location	Lyon, France										
+#Dates	April 11 - 14										
+#Website	https://recomb.org/recomb1999										
+#PC_Chair	Sorin Istrail										
+#Organization_Committee	Mireille Regnier (chair), Florence Balax, Daniel Kahn, Gregory Kucherov, Sophie Schbath, Annick Theis-Viémont										
+#Keynotes	Peer Bork, Cyrus Chothia, Daniel Cohen, John Moult, Gene Myers, Piotr Slonimski, E. M. Southern, Peter Willett, John Woole										
+#Proceedings_Type	ACM										
+#Proceedings_Volume											
+#Authors	RECOMB 1999 Title (Original)	ACM Pages	ACM Proceedings DOI	Preprint	Preprint DOI Prefix	Journal Name	Journal Version Title	Journal Authors	Journal Volume, Issue, and Pages	Journal Publication Year	Journal Version DOI
+Eric Anson, Gene Myers	Algorithms for whole genome shotgun sequencing	1–9	10.1145/299432.299442	NONE		NONE	NA	NA	NA	NA	NA
+Timothy L. Bailey, William Noble Grundy	Classifying proteins by family using the product of correlated p-values	10–14	10.1145/299432.299444	NONE		NONE	NA	NA	NA	NA	NA
+Gill Bejerano, Golan Yona	Modeling protein families using probabilistic suffix trees	15–24	10.1145/299432.299445	NONE		NONE	NA	NA	NA	NA	NA
+Jadwiga R. Bieńkowska, Robert G. Rogers, Temple F. Smith	A method for optimal design of a threading scoring function	25–32	10.1145/299432.299446	NONE		NONE	NA	NA	NA	NA	NA
+Amir Ben-Dor, Zohar Yakhini	Clustering gene expression patterns	33–42	10.1145/299432.299448	NONE		Journal of Computational Biology	Clustering Gene Expression Patterns	Amir Ben‐Dor, Ron Shamir, Zohar Yakhini	6(3-4): 281-297	1999	10.1089/106652799318274
+Laurent Bize, Florence Muri, Franck Samson, François Rodolphe, S. Dusko Ehrlich, Bernard Prum, Philippe Bessières	Searching gene transfers on Bacillus subtilis using hidden Markov models	43–49	10.1145/299432.299449	NONE		NONE	NA	NA	NA	NA	NA
+Piotr Berman, Zheng Zhang, Yuri I. Wolf, Eugene V. Koonin, Webb Miller	Winnowing sequences from a database search	50–58	10.1145/299432.299451	NONE		Journal of Computational Biology	Winnowing Sequences from a Database Search	Piotr Berman, Zheng Zhang, Yuri I. Wolf, Eugene V. Koonin, Webb Miller	7(1-2): 293-302	2000	10.1089/10665270050081531
+Vincent Berry, David Bryant	Faster reliable phylogenetic analysis	59–68	10.1145/299432.299457	NONE		NONE	NA	NA	NA	NA	NA
+R. Bundschuh, T. Hwa	An analytic study of the phase transition line in local sequence alignment with gaps	70–76	10.1145/299432.349874	NONE		Discrete Applied Mathematics	An analytic study of the phase transition line in local sequence alignment with gaps	Ralf Bundschuh, Terence Hwa	104(1-3): 113-142	2000	10.1016/s0166-218x(00)00188-8
+Stefan Burkhardt, Andreas Crauser, Paolo Ferragina, Hans-Peter Lenhof, Eric Rivals, Martin Vingron	q-gram based database searching using a suffix array (QUASAR)	77–83	10.1145/299432.299460	NONE		NONE	NA	NA	NA	NA	NA
+Alberto Caprara	Formulations and hardness of multiple sorting by reversals	84–93	10.1145/299432.299461	NONE		NONE	NA	NA	NA	NA	NA
+Ting Chen, Vladimir Filkov, Steven S. Skiena	Identifying gene regulatory networks from experimental data	94–103	10.1145/299432.299462	NONE		Parallel Computing	Identifying gene regulatory networks from experimental data	Ting Chen, Vladimir Filkov, Steven Skiena	27(1-2): 141-162	2001	10.1016/s0167-8191(00)00092-2
+L. Paul Chew, Dan Huttenlocher, Klara Kedem, Jon Kleinberg	Fast detection of common geometric substructure in proteins	104–113	10.1145/299432.299464	NONE		Journal of Computational Biology	Fast Detection of Common Geometric Substructure in Proteins	L. Paul Chew, D.P. Huttenlocher, Klara Kedem, Jon Kleinberg	6(3-4): 313-325	1999	10.1089/106652799318292
+Thomas Christof, John Kececioglu	Computing physical maps of chromosomes with nonoverlapping probes by branch-and-cut	115–123	10.1145/299432.299465	NONE		NONE	NA	NA	NA	NA	NA
+Barry Cohen, Steven Skiena	Optimizing combinatorial library construction via split synthesis	124–133	10.1145/299432.299467	NONE		NONE	NA	NA	NA	NA	NA
+Vlado Dančík, Theresa A. Addona, Karl R. Clauser, James E. Vath	De Novo peptide sequencing via tandem mass spectrometry: a graph-theoretical approach	135–144	10.1145/299432.299471	NONE		NONE	NA	NA	NA	NA	NA
+Alan A. Dombkowski, Gordon M. Crippen	A solvation potential with improved contact definitions and optimized by extensive threading	145–153	10.1145/299432.299474	NONE		NONE	NA	NA	NA	NA	NA
+Nadia El-Mabrouk, David Bryant, David Sankoff	Reconstructing the pre-doubling genome	154–163	10.1145/299432.299475	NONE		NONE	NA	NA	NA	NA	NA
+Aris Floratos, Isidore Rigoutsos, Laxmi Parida, Gustova Stolovitzky, Yuan Gao	Sequence homology detection through large scale pattern discovery	164–173	10.1145/299432.299477	NONE		NONE	NA	NA	NA	NA	NA
+Christian V. Forst, Klaus Schulten	Evolution of metabolisms: a new method for the comparison of metabolic pathways	174–181	10.1145/299432.299481	NONE		Journal of Computational Biology	Evolution of Metabolisms: A New Method for the Comparison of Metabolic Pathways Using Genomics Information	Christian V. Forst, Klaus Schulten	6(3-4): 343-360	1999	10.1089/106652799318319
+G. R. Grant, R. S. Spielman, E. Manduchi, V. G. Cheung, W. J. Ewens	Significance testing for genomic mismatch scanning	182–187	10.1145/299432.299482	NONE		NONE	NA	NA	NA	NA	NA
+Erez Hartuv, Armin Schmitt, Jörg Lange, Sebastian Meier-Ewert, Hans Lehrach, Ron Shamir	An algorithm for clustering cDNAs for gene expression analysis	188–197	10.1145/299432.299483	NONE		NONE	NA	NA	NA	NA	NA
+Daniel H. Huson, Scott Nettles, Tandy J. Warnow	Obtaining highly accurate topology estimates of evolutionary trees from very short sequences	198–207	10.1145/299432.299484	NONE		NONE	NA	NA	NA	NA	NA
+Richard M. Karp, Roland Stoughton, Ka Yee Yeung	Algorithms for choosing differential gene expression experiments	208–217	10.1145/299432.299485	NONE		NONE	NA	NA	NA	NA	NA
+Lawrence A. Kelley, Robert M. MacCallum, Michael J. E. Sternberg	Recognition of remote protein homologies using three-dimensional information to generate a position specific scoring matrix in the program 3D-PSSM	218–225	10.1145/299432.299486	NONE		NONE	NA	NA	NA	NA	NA
+Jon M. Kleinberg	Efficient algorithms for protein sequence design and the analysis of certain evolutionary fitness landscapes	226–237	10.1145/299432.299487	NONE		Journal of Computational Biology	Efficient Algorithms for Protein Sequence Design and the Analysis of Certain Evolutionary Fitness Landscapes	Jon Kleinberg	6(3-4): 387-404	1999	10.1089/106652799318346
+Richard H. Lathrop	An anytime algorithm for gapped block protein threading with pair interactions	238–249	10.1145/299432.299488	NONE		NONE	NA	NA	NA	NA	NA
+Steven M. LaValle, Paul W. Finn, Lydia E. Kavraki, Jeal-Claude Latombe	Efficient database screening for rational drug design using pharmacophore-constrained conformational search	250–260	10.1145/299432.299489	NONE		NONE	NA	NA	NA	NA	NA
+Rune B. Lyngsø, Michael Zuker, Christian N. S. Pedersen	Internal loops in RNA secondary structure prediction	260–267	10.1145/299432.299490	NONE		Bioinformatics	Fast evaluation of internal loops in RNA secondary structure prediction.	R B Lyngsø, Michael Zuker, Clara Nautrup Pedersen	15(6): 440-445	1999	10.1093/bioinformatics/15.6.440
+Guy Mayraz, Ron Shamir	Construction of physical maps from oligonucleotide fingerprints data	268–277	10.1145/299432.299497	NONE		Journal of Computational Biology	Construction of Physical Maps from Oligonucleotide Fingerprints Data	Guy Mayraz, Ron Shamir	6(2): 237-252	1999	10.1089/cmb.1999.6.237
+Julie C. Mitchell, J. Ben Rosen, Andrew T. Phillips, Lynn F. Ten Eyck	Coupled optimization in protein docking	280–284	10.1145/299432.299502	NONE		NONE					
+Lior Pachter, Serafim Batzoglou, Valentin I. Spitkovsky, William S. Beebee, Eric S. Lander, Bonnie Berger, Daniel J. Kleitman	A dictionary based approach for gene annotation	285–294	10.1145/299432.299504	NONE		Journal of Computational Biology	A Dictionary-Based Approach for Gene Annotation	Lior Pachter, Serafim Batzoglou, Valentin I. Spitkovsky, Eric Banks, Eric S. Lander, Daniel J. Kleitman, Bonnie Berger	6(3-4): 419-430	1999	10.1089/106652799318364
+Franco P. Preparata, Alan M. Frieze, Eli Upfal	On the power of universal bases in sequencing by hybridization	295–301	10.1145/299432.299505	NONE		NONE	NA	NA	NA	NA	NA
+David Sankoff, Mathieu Blanchette	Probability models for genome rearrangement and linear invariants for phylogenetic inference	302–309	10.1145/299432.299506	NONE		NONE	NA	NA	NA	NA	NA
+Maxim Totrov, Ruben Abagyan	Derivation of sensitive discrimination potential for virtual ligand screening	312–320	10.1145/299432.299509	NONE		NONE	NA	NA	NA	NA	NA
+Martin J. Bayley, Valerie J. Gillet, Peter Willett, John Bradshaw, Darren V. S. Green	Computational analysis of molecular diversity for drug discovery	321–330	10.1145/299432.299510	NONE		NONE	NA	NA	NA	NA	NA
