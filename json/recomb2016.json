@@ -351,7 +351,13 @@
       "proceedings_pages": "258-258",
       "proceedings_doi": "10.1007/978-3-319-31957-5",
       "preprint_id": "arXiv:1604.03071",
-      "preprint_doi": "10.48550/arXiv.1604.03071"
+      "preprint_doi": "10.48550/arXiv.1604.03071",
+      "journal": "Genome Research",
+      "journal_title": "metaSPAdes: a new versatile metagenomic assembler",
+      "journal_authors": "Sergey Nurk, Dmitry Meleshko, Anton Korobeynikov, Pavel A Pevzner",
+      "journal_issue_pages": "27(5) 824-834",
+      "journal_year": "2017",
+      "journal_doi": "10.1101/gr.213959.116"
     },
     {
       "author": "Shashank Singh, Sabrina Rashid, Saket Navlakha, Ziv Bar-Joseph",

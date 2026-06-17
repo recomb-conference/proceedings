@@ -139,7 +139,13 @@
       "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2008. Lecture Notes in Computer Science, vol 4955, pp 181-195, Springer, Cham.",
       "proceedings_volume": "4955",
       "proceedings_pages": "181-195",
-      "proceedings_doi": "10.1007/978-3-540-78839-3_16"
+      "proceedings_doi": "10.1007/978-3-540-78839-3_16",
+      "journal": "Nature Methods",
+      "journal_title": "Dereplication and de novo sequencing of nonribosomal peptides",
+      "journal_authors": "Julio Ng, Nuno Bandeira, Wei-Ting Liu, Majid Ghassemian, Thomas L Simmons, William H Gerwick, Roger Linington, Pieter C Dorrestein, Pavel A Pevzner",
+      "journal_issue_pages": "6(8): 596-599",
+      "journal_year": "2009",
+      "journal_doi": "10.1038/nmeth.1350"
     },
     {
       "author": "Mustafa Kirac and Gultekin Ozsoyoglu",

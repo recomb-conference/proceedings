@@ -292,7 +292,13 @@
       "title": "Transforming men into mice: the Nadeau-Taylor chromosomal breakage model revisited",
       "proceedings_name": "Research in Computational Molecular Biology. RECOMB 2003, pp 247–256. Association for Computing Machinery, New York, NY, USA.",
       "proceedings_pages": "247–256",
-      "proceedings_doi": "10.1145/640075.640108"
+      "proceedings_doi": "10.1145/640075.640108",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "journal_title": "Human and mouse genomic sequences reveal extensive breakpoint reuse in mammalian evolution",
+      "journal_authors": "Pavel Pevzner, Glenn Tesler",
+      "journal_issue_pages": "100 (13) 7662-7667",
+      "journal_year": "2003",
+      "journal_doi": "10.1073/pnas.1330369100"
     },
     {
       "author": "Krishna M. Roskin, Mark Diekhans, David Haussler",
