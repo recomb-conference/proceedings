@@ -251,7 +251,13 @@
       "proceedings_pages": "314-319",
       "proceedings_doi": "10.1007/978-1-0716-3989-4_20",
       "preprint_id": "bioRxiv 2023.11.09.566403",
-      "preprint_doi": "10.1101/2023.11.09.566403"
+      "preprint_doi": "10.1101/2023.11.09.566403",
+      "journal": "Cell Systems",
+      "journal_title": "GFETM: Genome foundation-based embedded topic model for scATAC-seq modeling",
+      "journal_authors": "Yimin Fan, Adrien Osakwe, Shi Han, Yu Li, Jun Ding, Yue Li",
+      "journal_issue_pages": "17(5): 101563",
+      "journal_year": "2026",
+      "journal_doi": "10.1016/j.cels.2026.101563"
     },
     {
       "author": "Jianyu Yang, Kuangyu Yen, Shaun Mahony",
