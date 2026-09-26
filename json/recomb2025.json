@@ -554,12 +554,12 @@
       "proceedings_doi": "10.1007/978-3-031-90252-9_44",
       "preprint_id": "bioRxiv 2024.10.30.621093",
       "preprint_doi": "10.1101/2024.10.30.621093",
-      "journal": "Journal of Computational Biology",
-      "journal_title": "mcRigor: A Statistical Software Package for Evaluating and Optimizing Metacell Partitioning in Single-Cell Data Analysis",
+      "journal": "Nature Communications",
+      "journal_title": "mcRigor: a statistical method to enhance the rigor of metacell partitioning in single-cell data analysis",
       "journal_authors": "Pan Liu and Jingyi Jessica Li",
-      "journal_issue_pages": "33(1): 43-47",
-      "journal_year": "2026",
-      "journal_doi": "10.1177/15578666251383561"
+      "journal_issue_pages": "16:8602",
+      "journal_year": "2025",
+      "journal_doi": "10.1038/s41467-025-63626-5"
     },
     {
       "author": "Sandeep Kambhampati, Luca D'Alessio, Fedor Grab, Stephen Fleming, Fei Chen, Mehrtash Babadi",
@@ -611,7 +611,12 @@
       "proceedings_pages": "400-404",
       "proceedings_doi": "10.1007/978-3-031-90252-9_48",
       "preprint_id": "bioRxiv 2023.07.21.550107",
-      "preprint_doi": "10.1101/2023.07.21.550107"
+      "preprint_doi": "10.1101/2023.07.21.550107",
+      "journal": "Journal of Computational Biology",
+      "journal_title": "ClusterDE: A statistical software package for removing double-dipping bias in post-clustering differential expression analysis",
+      "journal_authors": "Christy Lee, Dongyuan Song, Siqi Chen, and Jingyi Jessica Li",
+      "journal_issue_pages": "33(1):36-42",
+      "journal_year": "2026"
     },
     {
       "author": "Ghanshyam Chandra, Md Helal Hossen, Stephan Scholz, Alexander T. Dilthey, Daniel Gibney, Chirag Jain",
