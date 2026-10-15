@@ -11,7 +11,13 @@
       "author": "Junyan Dai, Yunheng Han, Erin Molloy",
       "title": "Quartet-based species tree methods enable fast and consistent tree of blobs reconstruction under the network multispecies coalescent",
       "preprint_id": "bioRxiv 2025.11.05.686850",
-      "preprint_doi": "10.1101/2025.11.05.686850"
+      "preprint_doi": "10.1101/2025.11.05.686850",
+      "journal": "Genome Research",
+      "journal_title": "Quartet-based species tree methods enable fast and consistent tree of blobs reconstruction under the network multispecies coalescent",
+      "journal_authors": "Junyan Dai, Yunheng Han, Erin Molloy",
+      "journal_issue_pages": "published online",
+      "journal_year": "2026",
+      "journal_doi": "https://doi.org/10.1101/gr.282203.126"
     },
     {
       "author": "Francisco Sena and Alexandru I. Tomescu",
@@ -29,13 +35,25 @@
       "author": "Molly Borowiak and Yun William Yu",
       "title": "KuPID: Kmer-based Upstream Preprocessing of Long Reads for Isoform Discovery",
       "preprint_id": "bioRxiv 2025.12.05.692400",
-      "preprint_doi": "10.64898/2025.12.05.692400"
+      "preprint_doi": "10.64898/2025.12.05.692400",
+      "journal": "Genome Research",
+      "journal_title": "k-mer-based Upstream Preprocessing of long reads for Isoform Discovery",
+      "journal_authors": "Molly Borowiak and Yun William Yu",
+      "journal_issue_pages": "published online",
+      "journal_year": "2026",
+      "journal_doi": "https://doi.org/10.1101/gr.282250.126"
     },
     {
       "author": "Kirill Nikitin and Gamze Gursoy",
       "title": "Private Information Leakage from Polygenic Risk Scores",
       "preprint_id": "bioRxiv 2026.02.16.706191",
-      "preprint_doi": "10.64898/2026.02.16.706191"
+      "preprint_doi": "10.64898/2026.02.16.706191",
+      "journal": "Genome Research",
+      "journal_title": "Private information leakage from polygenic risk scores",
+      "journal_authors": "Kirill Nikitin and Gamze Gursoy",
+      "journal_issue_pages": "published online",
+      "journal_year": "2026",
+      "journal_doi": "https://doi.org/10.1101/gr.282202.126"
     },
     {
       "author": "Jacob Blindenbach, Shaunak Soni, Gamze Gursoy",
@@ -65,7 +83,13 @@
       "author": "Anik Saha and Md Shamsuzzoha Bayzid",
       "title": "STELAR-X: Scaling Coalescent-Based Species Tree Inference to 100,000 Species and Beyond",
       "preprint_id": "bioRxiv 2025.11.22.689894",
-      "preprint_doi": "10.1101/2025.11.22.689894"
+      "preprint_doi": "10.1101/2025.11.22.689894",
+      "journal": "Genome Research",
+      "journal_title": "Scaling coalescent-based species tree inference to 100,000 taxa with STELAR-X",
+      "journal_authors": "Anik Saha and Md Shamsuzzoha Bayzid",
+      "journal_issue_pages": "published online",
+      "journal_year": "2026",
+      "journal_doi": "https://doi.org/10.1101/gr.282257.126"
     },
     {
       "author": "Md Zarzees Uddin Shah Chowdhury, T. M. Murali, Palash Sashittal",
@@ -113,13 +137,25 @@
       "author": "Pengyu Sun, Xinlei Huang, Tian Mou, Xubin Zheng",
       "title": "Achieving spatial multi-omics integration from unaligned serial sections with DIME",
       "preprint_id": "bioRxiv 2026.02.25.707961",
-      "preprint_doi": "10.64898/2026.02.25.707961"
+      "preprint_doi": "10.64898/2026.02.25.707961",
+      "journal": "Genome Research",
+      "journal_title": "Achieving spatial multiomics diagonal integration from unaligned serial sections with DIME",
+      "journal_authors": "Pengyu Sun, Tian Mou, Xinlei Huang, Xubin Zheng",
+      "journal_issue_pages": "published online",
+      "journal_year": "2026",
+      "journal_doi": "https://doi.org/10.1101/gr.282244.126"
     },
     {
       "author": "Xinming Tu, Alexander Sasse, Kaitavjeet Chowdhary, Anna E. Spiro, Liang Yang, Maria Chikina, Christophe O. Benoist, Sara Mostafavi",
       "title": "Deep genomic models of allele-specific measurements",
       "preprint_id": "bioRxiv 2025.04.09.648060",
-      "preprint_doi": "10.1101/2025.04.09.648060"
+      "preprint_doi": "10.1101/2025.04.09.648060",
+      "journal": "Genome Research",
+      "journal_title": "Deep genomic models of allele-specific measurements",
+      "journal_authors": "Xinming Tu, Alexander Sasse, Kaitavjeet Chowdhary, Anna E. Spiro, Liang Yang, Maria Chikina, Christophe O. Benoist, Sara Mostafavi",
+      "journal_issue_pages": "published online",
+      "journal_year": "2026",
+      "journal_doi": "https://doi.org/10.1101/gr.282189.126"
     },
     {
       "author": "Leonard Bohnenkämper, Luca Parmigiani, Cedric Chauve, Jens Stoye",
@@ -173,7 +209,13 @@
       "author": "Minh Hoang, Isabel Armour-Garb, Mona Singh",
       "title": "Fast, accurate construction of multiple sequence alignments from protein language embeddings",
       "preprint_id": "bioRxiv 2026.01.02.697423",
-      "preprint_doi": "10.64898/2026.01.02.697423"
+      "preprint_doi": "10.64898/2026.01.02.697423",
+      "journal": "Genome Research",
+      "journal_title": "Fast and accurate construction of multiple sequence alignments from protein language embeddings with ARIES",
+      "journal_authors": "Minh Hoang, Isabel Armour-Garb, Mona Singh",
+      "journal_issue_pages": "published online",
+      "journal_year": "2026",
+      "journal_doi": "https://doi.org/10.1101/gr.282254.126"
     },
     {
       "author": "Ardalan Naseri, Ahsan Sanaullah, Shaojie Zhang, Degui Zhi",
@@ -275,7 +317,13 @@
       "author": "Zhengtong Liu, Arush Ramteke, Aakarsh Anand, Aditya Gorla, Moonseong Jeong, Sriram Sankararaman",
       "title": "A biobank-scale method for learning environmental modulators of gene–environment interaction underlying complex traits",
       "preprint_id": "bioRxiv 2026.03.13.711725",
-      "preprint_doi": "10.64898/2026.03.13.711725"
+      "preprint_doi": "10.64898/2026.03.13.711725",
+      "journal": "Genome Research",
+      "journal_title": "A biobank-scale method for learning modulators of gene-environment interaction underlying human complex traits from multiple environmental exposures",
+      "journal_authors": "Zhengtong Liu, Arush Ramteke, Aakarsh Anand, Aditya Gorla, Moonseong Jeong, Sriram Sankararaman",
+      "journal_issue_pages": "published online",
+      "journal_year": "2026",
+      "journal_doi": "https://doi.org/10.1101/gr.282105.126"
     },
     {
       "author": "Xinhai Pan, Yiru Chen, Xiuwei Zhang",
@@ -323,7 +371,13 @@
       "author": "Jens Zentgraf, Johanna Schmitz, Andreas Keller, Sven Rahmann",
       "title": "Error Correction Algorithms for Efficient Gene Quantification in Single Cell Transcriptomics",
       "preprint_id": "bioRxiv 2025.11.27.690682",
-      "preprint_doi": "10.1101/2025.11.27.690682"
+      "preprint_doi": "10.1101/2025.11.27.690682",
+      "journal": "Genome Research",
+      "journal_title": "Error correction algorithms for efficient gene expression quantification in single cell transcriptomics with Arcane",
+      "journal_authors": "Jens Zentgraf, Johanna Elena Schmitz, Andreas Keller, Sven Rahmann",
+      "journal_issue_pages": "published online",
+      "journal_year": "2026",
+      "journal_doi": "https://doi.org/10.1101/gr.282251.126"
     },
     {
       "author": "Wenjun Zhao, Elana Fertig, Genevieve Stein-O'Brien",
